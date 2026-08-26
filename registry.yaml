@@ -2,6 +2,6 @@ universe: content-production
 registry_repo: true
 registry_role: public_scoped
 canonical_registry_repo: zinan92/park-operating-system
-canonical_snapshot: github-universe-2026-08-26
-generated_from_checksum: 76ea409b99523b3b5a289cfa07290a8e73d9c13cb9b311ff652395858d379ad1
-export_checksum: 058176477504ba669cf105206367d46a52016a907c1cff721612971cda2c8e43
+canonical_snapshot: github-universe-2026-08-26-review-01
+generated_from_checksum: 0aade4a0fd73c7283739914f8e1ae0629ba7417296106fb1dcbb346964f24a55
+export_checksum: 0dde20625acbe006663d74a967a7c98cbcb9d2b1676b7ef568e9833641e9b4a2
