@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-26
+snapshot_id: github-universe-2026-08-26-review-01
 entries:
 - universe: content-production
   repo: zinan92/AI-videos
@@ -25,33 +25,8 @@ entries:
     archived: false
     description: AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志
     license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-03-29T08:43:15Z'
-- universe: content-production
-  repo: zinan92/MediaCrawler
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: acquisition-extraction
-  tags:
-  - python
-  source_url: https://github.com/zinan92/MediaCrawler
-  visibility: public
-  archived: false
-  description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-    license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
-    pushed_at: '2026-03-22T13:20:14Z'
 - universe: content-production
   repo: zinan92/autocut
   owned: true
@@ -78,39 +53,8 @@ entries:
     archived: false
     description: Transcript-first video assembly workbench for Remotion workflows.
     license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-06-20T04:34:40Z'
-- universe: content-production
-  repo: zinan92/cc-control-tower
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - api
-  - private
-  - typescript
-  - video
-  - workflow
-  source_url: https://github.com/zinan92/cc-control-tower
-  visibility: private
-  archived: false
-  description: 内容生产 pipeline DAG 监控面板。in pipeline-steps.yaml + output dir → out DAG canvas + SSE status stream + execute/retry/skip
-    API
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: private
-    archived: false
-    description: 内容生产 pipeline DAG 监控面板。in pipeline-steps.yaml + output dir → out DAG canvas + SSE status stream + execute/retry/skip
-      API
-    license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
-    pushed_at: '2026-03-29T08:43:26Z'
 - universe: content-production
   repo: zinan92/content-downloader
   owned: true
@@ -118,7 +62,7 @@ entries:
   source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: publishing-distribution
+  primary_category: acquisition-extraction
   tags:
   - browser
   - python
@@ -135,7 +79,7 @@ entries:
     archived: false
     description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
     license_spdx: MIT
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-04-10T04:56:17Z'
 - universe: content-production
   repo: zinan92/content-extractor
@@ -162,61 +106,8 @@ entries:
     archived: false
     description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
     license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-04-10T04:56:28Z'
-- universe: content-production
-  repo: zinan92/content-intelligence
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: discovery-intelligence
-  tags:
-  - python
-  source_url: https://github.com/zinan92/content-intelligence
-  visibility: public
-  archived: false
-  description: 社交媒体内容洞察引擎。in 小红书/抖音采集数据 → out 趋势检测 + 爆款归因 + 模式识别 + 选题建议
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 社交媒体内容洞察引擎。in 小红书/抖音采集数据 → out 趋势检测 + 爆款归因 + 模式识别 + 选题建议
-    license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
-    pushed_at: '2026-03-29T08:43:02Z'
-- universe: content-production
-  repo: zinan92/content-ops
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: discovery-intelligence
-  tags:
-  - private
-  - product
-  - python
-  - workflow
-  source_url: https://github.com/zinan92/content-ops
-  visibility: private
-  archived: false
-  description: Park-IO content ops workbench, SOPs, and local production workflows
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: codex/workbench-p0-response-contract
-    visibility: private
-    archived: false
-    description: Park-IO content ops workbench, SOPs, and local production workflows
-    license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
-    pushed_at: '2026-05-29T12:34:38Z'
 - universe: content-production
   repo: zinan92/content-rewriter
   owned: true
@@ -240,7 +131,7 @@ entries:
     archived: false
     description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
     license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-04-01T04:51:21Z'
 - universe: content-production
   repo: zinan92/daily-newsletter
@@ -268,7 +159,7 @@ entries:
     description: 'Local-first Daily Inbox pipeline: fetch source feeds, run AI selection/writing, finalize Markdown/HTML/PNG,
       track source health, and send Feishu receipts.'
     license_spdx: MIT
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-08-26T02:18:37Z'
 - universe: content-production
   repo: zinan92/douyin-downloader
@@ -293,7 +184,7 @@ entries:
     archived: false
     description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
     license_spdx: MIT
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-03-29T08:43:43Z'
 - universe: content-production
   repo: zinan92/douyin-downloader-1
@@ -318,32 +209,8 @@ entries:
     archived: false
     description: 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要
     license_spdx: MIT
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-03-29T08:43:27Z'
-- universe: content-production
-  repo: zinan92/seedance-expert
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: discovery-intelligence
-  tags: []
-  source_url: https://github.com/zinan92/seedance-expert
-  visibility: public
-  archived: false
-  description: 将视频创意转化为 Seedance 2.0 可执行的多模态 prompt。in 自然语言 + 素材清单 → out 素材诊断 + 图片 prompt + 视频 prompt + 执行步骤
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 将视频创意转化为 Seedance 2.0 可执行的多模态 prompt。in 自然语言 + 素材清单 → out 素材诊断 + 图片 prompt + 视频 prompt + 执行步骤
-    license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
-    pushed_at: '2026-03-29T08:43:39Z'
 - universe: content-production
   repo: zinan92/videocut
   owned: true
@@ -368,7 +235,7 @@ entries:
     archived: false
     description: AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速
     license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-06-17T10:25:55Z'
 - universe: content-production
   repo: zinan92/xiaohongshu-downloader
@@ -394,5 +261,5 @@ entries:
     archived: false
     description: 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告
     license_spdx: NOASSERTION
-    checked_at: '2026-08-26'
+    checked_at: 2026-08-26-review-01
     pushed_at: '2026-03-20T09:18:20Z'
