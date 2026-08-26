@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-26-review-02
+snapshot_id: github-universe-2026-08-26-review-03
 entries:
 - universe: content-production
   repo: cooderl/wewe-rss
@@ -24,12 +24,12 @@ entries:
     archived: true
     description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
     license_spdx: MIT
-    checked_at: 2026-08-26-review-02
+    checked_at: 2026-08-26-review-03
     pushed_at: '2026-03-20T00:22:37Z'
   content_lock:
     locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
     locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_at: 2026-08-26-review-02
+    locked_at: 2026-08-26-review-03
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -58,11 +58,11 @@ entries:
     description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
       An alternative to Screen Studio.
     license_spdx: MIT
-    checked_at: 2026-08-26-review-02
+    checked_at: 2026-08-26-review-03
     pushed_at: '2026-06-17T02:34:20Z'
   content_lock:
     locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
     locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
-    locked_at: 2026-08-26-review-02
+    locked_at: 2026-08-26-review-03
     update_policy: monthly_pr
     vendored: false
