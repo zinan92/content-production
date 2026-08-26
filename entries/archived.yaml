@@ -1,0 +1,147 @@
+snapshot_id: github-universe-2026-08-26
+entries:
+- universe: content-production
+  repo: cooderl/wewe-rss
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-distribution
+  tags:
+  - archived
+  - typescript
+  source_url: https://github.com/cooderl/wewe-rss
+  visibility: public
+  archived: true
+  description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-03-20T00:22:37Z'
+  content_lock:
+    locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: siddharthvaddem/openscreen
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - archived
+  - typescript
+  source_url: https://github.com/siddharthvaddem/openscreen
+  visibility: public
+  archived: true
+  description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
+    An alternative to Screen Studio.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
+      An alternative to Screen Studio.
+    license_spdx: MIT
+    checked_at: '2026-08-26'
+    pushed_at: '2026-06-17T02:34:20Z'
+  content_lock:
+    locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
+    locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
+    locked_at: '2026-08-26'
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: zinan92/content-toolkit
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: full-content-systems
+  tags:
+  - archived
+  - javascript
+  source_url: https://github.com/zinan92/content-toolkit
+  visibility: public
+  archived: true
+  description: AI 内容生产工具箱。in URL/视频/文章 → out 下载/转录/改写/剪辑。一个 CLI，所有能力按需安装
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: AI 内容生产工具箱。in URL/视频/文章 → out 下载/转录/改写/剪辑。一个 CLI，所有能力按需安装
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-04-07T03:59:59Z'
+- universe: content-production
+  repo: zinan92/content-workbench
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: full-content-systems
+  tags:
+  - archived
+  - product
+  - typescript
+  source_url: https://github.com/zinan92/content-workbench
+  visibility: public
+  archived: true
+  description: 抖音内容跨平台分发工作台 — 发现、筛选、下载转录、逐平台编辑草稿
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 抖音内容跨平台分发工作台 — 发现、筛选、下载转录、逐平台编辑草稿
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-04-01T11:56:48Z'
+- universe: content-production
+  repo: zinan92/intelligence
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: discovery-intelligence
+  tags:
+  - archived
+  - python
+  source_url: https://github.com/zinan92/intelligence
+  visibility: public
+  archived: true
+  description: 社交内容趋势研究引擎。in JSONL (小红书/抖音) → out 结构化趋势信号 + 方向聚类 + 决策报告 + 交互看板
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 社交内容趋势研究引擎。in JSONL (小红书/抖音) → out 结构化趋势信号 + 方向聚类 + 决策报告 + 交互看板
+    license_spdx: NOASSERTION
+    checked_at: '2026-08-26'
+    pushed_at: '2026-03-29T08:43:36Z'
