@@ -4,7 +4,7 @@
 
 **Content Production 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-81%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-86%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 81-repo Content Production map, grouped by function and owned/starred source
+out 86-repo Content Production map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-27-agent-park-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -39,7 +39,7 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M | Starred | `dfb907a02bba` |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Starred | `f5a1c6a6b901` |
 
-### Video Production (26)
+### Video Production (27)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -62,6 +62,7 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 | [pyang5166/gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 \| Editorial halftone paper-collage B-roll agent skill | Starred | `a1a4ee2e2abf` |
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | Agent Skills | Starred | `7c5c10caa529` |
 | [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) | Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance. | Starred | `9f1239c4d365` |
+| [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) | A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects. | Starred | `030bd1c710f9` |
 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | Starred | `f57e36e25448` · ARCHIVED |
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template | Starred | `d9ffa6d30c22` |
 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | Create polished demo videos without editing skills. Mac/Windows/Linux | Starred | `12146e948fa3` |
@@ -87,16 +88,18 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | Starred | `a8d8ff717c5a` |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create beautiful slides on the web using a coding agent's frontend skills | Starred | `9906a34d640d` |
 
-### Content Acquisition (Download & Fetching) (22)
+### Content Acquisition (Download & Fetching) (24)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
 | [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) | 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书） | Starred | `e751c6429408` · ARCHIVED |
+| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | Starred | `5108d021a173` |
 | [Infatoshi/x-cli](https://github.com/Infatoshi/x-cli) | CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal | Starred | `a82175522aa6` |
 | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do! | Starred | `72d79711ec4d` |
 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。 | Starred | `99bb559a4cad` |
 | [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具 | Starred | `e9e032242c18` |
 | [justoneapi/data-api](https://github.com/justoneapi/data-api) | Just One API - 数据接口服务: 接口,小红书,Xiaohongshu,RedNote,淘宝,天猫,Taobao,Tmall,抖音,Douyin,抖音电商,Douyin E-commerce,TikTok,TikTok Shop,快手,Kuaishou,微博,Sina Weibo,哔哩哔哩,bilibili,豆瓣,小红书蒲公英,抖音星图,巨量星图,微信公众号,WeChat,优酷,贝壳,IMDb,京东,美团,大众点评,携程,今日头条,Toutiao,知乎,Zhihu,亚马逊,Amazon,Facebook,Twitter,Temu,Reddit,Shopee,拼多多,YouTube,Instagram,谷歌搜索API,Google Search API,SERP API | Starred | `24444070447b` |
+| [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills） | Starred | `f751bf9ff9f8` |
 | [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar) | 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources. | Starred | `1bc8addcd809` |
 | [lucasygu/redbook](https://github.com/lucasygu/redbook) | 小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents. | Starred | `1435483c64d8` |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  \| 知乎问答文章｜评论爬虫 | Starred | `d6f7c5bb906b` |
@@ -114,7 +117,7 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 | [zinan92/douyin-downloader-1](https://github.com/zinan92/douyin-downloader-1) | 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要 | Owned | owned source |
 | [zinan92/xiaohongshu-downloader](https://github.com/zinan92/xiaohongshu-downloader) | 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告 | Owned | owned source · PRIVATE |
 
-### Text Processing (7)
+### Text Processing (8)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -122,17 +125,19 @@ Snapshot: `github-universe-2026-08-27-product-park-review-01` · canonical sourc
 | [Icy-Cat/x-viral-monitor](https://github.com/Icy-Cat/x-viral-monitor) | Chrome extension: real-time impression velocity badges on X (Twitter) tweets | Starred | `dedc51f06fa0` |
 | [imraywang/wewrite](https://github.com/imraywang/wewrite) | 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道 | Starred | `b9c6afc78101` |
 | [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML. | Starred | `ba1f4175519b` |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 数字生命卡兹克开源的 AI Skills 合集 \| Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents | Starred | `7a5c4934be41` |
 | [nashsu/Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill) | 基于 11 个内容洞见维度的自媒体创作 Skill，适用于各种智能体  给它一个主题，它给你一篇完整的文章、5 个备选标题、以及每张配图的生成 prompt。 | Starred | `1c76f891fb92` |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 | Starred | `91f3d394db84` |
 | [zinan92/content-rewriter](https://github.com/zinan92/content-rewriter) | 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿 | Owned | owned source |
 
-### Publishing & Growth (11)
+### Publishing & Growth (12)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 微信公众号 AI 运营助手 \| 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex | Starred | `9f93c873ce4f` |
 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill | Starred | `f913c720135e` |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | Starred | `becd60ee9df0` |
+| [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | dontbesilent 的商业诊断 Skills | Starred | `0393f4b178bd` |
 | [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | Starred | `1c66b7db4b30` |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 | Starred | `b3f5de0abd76` |
 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and data scraping | Starred | `252343208564` |
