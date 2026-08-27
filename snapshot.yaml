@@ -1,7 +1,7 @@
 universe: content-production
-snapshot_id: github-universe-2026-08-27-content-review-01
+snapshot_id: github-universe-2026-08-27-product-park-review-01
 generated_from: zinan92/park-operating-system
-generated_from_checksum: 717878249f70f990cc4c5abba5f5fc2957fa253ad19a76208ca4ab7891e0bbe1
+generated_from_checksum: 1e9b753d0fdfdd43fbc9297acdb7a06ccbdc06894f23502b38dc6d3bb7193c99
 entries:
 - universe: content-production
   repo: ATH-MaaS/Pixelle-Video
@@ -27,12 +27,12 @@ entries:
     archived: false
     description: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-14T12:40:58Z'
   content_lock:
     locked_ref: 848b054e4fae40dabc62ec58e960b573e83793ac
     locked_url: https://github.com/ATH-MaaS/Pixelle-Video/commit/848b054e4fae40dabc62ec58e960b573e83793ac
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -60,12 +60,12 @@ entries:
     archived: false
     description: 用 Claude Code Skills 做的视频剪辑 Agent
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-21T17:33:16Z'
   content_lock:
     locked_ref: 2e51611965af6e6b8baea3bfc82995b5c9e8f5ef
     locked_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills/commit/2e51611965af6e6b8baea3bfc82995b5c9e8f5ef
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -97,12 +97,12 @@ entries:
     description: A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework,
       providing efficient speech analysis on Apple Silicon.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T18:40:08Z'
   content_lock:
     locked_ref: ebf44dfcdcf28cac2993445e46e7c72a9eca7421
     locked_url: https://github.com/Blaizzy/mlx-audio/commit/ebf44dfcdcf28cac2993445e46e7c72a9eca7421
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -131,12 +131,12 @@ entries:
     archived: false
     description: GPT-Image-2 API and Prompts
     license_spdx: CC0-1.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-18T06:23:28Z'
   content_lock:
     locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
     locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -162,12 +162,12 @@ entries:
     archived: false
     description: AI影视创作策划评估工作流|剧本创作 Agent 平台是一个基于 AI 的专业影视创作辅助系统，整合了 20+ 个专业 Agents，覆盖从策划、创作到评估的全流程。短剧创作|策划|评估Agent,故事大纲生成｜详细情节点｜剧本｜故事质量ip评估｜已播剧情分析｜故事五元素分析｜情节点工作流｜人物小传｜人物关系｜思维导图｜
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-03T12:42:50Z'
   content_lock:
     locked_ref: a9acca62e990cc6c8f44ad4a852958577eb21cb4
     locked_url: https://github.com/GongLingRui/juben/commit/a9acca62e990cc6c8f44ad4a852958577eb21cb4
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -194,12 +194,12 @@ entries:
     archived: false
     description: '"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"'
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-29T08:56:47Z'
   content_lock:
     locked_ref: 05a48943878312d88fe5a016c12a9654940ecc43
     locked_url: https://github.com/HKUDS/ViMax/commit/05a48943878312d88fe5a016c12a9654940ecc43
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -226,12 +226,12 @@ entries:
     archived: false
     description: 'Chrome extension: real-time impression velocity badges on X (Twitter) tweets'
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-10T23:57:27Z'
   content_lock:
     locked_ref: dedc51f06fa0a36938a44c7fd153862b8c58b9a8
     locked_url: https://github.com/Icy-Cat/x-viral-monitor/commit/dedc51f06fa0a36938a44c7fd153862b8c58b9a8
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -259,12 +259,12 @@ entries:
     archived: false
     description: CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-07T04:36:23Z'
   content_lock:
     locked_ref: a82175522aa670ba396461e814468d57a14a457e
     locked_url: https://github.com/Infatoshi/x-cli/commit/a82175522aa670ba396461e814468d57a14a457e
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -290,12 +290,12 @@ entries:
     archived: false
     description: 开箱即用的自媒体 AI 工作台｜小红书版OpenClaw、小红书AI工作台，AI写作+图片，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T15:42:44Z'
   content_lock:
     locked_ref: e8cbd6a6639b3485ea7606ec041cdfa0f48f435b
     locked_url: https://github.com/Jamailar/Beav/commit/e8cbd6a6639b3485ea7606ec041cdfa0f48f435b
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -322,12 +322,12 @@ entries:
     archived: false
     description: ''
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-04T16:25:18Z'
   content_lock:
     locked_ref: 6b7a2e417500561a5ecdd0b168332f4142584617
     locked_url: https://github.com/JimLiu/baoyu-skills/commit/6b7a2e417500561a5ecdd0b168332f4142584617
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -354,12 +354,12 @@ entries:
     archived: false
     description: ''
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-16T11:03:38Z'
   content_lock:
     locked_ref: a20258b8eb38eb370cf3402fb4414754b4c44c2a
     locked_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production/commit/a20258b8eb38eb370cf3402fb4414754b4c44c2a
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -385,12 +385,12 @@ entries:
     archived: false
     description: 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
     license_spdx: GPL-3.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-22T10:56:52Z'
   content_lock:
     locked_ref: e9e032242c1894357b1c76a08c07aefd08d79c91
     locked_url: https://github.com/JoeanAmier/XHS-Downloader/commit/e9e032242c1894357b1c76a08c07aefd08d79c91
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -417,12 +417,12 @@ entries:
     archived: false
     description: 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-27T00:02:53Z'
   content_lock:
     locked_ref: 1bc8addcd809e56e6c529ab50cef387531cef80b
     locked_url: https://github.com/LearnPrompt/ai-news-radar/commit/1bc8addcd809e56e6c529ab50cef387531cef80b
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -448,12 +448,12 @@ entries:
     archived: false
     description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-14T08:19:00Z'
   content_lock:
     locked_ref: d6f7c5bb906b6dac40ddf343ef9e26438a3de092
     locked_url: https://github.com/NanmiCoder/MediaCrawler/commit/d6f7c5bb906b6dac40ddf343ef9e26438a3de092
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -482,12 +482,12 @@ entries:
     description: 'VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life
       Cloning'
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T02:42:07Z'
   content_lock:
     locked_ref: f5a1c6a6b901bc732e20f0d59a369f6829ad717a
     locked_url: https://github.com/OpenBMB/VoxCPM/commit/f5a1c6a6b901bc732e20f0d59a369f6829ad717a
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -514,12 +514,12 @@ entries:
     archived: false
     description: 自动从抖音创作者中心导出视频数据，支持 macOS 后台定时运行
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-05-27T11:19:16Z'
   content_lock:
     locked_ref: a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
     locked_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool/commit/a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -550,12 +550,12 @@ entries:
     description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards,
       209 motion previews, a production-ready template'
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T19:58:50Z'
   content_lock:
     locked_ref: d9ffa6d30c227b76f24fa5728fbc55f34b741d82
     locked_url: https://github.com/Vincentwei1021/video-shotcraft/commit/d9ffa6d30c227b76f24fa5728fbc55f34b741d82
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -588,12 +588,12 @@ entries:
       blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers
       in a month — not luck, system.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-24T03:42:57Z'
   content_lock:
     locked_ref: 4123941f59d1c86b8da94bbd0164475eb19f04e9
     locked_url: https://github.com/XBuilderLAB/cheat-on-content/commit/4123941f59d1c86b8da94bbd0164475eb19f04e9
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -623,12 +623,12 @@ entries:
     description: YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with
       OpenClaw, Hermes Agent, and other agent runtimes.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-25T23:05:27Z'
   content_lock:
     locked_ref: 5c168578ec8424dbd1bd144d1cb53e8e6db276ee
     locked_url: https://github.com/ZeroPointRepo/youtube-skills/commit/5c168578ec8424dbd1bd144d1cb53e8e6db276ee
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -655,12 +655,12 @@ entries:
     archived: false
     description: 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-23T16:04:28Z'
   content_lock:
     locked_ref: 9f93c873ce4f4213143c5c296a856169f308de1e
     locked_url: https://github.com/aiworkskills/wechat-article-skills/commit/9f93c873ce4f4213143c5c296a856169f308de1e
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -686,12 +686,12 @@ entries:
     archived: false
     description: X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-25T03:02:58Z'
   content_lock:
     locked_ref: f913c720135e54828dc1ea8f4fa256a5e32fe5bb
     locked_url: https://github.com/alchaincyf/x-mentor-skill/commit/f913c720135e54828dc1ea8f4fa256a5e32fe5bb
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -718,12 +718,12 @@ entries:
     archived: false
     description: Ready-made animated components for Remotion — charts, transitions, text reveals, and more
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-11T21:53:27Z'
   content_lock:
     locked_ref: 6c71169aa061f15313fadbdc6e29a3a3a87f2c03
     locked_url: https://github.com/av/remotion-bits/commit/6c71169aa061f15313fadbdc6e29a3a3a87f2c03
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -749,12 +749,12 @@ entries:
     archived: false
     description: Official inference repo for FLUX.1 models
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2025-07-31T13:58:55Z'
   content_lock:
     locked_ref: 802fb4713906133fcbd0d8dc5351620ca4773036
     locked_url: https://github.com/black-forest-labs/flux/commit/802fb4713906133fcbd0d8dc5351620ca4773036
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -781,12 +781,12 @@ entries:
     archived: false
     description: Agent skill that removes signs of AI-generated writing from text
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-19T05:58:53Z'
   content_lock:
     locked_ref: e2e92e7b4b8229253ed5c8e81dc65463fdeddda5
     locked_url: https://github.com/blader/humanizer/commit/e2e92e7b4b8229253ed5c8e81dc65463fdeddda5
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -814,12 +814,12 @@ entries:
     archived: false
     description: Edit videos with coding agents
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T16:18:08Z'
   content_lock:
     locked_ref: 92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66
     locked_url: https://github.com/browser-use/video-use/commit/92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -852,12 +852,12 @@ entries:
     description: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent
       skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
     license_spdx: AGPL-3.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-22T18:22:24Z'
   content_lock:
     locked_ref: cd9f3c1f03368be87b140af494914b8ee4e3c7a4
     locked_url: https://github.com/calesthio/OpenMontage/commit/cd9f3c1f03368be87b140af494914b8ee4e3c7a4
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -884,12 +884,12 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-04T11:49:32Z'
   content_lock:
     locked_ref: 6476f11d3c86934321a08466314c55850cf314aa
     locked_url: https://github.com/cclank/lanshu-waytovideo/commit/6476f11d3c86934321a08466314c55850cf314aa
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -916,12 +916,12 @@ entries:
     archived: true
     description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-20T00:22:37Z'
   content_lock:
     locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
     locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -949,12 +949,12 @@ entries:
     archived: false
     description: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-27T00:05:43Z'
   content_lock:
     locked_ref: becd60ee9df07f7d595c26e092253ba49f7a9ffc
     locked_url: https://github.com/coreyhaines31/marketingskills/commit/becd60ee9df07f7d595c26e092253ba49f7a9ffc
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -980,12 +980,12 @@ entries:
     archived: false
     description: 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-19T21:14:05Z'
   content_lock:
     locked_ref: 1c66b7db4b30585bbb40c58eb0aa572ffa3cce97
     locked_url: https://github.com/dreammis/social-auto-upload/commit/1c66b7db4b30585bbb40c58eb0aa572ffa3cce97
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1016,12 +1016,12 @@ entries:
     description: Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and
       README files.
     license_spdx: AGPL-3.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-26T08:28:32Z'
   content_lock:
     locked_ref: 0b66750322ccb50ae56ace5a8d361da2c1f65400
     locked_url: https://github.com/geekjourneyx/hyperframes-motion-director/commit/0b66750322ccb50ae56ace5a8d361da2c1f65400
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1047,12 +1047,12 @@ entries:
     archived: false
     description: Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-24T09:37:31Z'
   content_lock:
     locked_ref: b3f5de0abd7619b8c3c8e603285f36c2b2fde0b5
     locked_url: https://github.com/geekjourneyx/md2wechat-skill/commit/b3f5de0abd7619b8c3c8e603285f36c2b2fde0b5
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1084,12 +1084,12 @@ entries:
     description: Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead
       gen, seo and data scraping
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-14T11:51:57Z'
   content_lock:
     locked_ref: 252343208564f7cf30870598904ec232a88fb34d
     locked_url: https://github.com/gooseworks-ai/goose-skills/commit/252343208564f7cf30870598904ec232a88fb34d
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1117,12 +1117,12 @@ entries:
     archived: false
     description: GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-13T13:08:58Z'
   content_lock:
     locked_ref: 13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
     locked_url: https://github.com/greensock/GSAP/commit/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1151,12 +1151,12 @@ entries:
     description: Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation
       Platform), including best practices, common animation patterns, and plugin usage.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-29T17:36:08Z'
   content_lock:
     locked_ref: aed9cfd3277740755f6bfc1155c7aa645403b760
     locked_url: https://github.com/greensock/gsap-skills/commit/aed9cfd3277740755f6bfc1155c7aa645403b760
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1183,12 +1183,12 @@ entries:
     archived: false
     description: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-03T11:35:43Z'
   content_lock:
     locked_ref: 91b560849e8f883922cc2fa8a358a668caa94105
     locked_url: https://github.com/helloianneo/ian-xiaohei-illustrations/commit/91b560849e8f883922cc2fa8a358a668caa94105
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1214,12 +1214,12 @@ entries:
     archived: false
     description: https://hf.co/hexgrad/Kokoro-82M
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2025-08-06T22:28:53Z'
   content_lock:
     locked_ref: dfb907a02bba8152ca444717ca5d78747ccb4bec
     locked_url: https://github.com/hexgrad/kokoro/commit/dfb907a02bba8152ca444717ca5d78747ccb4bec
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1246,12 +1246,12 @@ entries:
     archived: false
     description: Write HTML. Render video. Built for agents.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-27T02:41:29Z'
   content_lock:
     locked_ref: 0c9d234bd8931d44b35b6aceb656353b7eb2a2f3
     locked_url: https://github.com/heygen-com/hyperframes/commit/0c9d234bd8931d44b35b6aceb656353b7eb2a2f3
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1278,12 +1278,12 @@ entries:
     archived: false
     description: 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-24T03:18:32Z'
   content_lock:
     locked_ref: b9c6afc781016f4e07d093ad67bf04207f33ed4b
     locked_url: https://github.com/imraywang/wewrite/commit/b9c6afc781016f4e07d093ad67bf04207f33ed4b
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1312,12 +1312,12 @@ entries:
     description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into
       paste-ready WeChat article HTML.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-08T13:32:08Z'
   content_lock:
     locked_ref: ba1f4175519b481cb3566616c9e5178705067904
     locked_url: https://github.com/isjiamu/gzh-design-skill/commit/ba1f4175519b481cb3566616c9e5178705067904
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1350,12 +1350,12 @@ entries:
       works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium
       based solutions do!
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-05-19T18:17:07Z'
   content_lock:
     locked_ref: 72d79711ec4db95262660029b4d63298b0820502
     locked_url: https://github.com/jdepoix/youtube-transcript-api/commit/72d79711ec4db95262660029b4d63298b0820502
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1384,12 +1384,12 @@ entries:
     description: A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries,
       SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T02:38:35Z'
   content_lock:
     locked_ref: 99bb559a4cada6806d24c414a4ff177f0c96dad5
     locked_url: https://github.com/jiji262/douyin-downloader/commit/99bb559a4cada6806d24c414a4ff177f0c96dad5
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1420,12 +1420,12 @@ entries:
       Shop,快手,Kuaishou,微博,Sina Weibo,哔哩哔哩,bilibili,豆瓣,小红书蒲公英,抖音星图,巨量星图,微信公众号,WeChat,优酷,贝壳,IMDb,京东,美团,大众点评,携程,今日头条,Toutiao,知乎,Zhihu,亚马逊,Amazon,Facebook,Twitter,Temu,Reddit,Shopee,拼多多,YouTube,Instagram,谷歌搜索API,Google
       Search API,SERP API'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T22:06:21Z'
   content_lock:
     locked_ref: 24444070447bd00c09d8fe4525325b5d6fb7db9f
     locked_url: https://github.com/justoneapi/data-api/commit/24444070447bd00c09d8fe4525325b5d6fb7db9f
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1451,12 +1451,12 @@ entries:
     archived: false
     description: 小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-04T21:59:38Z'
   content_lock:
     locked_ref: 1435483c64d8290dcf6e10a74be3586b8921cd66
     locked_url: https://github.com/lucasygu/redbook/commit/1435483c64d8290dcf6e10a74be3586b8921cd66
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1484,12 +1484,12 @@ entries:
     archived: false
     description: Skill for Agent automating JianYing (CapCut Chinese version) video editing.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-12T02:00:09Z'
   content_lock:
     locked_ref: f421c8a036f4fda888a83b38fc90bb9c00d6faa9
     locked_url: https://github.com/luoluoluo22/jianying-editor-skill/commit/f421c8a036f4fda888a83b38fc90bb9c00d6faa9
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1515,12 +1515,12 @@ entries:
     archived: false
     description: ' 基于 11 个内容洞见维度的自媒体创作 Skill，适用于各种智能体  给它一个主题，它给你一篇完整的文章、5 个备选标题、以及每张配图的生成 prompt。'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-24T07:18:42Z'
   content_lock:
     locked_ref: 1c76f891fb928ceb22fd101044d100d759f8cee5
     locked_url: https://github.com/nashsu/Viral_Writer_Skill/commit/1c76f891fb928ceb22fd101044d100d759f8cee5
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1552,12 +1552,12 @@ entries:
       scripts. No API fees. Open source. Unfollow people who don''t follow back. Monitor real-time analytics. Auto follow,
       like, comment, scrape, without API. Follow Bot. Like bot. Grow your account automatically. '
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-24T05:33:05Z'
   content_lock:
     locked_ref: e6dada7e93f57c5d390fa710f88239220c424cf9
     locked_url: https://github.com/nirholas/XActions/commit/e6dada7e93f57c5d390fa710f88239220c424cf9
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1583,12 +1583,12 @@ entries:
     archived: false
     description: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-01-19T07:46:35Z'
   content_lock:
     locked_ref: 91f3d394db8419c20d67ebe22a96cf8fee0a404b
     locked_url: https://github.com/op7418/Humanizer-zh/commit/91f3d394db8419c20d67ebe22a96cf8fee0a404b
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1615,12 +1615,12 @@ entries:
     archived: false
     description: ''
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-01-22T04:56:21Z'
   content_lock:
     locked_ref: f31f077ee0905c95a510a6f34bbd0c3c85b15129
     locked_url: https://github.com/op7418/Youtube-clipper-skill/commit/f31f077ee0905c95a510a6f34bbd0c3c85b15129
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1647,12 +1647,12 @@ entries:
     archived: false
     description: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-07T18:13:06Z'
   content_lock:
     locked_ref: cf26e194ce075cd205329abab29cc71fda3e78b2
     locked_url: https://github.com/op7418/guizang-material-illustration/commit/cf26e194ce075cd205329abab29cc71fda3e78b2
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1682,12 +1682,12 @@ entries:
     description: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss
       visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
     license_spdx: AGPL-3.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-01T16:39:11Z'
   content_lock:
     locked_ref: cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
     locked_url: https://github.com/op7418/guizang-social-card-skill/commit/cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1716,12 +1716,12 @@ entries:
     description: 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of
       silence. Free for open-source use; commercial license for closed-source.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-15T00:34:19Z'
   content_lock:
     locked_ref: f7e1f8444c1832e38ab92bca03d314560fc4fb98
     locked_url: https://github.com/orange2ai/orange-line-illustration/commit/f7e1f8444c1832e38ab92bca03d314560fc4fb98
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1752,12 +1752,12 @@ entries:
     archived: false
     description: A collection of open-source Agent Skills for content creation — images, audio, and video.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-20T07:44:24Z'
   content_lock:
     locked_ref: f724267e45a065b6be445ea6f07312e62d3207cd
     locked_url: https://github.com/pexoai/pexo-skills/commit/f724267e45a065b6be445ea6f07312e62d3207cd
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1785,12 +1785,12 @@ entries:
     archived: false
     description: 'Xiaohongshu cover design skill: information density × visual anchors'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-22T09:07:20Z'
   content_lock:
     locked_ref: f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
     locked_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system/commit/f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1815,12 +1815,12 @@ entries:
     archived: false
     description: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-12T12:42:09Z'
   content_lock:
     locked_ref: f8ac4d9c85baf28322106e40ea3fdea9867e2f74
     locked_url: https://github.com/putyy/res-downloader/commit/f8ac4d9c85baf28322106e40ea3fdea9867e2f74
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1848,12 +1848,12 @@ entries:
     archived: false
     description: 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-15T12:50:50Z'
   content_lock:
     locked_ref: a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
     locked_url: https://github.com/pyang5166/gbro-collage-broll/commit/a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1880,12 +1880,12 @@ entries:
     archived: false
     description: 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-15T13:36:54Z'
   content_lock:
     locked_ref: 8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
     locked_url: https://github.com/pyang5166/gbro-cover-design/commit/8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1914,12 +1914,12 @@ entries:
     description: ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI
       Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-14T01:28:13Z'
   content_lock:
     locked_ref: f54aba50cbf349ed7e4ee1dae8bfe9990d0c5894
     locked_url: https://github.com/rachelos/we-mp-rss/commit/f54aba50cbf349ed7e4ee1dae8bfe9990d0c5894
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1947,12 +1947,12 @@ entries:
     archived: false
     description: Agent Skills
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T16:35:35Z'
   content_lock:
     locked_ref: 7c5c10caa5294d01b168a08c9648b4deef717274
     locked_url: https://github.com/remotion-dev/skills/commit/7c5c10caa5294d01b168a08c9648b4deef717274
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -1982,12 +1982,12 @@ entries:
     description: Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume, templates,
       cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-25T05:10:26Z'
   content_lock:
     locked_ref: 9f1239c4d365712916e2c2e002f49837030502a6
     locked_url: https://github.com/renezander030/capcut-cli/commit/9f1239c4d365712916e2c2e002f49837030502a6
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2017,12 +2017,12 @@ entries:
     description: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced
       briefings.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-02-19T08:42:51Z'
   content_lock:
     locked_ref: 623cca7f41f2fb859bdd01dd7328b7b15da110ed
     locked_url: https://github.com/rohunvora/x-research-skill/commit/623cca7f41f2fb859bdd01dd7328b7b15da110ed
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2047,12 +2047,12 @@ entries:
     archived: false
     description: A command-line power tool for Twitter.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-24T21:11:32Z'
   content_lock:
     locked_ref: 47be12a234cc68a2d820818aa5dd63a7ea184ab8
     locked_url: https://github.com/sferik/x-cli/commit/47be12a234cc68a2d820818aa5dd63a7ea184ab8
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2081,12 +2081,12 @@ entries:
     description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
       An alternative to Screen Studio.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-17T02:34:20Z'
   content_lock:
     locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
     locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2112,12 +2112,12 @@ entries:
     archived: false
     description: Presentation Slides for Developers
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-25T00:42:02Z'
   content_lock:
     locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2145,12 +2145,12 @@ entries:
     archived: false
     description: Create polished demo videos without editing skills. Mac/Windows/Linux
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T11:23:13Z'
   content_lock:
     locked_ref: 12146e948fa32237a672d348ec9986ba258572dd
     locked_url: https://github.com/webadderallorg/Recordly/commit/12146e948fa32237a672d348ec9986ba258572dd
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2178,12 +2178,12 @@ entries:
     description: 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML
       格式可100%还原文章排版与样式。
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-07T05:48:10Z'
   content_lock:
     locked_ref: a7bffa6e481a188510a701d30b399b76573434e5
     locked_url: https://github.com/wechat-article/wechat-article-exporter/commit/a7bffa6e481a188510a701d30b399b76573434e5
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2209,12 +2209,12 @@ entries:
     archived: false
     description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
     license_spdx: GPL-3.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-05-27T05:33:56Z'
   content_lock:
     locked_ref: a98e42865387285afcc027c61836488748f3b30f
     locked_url: https://github.com/wechatsync/Wechatsync/commit/a98e42865387285afcc027c61836488748f3b30f
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2241,12 +2241,12 @@ entries:
     archived: false
     description: 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T03:17:57Z'
   content_lock:
     locked_ref: ba485253e51fabe6a99916f0d378fa97884b0b75
     locked_url: https://github.com/white0dew/XiaohongshuSkills/commit/ba485253e51fabe6a99916f0d378fa97884b0b75
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2274,12 +2274,12 @@ entries:
     archived: false
     description: A feature-rich command-line audio/video downloader
     license_spdx: Unlicense
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T23:44:15Z'
   content_lock:
     locked_ref: 66f49765d5a46c7be1c2c414f245c71530c4a2fd
     locked_url: https://github.com/yt-dlp/yt-dlp/commit/66f49765d5a46c7be1c2c414f245c71530c4a2fd
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2307,12 +2307,12 @@ entries:
     description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible
       summaries. Follow builders, not influencers.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T06:28:58Z'
   content_lock:
     locked_ref: d25dde37b04b4eebd5be01fa8c55f8e577d9c893
     locked_url: https://github.com/zarazhangrui/follow-builders/commit/d25dde37b04b4eebd5be01fa8c55f8e577d9c893
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2339,12 +2339,12 @@ entries:
     archived: false
     description: Create beautiful slides on the web using a coding agent's frontend skills
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-23T20:08:19Z'
   content_lock:
     locked_ref: 9906a34d640d2111f724544cbc50f7f130569ae1
     locked_url: https://github.com/zarazhangrui/frontend-slides/commit/9906a34d640d2111f724544cbc50f7f130569ae1
-    locked_at: 2026-08-27-content-review-01
+    locked_at: 2026-08-27-product-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
@@ -2372,7 +2372,7 @@ entries:
     archived: false
     description: AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-29T08:43:15Z'
 - universe: content-production
   repo: zinan92/autocut
@@ -2400,7 +2400,7 @@ entries:
     archived: false
     description: Transcript-first video assembly workbench for Remotion workflows.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-20T04:34:40Z'
 - universe: content-production
   repo: zinan92/content-downloader
@@ -2426,7 +2426,7 @@ entries:
     archived: false
     description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-10T04:56:17Z'
 - universe: content-production
   repo: zinan92/content-extractor
@@ -2453,7 +2453,7 @@ entries:
     archived: false
     description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-10T04:56:28Z'
 - universe: content-production
   repo: zinan92/content-rewriter
@@ -2478,7 +2478,7 @@ entries:
     archived: false
     description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-01T04:51:21Z'
 - universe: content-production
   repo: zinan92/daily-newsletter
@@ -2506,7 +2506,7 @@ entries:
     description: 'Local-first Daily Inbox pipeline: fetch source feeds, run AI selection/writing, finalize Markdown/HTML/PNG,
       track source health, and send Feishu receipts.'
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-26T02:18:37Z'
 - universe: content-production
   repo: zinan92/douyin-downloader
@@ -2531,7 +2531,7 @@ entries:
     archived: false
     description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-29T08:43:43Z'
 - universe: content-production
   repo: zinan92/douyin-downloader-1
@@ -2556,7 +2556,7 @@ entries:
     archived: false
     description: 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-29T08:43:27Z'
 - universe: content-production
   repo: zinan92/videocut
@@ -2582,7 +2582,7 @@ entries:
     archived: false
     description: AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-06-17T10:25:55Z'
 - universe: content-production
   repo: zinan92/xiaohongshu-downloader
@@ -2608,6 +2608,6 @@ entries:
     archived: false
     description: 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-20T09:18:20Z'
-export_checksum: 0d2b24e0b12162af660b8de68f8d7e69e04653149ba89b0335ffc7eeef4956e1
+export_checksum: 4b929287d25bc676d7439e889d401aebd41f610969b34f45fad07ed0df8be522
