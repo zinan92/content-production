@@ -1,12 +1,12 @@
-snapshot_id: github-universe-2026-08-27-star-refresh-01
-generated_from_checksum: 1f4a99ff328855fe5dffdcc98df1211507ff353fcde7b7d9f47e6159295df28e
+snapshot_id: github-universe-2026-08-27-content-review-01
+generated_from_checksum: 717878249f70f990cc4c5abba5f5fc2957fa253ad19a76208ca4ab7891e0bbe1
 locks:
 - repo: ATH-MaaS/Pixelle-Video
   source_url: https://github.com/ATH-MaaS/Pixelle-Video
   content_lock:
     locked_ref: 848b054e4fae40dabc62ec58e960b573e83793ac
     locked_url: https://github.com/ATH-MaaS/Pixelle-Video/commit/848b054e4fae40dabc62ec58e960b573e83793ac
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Agentchengfeng/chengfeng-videocut-skills
@@ -14,15 +14,7 @@ locks:
   content_lock:
     locked_ref: 2e51611965af6e6b8baea3bfc82995b5c9e8f5ef
     locked_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills/commit/2e51611965af6e6b8baea3bfc82995b5c9e8f5ef
-    locked_at: 2026-08-27-star-refresh-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: BND-1/wechat_article_skills
-  source_url: https://github.com/BND-1/wechat_article_skills
-  content_lock:
-    locked_ref: abae70b8a8fda65a872875b25eea69092f5746b4
-    locked_url: https://github.com/BND-1/wechat_article_skills/commit/abae70b8a8fda65a872875b25eea69092f5746b4
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Blaizzy/mlx-audio
@@ -30,7 +22,7 @@ locks:
   content_lock:
     locked_ref: ebf44dfcdcf28cac2993445e46e7c72a9eca7421
     locked_url: https://github.com/Blaizzy/mlx-audio/commit/ebf44dfcdcf28cac2993445e46e7c72a9eca7421
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
@@ -38,7 +30,7 @@ locks:
   content_lock:
     locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
     locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: GongLingRui/juben
@@ -46,7 +38,7 @@ locks:
   content_lock:
     locked_ref: a9acca62e990cc6c8f44ad4a852958577eb21cb4
     locked_url: https://github.com/GongLingRui/juben/commit/a9acca62e990cc6c8f44ad4a852958577eb21cb4
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: HKUDS/ViMax
@@ -54,7 +46,7 @@ locks:
   content_lock:
     locked_ref: 05a48943878312d88fe5a016c12a9654940ecc43
     locked_url: https://github.com/HKUDS/ViMax/commit/05a48943878312d88fe5a016c12a9654940ecc43
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Icy-Cat/x-viral-monitor
@@ -62,7 +54,7 @@ locks:
   content_lock:
     locked_ref: dedc51f06fa0a36938a44c7fd153862b8c58b9a8
     locked_url: https://github.com/Icy-Cat/x-viral-monitor/commit/dedc51f06fa0a36938a44c7fd153862b8c58b9a8
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Infatoshi/x-cli
@@ -70,7 +62,7 @@ locks:
   content_lock:
     locked_ref: a82175522aa670ba396461e814468d57a14a457e
     locked_url: https://github.com/Infatoshi/x-cli/commit/a82175522aa670ba396461e814468d57a14a457e
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Jamailar/Beav
@@ -78,7 +70,7 @@ locks:
   content_lock:
     locked_ref: e8cbd6a6639b3485ea7606ec041cdfa0f48f435b
     locked_url: https://github.com/Jamailar/Beav/commit/e8cbd6a6639b3485ea7606ec041cdfa0f48f435b
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: JimLiu/baoyu-skills
@@ -86,7 +78,7 @@ locks:
   content_lock:
     locked_ref: 6b7a2e417500561a5ecdd0b168332f4142584617
     locked_url: https://github.com/JimLiu/baoyu-skills/commit/6b7a2e417500561a5ecdd0b168332f4142584617
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Jingyi-Wu-Richael/rachel-digital-human-production
@@ -94,7 +86,7 @@ locks:
   content_lock:
     locked_ref: a20258b8eb38eb370cf3402fb4414754b4c44c2a
     locked_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production/commit/a20258b8eb38eb370cf3402fb4414754b4c44c2a
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: JoeanAmier/XHS-Downloader
@@ -102,7 +94,7 @@ locks:
   content_lock:
     locked_ref: e9e032242c1894357b1c76a08c07aefd08d79c91
     locked_url: https://github.com/JoeanAmier/XHS-Downloader/commit/e9e032242c1894357b1c76a08c07aefd08d79c91
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: LearnPrompt/ai-news-radar
@@ -110,7 +102,7 @@ locks:
   content_lock:
     locked_ref: 1bc8addcd809e56e6c529ab50cef387531cef80b
     locked_url: https://github.com/LearnPrompt/ai-news-radar/commit/1bc8addcd809e56e6c529ab50cef387531cef80b
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: NanmiCoder/MediaCrawler
@@ -118,7 +110,7 @@ locks:
   content_lock:
     locked_ref: d6f7c5bb906b6dac40ddf343ef9e26438a3de092
     locked_url: https://github.com/NanmiCoder/MediaCrawler/commit/d6f7c5bb906b6dac40ddf343ef9e26438a3de092
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: OpenBMB/VoxCPM
@@ -126,7 +118,7 @@ locks:
   content_lock:
     locked_ref: f5a1c6a6b901bc732e20f0d59a369f6829ad717a
     locked_url: https://github.com/OpenBMB/VoxCPM/commit/f5a1c6a6b901bc732e20f0d59a369f6829ad717a
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: TradingAi666/TzFilm-Douyin-Tool
@@ -134,7 +126,7 @@ locks:
   content_lock:
     locked_ref: a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
     locked_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool/commit/a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Vincentwei1021/video-shotcraft
@@ -142,7 +134,7 @@ locks:
   content_lock:
     locked_ref: d9ffa6d30c227b76f24fa5728fbc55f34b741d82
     locked_url: https://github.com/Vincentwei1021/video-shotcraft/commit/d9ffa6d30c227b76f24fa5728fbc55f34b741d82
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: XBuilderLAB/cheat-on-content
@@ -150,7 +142,7 @@ locks:
   content_lock:
     locked_ref: 4123941f59d1c86b8da94bbd0164475eb19f04e9
     locked_url: https://github.com/XBuilderLAB/cheat-on-content/commit/4123941f59d1c86b8da94bbd0164475eb19f04e9
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: ZeroPointRepo/youtube-skills
@@ -158,7 +150,7 @@ locks:
   content_lock:
     locked_ref: 5c168578ec8424dbd1bd144d1cb53e8e6db276ee
     locked_url: https://github.com/ZeroPointRepo/youtube-skills/commit/5c168578ec8424dbd1bd144d1cb53e8e6db276ee
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: aiworkskills/wechat-article-skills
@@ -166,7 +158,7 @@ locks:
   content_lock:
     locked_ref: 9f93c873ce4f4213143c5c296a856169f308de1e
     locked_url: https://github.com/aiworkskills/wechat-article-skills/commit/9f93c873ce4f4213143c5c296a856169f308de1e
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: alchaincyf/x-mentor-skill
@@ -174,15 +166,7 @@ locks:
   content_lock:
     locked_ref: f913c720135e54828dc1ea8f4fa256a5e32fe5bb
     locked_url: https://github.com/alchaincyf/x-mentor-skill/commit/f913c720135e54828dc1ea8f4fa256a5e32fe5bb
-    locked_at: 2026-08-27-star-refresh-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: autoclaw-cc/xiaohongshu-skills
-  source_url: https://github.com/autoclaw-cc/xiaohongshu-skills
-  content_lock:
-    locked_ref: b043748282a57e347c52f517dfb59819121134ab
-    locked_url: https://github.com/autoclaw-cc/xiaohongshu-skills/commit/b043748282a57e347c52f517dfb59819121134ab
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: av/remotion-bits
@@ -190,7 +174,7 @@ locks:
   content_lock:
     locked_ref: 6c71169aa061f15313fadbdc6e29a3a3a87f2c03
     locked_url: https://github.com/av/remotion-bits/commit/6c71169aa061f15313fadbdc6e29a3a3a87f2c03
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: black-forest-labs/flux
@@ -198,7 +182,7 @@ locks:
   content_lock:
     locked_ref: 802fb4713906133fcbd0d8dc5351620ca4773036
     locked_url: https://github.com/black-forest-labs/flux/commit/802fb4713906133fcbd0d8dc5351620ca4773036
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: blader/humanizer
@@ -206,7 +190,7 @@ locks:
   content_lock:
     locked_ref: e2e92e7b4b8229253ed5c8e81dc65463fdeddda5
     locked_url: https://github.com/blader/humanizer/commit/e2e92e7b4b8229253ed5c8e81dc65463fdeddda5
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: browser-use/video-use
@@ -214,7 +198,7 @@ locks:
   content_lock:
     locked_ref: 92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66
     locked_url: https://github.com/browser-use/video-use/commit/92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: calesthio/OpenMontage
@@ -222,15 +206,7 @@ locks:
   content_lock:
     locked_ref: cd9f3c1f03368be87b140af494914b8ee4e3c7a4
     locked_url: https://github.com/calesthio/OpenMontage/commit/cd9f3c1f03368be87b140af494914b8ee4e3c7a4
-    locked_at: 2026-08-27-star-refresh-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: cclank/lanshu-animated-architecture-diagram
-  source_url: https://github.com/cclank/lanshu-animated-architecture-diagram
-  content_lock:
-    locked_ref: 1818562e9fa84f36b632c745a8931cee64acf947
-    locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/1818562e9fa84f36b632c745a8931cee64acf947
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: cclank/lanshu-waytovideo
@@ -238,15 +214,7 @@ locks:
   content_lock:
     locked_ref: 6476f11d3c86934321a08466314c55850cf314aa
     locked_url: https://github.com/cclank/lanshu-waytovideo/commit/6476f11d3c86934321a08466314c55850cf314aa
-    locked_at: 2026-08-27-star-refresh-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: cclank/x-algorithm-wiki
-  source_url: https://github.com/cclank/x-algorithm-wiki
-  content_lock:
-    locked_ref: 3b07277c855a7fd1f8066aa83c788120f8ba3c79
-    locked_url: https://github.com/cclank/x-algorithm-wiki/commit/3b07277c855a7fd1f8066aa83c788120f8ba3c79
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: cooderl/wewe-rss
@@ -254,7 +222,7 @@ locks:
   content_lock:
     locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
     locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: coreyhaines31/marketingskills
@@ -262,7 +230,7 @@ locks:
   content_lock:
     locked_ref: becd60ee9df07f7d595c26e092253ba49f7a9ffc
     locked_url: https://github.com/coreyhaines31/marketingskills/commit/becd60ee9df07f7d595c26e092253ba49f7a9ffc
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: dreammis/social-auto-upload
@@ -270,7 +238,7 @@ locks:
   content_lock:
     locked_ref: 1c66b7db4b30585bbb40c58eb0aa572ffa3cce97
     locked_url: https://github.com/dreammis/social-auto-upload/commit/1c66b7db4b30585bbb40c58eb0aa572ffa3cce97
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: geekjourneyx/hyperframes-motion-director
@@ -278,7 +246,7 @@ locks:
   content_lock:
     locked_ref: 0b66750322ccb50ae56ace5a8d361da2c1f65400
     locked_url: https://github.com/geekjourneyx/hyperframes-motion-director/commit/0b66750322ccb50ae56ace5a8d361da2c1f65400
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: geekjourneyx/md2wechat-skill
@@ -286,7 +254,7 @@ locks:
   content_lock:
     locked_ref: b3f5de0abd7619b8c3c8e603285f36c2b2fde0b5
     locked_url: https://github.com/geekjourneyx/md2wechat-skill/commit/b3f5de0abd7619b8c3c8e603285f36c2b2fde0b5
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: gooseworks-ai/goose-skills
@@ -294,7 +262,7 @@ locks:
   content_lock:
     locked_ref: 252343208564f7cf30870598904ec232a88fb34d
     locked_url: https://github.com/gooseworks-ai/goose-skills/commit/252343208564f7cf30870598904ec232a88fb34d
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: greensock/GSAP
@@ -302,7 +270,7 @@ locks:
   content_lock:
     locked_ref: 13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
     locked_url: https://github.com/greensock/GSAP/commit/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: greensock/gsap-skills
@@ -310,7 +278,7 @@ locks:
   content_lock:
     locked_ref: aed9cfd3277740755f6bfc1155c7aa645403b760
     locked_url: https://github.com/greensock/gsap-skills/commit/aed9cfd3277740755f6bfc1155c7aa645403b760
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: helloianneo/ian-xiaohei-illustrations
@@ -318,7 +286,7 @@ locks:
   content_lock:
     locked_ref: 91b560849e8f883922cc2fa8a358a668caa94105
     locked_url: https://github.com/helloianneo/ian-xiaohei-illustrations/commit/91b560849e8f883922cc2fa8a358a668caa94105
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: hexgrad/kokoro
@@ -326,7 +294,7 @@ locks:
   content_lock:
     locked_ref: dfb907a02bba8152ca444717ca5d78747ccb4bec
     locked_url: https://github.com/hexgrad/kokoro/commit/dfb907a02bba8152ca444717ca5d78747ccb4bec
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: heygen-com/hyperframes
@@ -334,7 +302,7 @@ locks:
   content_lock:
     locked_ref: 0c9d234bd8931d44b35b6aceb656353b7eb2a2f3
     locked_url: https://github.com/heygen-com/hyperframes/commit/0c9d234bd8931d44b35b6aceb656353b7eb2a2f3
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: imraywang/wewrite
@@ -342,7 +310,7 @@ locks:
   content_lock:
     locked_ref: b9c6afc781016f4e07d093ad67bf04207f33ed4b
     locked_url: https://github.com/imraywang/wewrite/commit/b9c6afc781016f4e07d093ad67bf04207f33ed4b
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: isjiamu/gzh-design-skill
@@ -350,7 +318,7 @@ locks:
   content_lock:
     locked_ref: ba1f4175519b481cb3566616c9e5178705067904
     locked_url: https://github.com/isjiamu/gzh-design-skill/commit/ba1f4175519b481cb3566616c9e5178705067904
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: jdepoix/youtube-transcript-api
@@ -358,7 +326,7 @@ locks:
   content_lock:
     locked_ref: 72d79711ec4db95262660029b4d63298b0820502
     locked_url: https://github.com/jdepoix/youtube-transcript-api/commit/72d79711ec4db95262660029b4d63298b0820502
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: jiji262/douyin-downloader
@@ -366,7 +334,7 @@ locks:
   content_lock:
     locked_ref: 99bb559a4cada6806d24c414a4ff177f0c96dad5
     locked_url: https://github.com/jiji262/douyin-downloader/commit/99bb559a4cada6806d24c414a4ff177f0c96dad5
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: justoneapi/data-api
@@ -374,7 +342,7 @@ locks:
   content_lock:
     locked_ref: 24444070447bd00c09d8fe4525325b5d6fb7db9f
     locked_url: https://github.com/justoneapi/data-api/commit/24444070447bd00c09d8fe4525325b5d6fb7db9f
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: lucasygu/redbook
@@ -382,7 +350,7 @@ locks:
   content_lock:
     locked_ref: 1435483c64d8290dcf6e10a74be3586b8921cd66
     locked_url: https://github.com/lucasygu/redbook/commit/1435483c64d8290dcf6e10a74be3586b8921cd66
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: luoluoluo22/jianying-editor-skill
@@ -390,15 +358,7 @@ locks:
   content_lock:
     locked_ref: f421c8a036f4fda888a83b38fc90bb9c00d6faa9
     locked_url: https://github.com/luoluoluo22/jianying-editor-skill/commit/f421c8a036f4fda888a83b38fc90bb9c00d6faa9
-    locked_at: 2026-08-27-star-refresh-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: mengke-wang/xiaohongshu-ai-workbench
-  source_url: https://github.com/mengke-wang/xiaohongshu-ai-workbench
-  content_lock:
-    locked_ref: 7c1705d28a95bfc7c3b60f39b14b8041345541db
-    locked_url: https://github.com/mengke-wang/xiaohongshu-ai-workbench/commit/7c1705d28a95bfc7c3b60f39b14b8041345541db
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nashsu/Viral_Writer_Skill
@@ -406,7 +366,7 @@ locks:
   content_lock:
     locked_ref: 1c76f891fb928ceb22fd101044d100d759f8cee5
     locked_url: https://github.com/nashsu/Viral_Writer_Skill/commit/1c76f891fb928ceb22fd101044d100d759f8cee5
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nirholas/XActions
@@ -414,7 +374,7 @@ locks:
   content_lock:
     locked_ref: e6dada7e93f57c5d390fa710f88239220c424cf9
     locked_url: https://github.com/nirholas/XActions/commit/e6dada7e93f57c5d390fa710f88239220c424cf9
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/Humanizer-zh
@@ -422,7 +382,7 @@ locks:
   content_lock:
     locked_ref: 91f3d394db8419c20d67ebe22a96cf8fee0a404b
     locked_url: https://github.com/op7418/Humanizer-zh/commit/91f3d394db8419c20d67ebe22a96cf8fee0a404b
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/Youtube-clipper-skill
@@ -430,7 +390,7 @@ locks:
   content_lock:
     locked_ref: f31f077ee0905c95a510a6f34bbd0c3c85b15129
     locked_url: https://github.com/op7418/Youtube-clipper-skill/commit/f31f077ee0905c95a510a6f34bbd0c3c85b15129
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/guizang-material-illustration
@@ -438,7 +398,7 @@ locks:
   content_lock:
     locked_ref: cf26e194ce075cd205329abab29cc71fda3e78b2
     locked_url: https://github.com/op7418/guizang-material-illustration/commit/cf26e194ce075cd205329abab29cc71fda3e78b2
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/guizang-social-card-skill
@@ -446,7 +406,7 @@ locks:
   content_lock:
     locked_ref: cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
     locked_url: https://github.com/op7418/guizang-social-card-skill/commit/cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: orange2ai/orange-line-illustration
@@ -454,7 +414,7 @@ locks:
   content_lock:
     locked_ref: f7e1f8444c1832e38ab92bca03d314560fc4fb98
     locked_url: https://github.com/orange2ai/orange-line-illustration/commit/f7e1f8444c1832e38ab92bca03d314560fc4fb98
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: pexoai/pexo-skills
@@ -462,7 +422,7 @@ locks:
   content_lock:
     locked_ref: f724267e45a065b6be445ea6f07312e62d3207cd
     locked_url: https://github.com/pexoai/pexo-skills/commit/f724267e45a065b6be445ea6f07312e62d3207cd
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: ponyodong2026/ponyo-cover-anchor-system
@@ -470,7 +430,7 @@ locks:
   content_lock:
     locked_ref: f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
     locked_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system/commit/f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: putyy/res-downloader
@@ -478,7 +438,7 @@ locks:
   content_lock:
     locked_ref: f8ac4d9c85baf28322106e40ea3fdea9867e2f74
     locked_url: https://github.com/putyy/res-downloader/commit/f8ac4d9c85baf28322106e40ea3fdea9867e2f74
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: pyang5166/gbro-collage-broll
@@ -486,7 +446,7 @@ locks:
   content_lock:
     locked_ref: a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
     locked_url: https://github.com/pyang5166/gbro-collage-broll/commit/a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: pyang5166/gbro-cover-design
@@ -494,7 +454,7 @@ locks:
   content_lock:
     locked_ref: 8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
     locked_url: https://github.com/pyang5166/gbro-cover-design/commit/8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: rachelos/we-mp-rss
@@ -502,7 +462,7 @@ locks:
   content_lock:
     locked_ref: f54aba50cbf349ed7e4ee1dae8bfe9990d0c5894
     locked_url: https://github.com/rachelos/we-mp-rss/commit/f54aba50cbf349ed7e4ee1dae8bfe9990d0c5894
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: remotion-dev/skills
@@ -510,7 +470,7 @@ locks:
   content_lock:
     locked_ref: 7c5c10caa5294d01b168a08c9648b4deef717274
     locked_url: https://github.com/remotion-dev/skills/commit/7c5c10caa5294d01b168a08c9648b4deef717274
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: renezander030/capcut-cli
@@ -518,7 +478,7 @@ locks:
   content_lock:
     locked_ref: 9f1239c4d365712916e2c2e002f49837030502a6
     locked_url: https://github.com/renezander030/capcut-cli/commit/9f1239c4d365712916e2c2e002f49837030502a6
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: rohunvora/x-research-skill
@@ -526,7 +486,7 @@ locks:
   content_lock:
     locked_ref: 623cca7f41f2fb859bdd01dd7328b7b15da110ed
     locked_url: https://github.com/rohunvora/x-research-skill/commit/623cca7f41f2fb859bdd01dd7328b7b15da110ed
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: sferik/x-cli
@@ -534,7 +494,7 @@ locks:
   content_lock:
     locked_ref: 47be12a234cc68a2d820818aa5dd63a7ea184ab8
     locked_url: https://github.com/sferik/x-cli/commit/47be12a234cc68a2d820818aa5dd63a7ea184ab8
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: siddharthvaddem/openscreen
@@ -542,7 +502,7 @@ locks:
   content_lock:
     locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
     locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: slidevjs/slidev
@@ -550,7 +510,7 @@ locks:
   content_lock:
     locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: webadderallorg/Recordly
@@ -558,7 +518,7 @@ locks:
   content_lock:
     locked_ref: 12146e948fa32237a672d348ec9986ba258572dd
     locked_url: https://github.com/webadderallorg/Recordly/commit/12146e948fa32237a672d348ec9986ba258572dd
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: wechat-article/wechat-article-exporter
@@ -566,7 +526,7 @@ locks:
   content_lock:
     locked_ref: a7bffa6e481a188510a701d30b399b76573434e5
     locked_url: https://github.com/wechat-article/wechat-article-exporter/commit/a7bffa6e481a188510a701d30b399b76573434e5
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: wechatsync/Wechatsync
@@ -574,7 +534,7 @@ locks:
   content_lock:
     locked_ref: a98e42865387285afcc027c61836488748f3b30f
     locked_url: https://github.com/wechatsync/Wechatsync/commit/a98e42865387285afcc027c61836488748f3b30f
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: white0dew/XiaohongshuSkills
@@ -582,7 +542,7 @@ locks:
   content_lock:
     locked_ref: ba485253e51fabe6a99916f0d378fa97884b0b75
     locked_url: https://github.com/white0dew/XiaohongshuSkills/commit/ba485253e51fabe6a99916f0d378fa97884b0b75
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: yt-dlp/yt-dlp
@@ -590,7 +550,7 @@ locks:
   content_lock:
     locked_ref: 66f49765d5a46c7be1c2c414f245c71530c4a2fd
     locked_url: https://github.com/yt-dlp/yt-dlp/commit/66f49765d5a46c7be1c2c414f245c71530c4a2fd
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: zarazhangrui/follow-builders
@@ -598,7 +558,7 @@ locks:
   content_lock:
     locked_ref: d25dde37b04b4eebd5be01fa8c55f8e577d9c893
     locked_url: https://github.com/zarazhangrui/follow-builders/commit/d25dde37b04b4eebd5be01fa8c55f8e577d9c893
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: zarazhangrui/frontend-slides
@@ -606,6 +566,6 @@ locks:
   content_lock:
     locked_ref: 9906a34d640d2111f724544cbc50f7f130569ae1
     locked_url: https://github.com/zarazhangrui/frontend-slides/commit/9906a34d640d2111f724544cbc50f7f130569ae1
-    locked_at: 2026-08-27-star-refresh-01
+    locked_at: 2026-08-27-content-review-01
     update_policy: monthly_pr
     vendored: false
