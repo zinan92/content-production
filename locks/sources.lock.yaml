@@ -1,28 +1,28 @@
-snapshot_id: github-universe-2026-08-27-agent-park-review-01
-generated_from_checksum: 3e1c25d872dca1c8d4b30063a227691013321d04ee793e84e4b5d77db23d1bb1
+snapshot_id: github-universe-2026-09-14
+generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
 locks:
 - repo: ATH-MaaS/Pixelle-Video
   source_url: https://github.com/ATH-MaaS/Pixelle-Video
   content_lock:
     locked_ref: 848b054e4fae40dabc62ec58e960b573e83793ac
     locked_url: https://github.com/ATH-MaaS/Pixelle-Video/commit/848b054e4fae40dabc62ec58e960b573e83793ac
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Agentchengfeng/chengfeng-videocut-skills
   source_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills
   content_lock:
-    locked_ref: 2e51611965af6e6b8baea3bfc82995b5c9e8f5ef
-    locked_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills/commit/2e51611965af6e6b8baea3bfc82995b5c9e8f5ef
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: b7cbe98c850249892da75de8e2296bd6a343f4a8
+    locked_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills/commit/b7cbe98c850249892da75de8e2296bd6a343f4a8
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Blaizzy/mlx-audio
   source_url: https://github.com/Blaizzy/mlx-audio
   content_lock:
-    locked_ref: ebf44dfcdcf28cac2993445e46e7c72a9eca7421
-    locked_url: https://github.com/Blaizzy/mlx-audio/commit/ebf44dfcdcf28cac2993445e46e7c72a9eca7421
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 407eb61aec4999ba0c91298095ce7f2ac8c25680
+    locked_url: https://github.com/Blaizzy/mlx-audio/commit/407eb61aec4999ba0c91298095ce7f2ac8c25680
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
@@ -30,7 +30,7 @@ locks:
   content_lock:
     locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
     locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: GitHubDaily/GitHubDaily
@@ -38,15 +38,7 @@ locks:
   content_lock:
     locked_ref: 5108d021a173c2e53684b39b5972e6c2b2750c71
     locked_url: https://github.com/GitHubDaily/GitHubDaily/commit/5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_at: 2026-08-27-agent-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: GongLingRui/juben
-  source_url: https://github.com/GongLingRui/juben
-  content_lock:
-    locked_ref: a9acca62e990cc6c8f44ad4a852958577eb21cb4
-    locked_url: https://github.com/GongLingRui/juben/commit/a9acca62e990cc6c8f44ad4a852958577eb21cb4
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: HKUDS/ViMax
@@ -54,15 +46,15 @@ locks:
   content_lock:
     locked_ref: 05a48943878312d88fe5a016c12a9654940ecc43
     locked_url: https://github.com/HKUDS/ViMax/commit/05a48943878312d88fe5a016c12a9654940ecc43
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Icy-Cat/x-viral-monitor
   source_url: https://github.com/Icy-Cat/x-viral-monitor
   content_lock:
-    locked_ref: dedc51f06fa0a36938a44c7fd153862b8c58b9a8
-    locked_url: https://github.com/Icy-Cat/x-viral-monitor/commit/dedc51f06fa0a36938a44c7fd153862b8c58b9a8
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 295f26a873d7dbe277267b18b899cb6684f27502
+    locked_url: https://github.com/Icy-Cat/x-viral-monitor/commit/295f26a873d7dbe277267b18b899cb6684f27502
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Infatoshi/x-cli
@@ -70,23 +62,23 @@ locks:
   content_lock:
     locked_ref: a82175522aa670ba396461e814468d57a14a457e
     locked_url: https://github.com/Infatoshi/x-cli/commit/a82175522aa670ba396461e814468d57a14a457e
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Jamailar/Beav
   source_url: https://github.com/Jamailar/Beav
   content_lock:
-    locked_ref: e8cbd6a6639b3485ea7606ec041cdfa0f48f435b
-    locked_url: https://github.com/Jamailar/Beav/commit/e8cbd6a6639b3485ea7606ec041cdfa0f48f435b
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 5a49ed6367a8e4c935f8bde32f10e37c9ca302a9
+    locked_url: https://github.com/Jamailar/Beav/commit/5a49ed6367a8e4c935f8bde32f10e37c9ca302a9
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: JimLiu/baoyu-skills
   source_url: https://github.com/JimLiu/baoyu-skills
   content_lock:
-    locked_ref: 6b7a2e417500561a5ecdd0b168332f4142584617
-    locked_url: https://github.com/JimLiu/baoyu-skills/commit/6b7a2e417500561a5ecdd0b168332f4142584617
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 1567581c26ec29f4216c6e6835415bf30343b0e3
+    locked_url: https://github.com/JimLiu/baoyu-skills/commit/1567581c26ec29f4216c6e6835415bf30343b0e3
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Jingyi-Wu-Richael/rachel-digital-human-production
@@ -94,31 +86,31 @@ locks:
   content_lock:
     locked_ref: a20258b8eb38eb370cf3402fb4414754b4c44c2a
     locked_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production/commit/a20258b8eb38eb370cf3402fb4414754b4c44c2a
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: JoeanAmier/XHS-Downloader
   source_url: https://github.com/JoeanAmier/XHS-Downloader
   content_lock:
-    locked_ref: e9e032242c1894357b1c76a08c07aefd08d79c91
-    locked_url: https://github.com/JoeanAmier/XHS-Downloader/commit/e9e032242c1894357b1c76a08c07aefd08d79c91
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 47840a1bee8438324ff10753c4291148c46071c8
+    locked_url: https://github.com/JoeanAmier/XHS-Downloader/commit/47840a1bee8438324ff10753c4291148c46071c8
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: KKKKhazix/khazix-skills
   source_url: https://github.com/KKKKhazix/khazix-skills
   content_lock:
-    locked_ref: 7a5c4934be4106ac740ffdb95280bb81b3f4b83c
-    locked_url: https://github.com/KKKKhazix/khazix-skills/commit/7a5c4934be4106ac740ffdb95280bb81b3f4b83c
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 48e8ba527f0be55f77772debb979c92f06acf5c0
+    locked_url: https://github.com/KKKKhazix/khazix-skills/commit/48e8ba527f0be55f77772debb979c92f06acf5c0
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: LearnPrompt/ai-news-radar
   source_url: https://github.com/LearnPrompt/ai-news-radar
   content_lock:
-    locked_ref: 1bc8addcd809e56e6c529ab50cef387531cef80b
-    locked_url: https://github.com/LearnPrompt/ai-news-radar/commit/1bc8addcd809e56e6c529ab50cef387531cef80b
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: d0b714933f0cb93bb5c9c7bc7a88978ae79d752f
+    locked_url: https://github.com/LearnPrompt/ai-news-radar/commit/d0b714933f0cb93bb5c9c7bc7a88978ae79d752f
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: NanmiCoder/MediaCrawler
@@ -126,15 +118,15 @@ locks:
   content_lock:
     locked_ref: d6f7c5bb906b6dac40ddf343ef9e26438a3de092
     locked_url: https://github.com/NanmiCoder/MediaCrawler/commit/d6f7c5bb906b6dac40ddf343ef9e26438a3de092
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: OpenBMB/VoxCPM
   source_url: https://github.com/OpenBMB/VoxCPM
   content_lock:
-    locked_ref: f5a1c6a6b901bc732e20f0d59a369f6829ad717a
-    locked_url: https://github.com/OpenBMB/VoxCPM/commit/f5a1c6a6b901bc732e20f0d59a369f6829ad717a
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: f772e498a45fbb5fb8e13fbf9b9c48be9fe33e69
+    locked_url: https://github.com/OpenBMB/VoxCPM/commit/f772e498a45fbb5fb8e13fbf9b9c48be9fe33e69
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Shubham0812/SwiftUI-Animations
@@ -142,7 +134,7 @@ locks:
   content_lock:
     locked_ref: 030bd1c710f9cdcc30b30e3912b361990e473be1
     locked_url: https://github.com/Shubham0812/SwiftUI-Animations/commit/030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: TradingAi666/TzFilm-Douyin-Tool
@@ -150,23 +142,31 @@ locks:
   content_lock:
     locked_ref: a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
     locked_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool/commit/a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: VanGong1999/juben
+  source_url: https://github.com/VanGong1999/juben
+  content_lock:
+    locked_ref: a9acca62e990cc6c8f44ad4a852958577eb21cb4
+    locked_url: https://github.com/VanGong1999/juben/commit/a9acca62e990cc6c8f44ad4a852958577eb21cb4
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: Vincentwei1021/video-shotcraft
   source_url: https://github.com/Vincentwei1021/video-shotcraft
   content_lock:
-    locked_ref: d9ffa6d30c227b76f24fa5728fbc55f34b741d82
-    locked_url: https://github.com/Vincentwei1021/video-shotcraft/commit/d9ffa6d30c227b76f24fa5728fbc55f34b741d82
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 5e71af35a2daee492dd3ea93e5e8903f32dcd13c
+    locked_url: https://github.com/Vincentwei1021/video-shotcraft/commit/5e71af35a2daee492dd3ea93e5e8903f32dcd13c
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: XBuilderLAB/cheat-on-content
   source_url: https://github.com/XBuilderLAB/cheat-on-content
   content_lock:
-    locked_ref: 4123941f59d1c86b8da94bbd0164475eb19f04e9
-    locked_url: https://github.com/XBuilderLAB/cheat-on-content/commit/4123941f59d1c86b8da94bbd0164475eb19f04e9
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: d2d818f9a4c0c51c5f3832981da844b3cbd95905
+    locked_url: https://github.com/XBuilderLAB/cheat-on-content/commit/d2d818f9a4c0c51c5f3832981da844b3cbd95905
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: ZeroPointRepo/youtube-skills
@@ -174,15 +174,23 @@ locks:
   content_lock:
     locked_ref: 5c168578ec8424dbd1bd144d1cb53e8e6db276ee
     locked_url: https://github.com/ZeroPointRepo/youtube-skills/commit/5c168578ec8424dbd1bd144d1cb53e8e6db276ee
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: aaronyi97/image-story-video-wizard
+  source_url: https://github.com/aaronyi97/image-story-video-wizard
+  content_lock:
+    locked_ref: 068824563f2735844ba112aee380ff3d731bb71d
+    locked_url: https://github.com/aaronyi97/image-story-video-wizard/commit/068824563f2735844ba112aee380ff3d731bb71d
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: aiworkskills/wechat-article-skills
   source_url: https://github.com/aiworkskills/wechat-article-skills
   content_lock:
-    locked_ref: 9f93c873ce4f4213143c5c296a856169f308de1e
-    locked_url: https://github.com/aiworkskills/wechat-article-skills/commit/9f93c873ce4f4213143c5c296a856169f308de1e
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 1068b2ebab1dedbbb58ae3e5f8a19b9c45ce003a
+    locked_url: https://github.com/aiworkskills/wechat-article-skills/commit/1068b2ebab1dedbbb58ae3e5f8a19b9c45ce003a
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: alchaincyf/x-mentor-skill
@@ -190,7 +198,7 @@ locks:
   content_lock:
     locked_ref: f913c720135e54828dc1ea8f4fa256a5e32fe5bb
     locked_url: https://github.com/alchaincyf/x-mentor-skill/commit/f913c720135e54828dc1ea8f4fa256a5e32fe5bb
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: av/remotion-bits
@@ -198,7 +206,7 @@ locks:
   content_lock:
     locked_ref: 6c71169aa061f15313fadbdc6e29a3a3a87f2c03
     locked_url: https://github.com/av/remotion-bits/commit/6c71169aa061f15313fadbdc6e29a3a3a87f2c03
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: black-forest-labs/flux
@@ -206,31 +214,31 @@ locks:
   content_lock:
     locked_ref: 802fb4713906133fcbd0d8dc5351620ca4773036
     locked_url: https://github.com/black-forest-labs/flux/commit/802fb4713906133fcbd0d8dc5351620ca4773036
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: blader/humanizer
   source_url: https://github.com/blader/humanizer
   content_lock:
-    locked_ref: e2e92e7b4b8229253ed5c8e81dc65463fdeddda5
-    locked_url: https://github.com/blader/humanizer/commit/e2e92e7b4b8229253ed5c8e81dc65463fdeddda5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 9862685f575c65a8247f90369951df1b3416e3d6
+    locked_url: https://github.com/blader/humanizer/commit/9862685f575c65a8247f90369951df1b3416e3d6
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: browser-use/video-use
   source_url: https://github.com/browser-use/video-use
   content_lock:
-    locked_ref: 92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66
-    locked_url: https://github.com/browser-use/video-use/commit/92c2b34e44c205cbc2acae7f6ca7c1c219d5dd66
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 9575612f066aa517354790a645fd90f9f95a743b
+    locked_url: https://github.com/browser-use/video-use/commit/9575612f066aa517354790a645fd90f9f95a743b
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: calesthio/OpenMontage
   source_url: https://github.com/calesthio/OpenMontage
   content_lock:
-    locked_ref: cd9f3c1f03368be87b140af494914b8ee4e3c7a4
-    locked_url: https://github.com/calesthio/OpenMontage/commit/cd9f3c1f03368be87b140af494914b8ee4e3c7a4
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 08e2151fa02de28a5d6a312b3d575692bf147ad7
+    locked_url: https://github.com/calesthio/OpenMontage/commit/08e2151fa02de28a5d6a312b3d575692bf147ad7
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: cclank/lanshu-waytovideo
@@ -238,7 +246,7 @@ locks:
   content_lock:
     locked_ref: 6476f11d3c86934321a08466314c55850cf314aa
     locked_url: https://github.com/cclank/lanshu-waytovideo/commit/6476f11d3c86934321a08466314c55850cf314aa
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: cooderl/wewe-rss
@@ -246,31 +254,47 @@ locks:
   content_lock:
     locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
     locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: coreyhaines31/marketingskills
   source_url: https://github.com/coreyhaines31/marketingskills
   content_lock:
-    locked_ref: becd60ee9df07f7d595c26e092253ba49f7a9ffc
-    locked_url: https://github.com/coreyhaines31/marketingskills/commit/becd60ee9df07f7d595c26e092253ba49f7a9ffc
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 5b2c0007766c6a1cf1d53fd8fc73e979e0821022
+    locked_url: https://github.com/coreyhaines31/marketingskills/commit/5b2c0007766c6a1cf1d53fd8fc73e979e0821022
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: dontbesilent2025/dbskill
   source_url: https://github.com/dontbesilent2025/dbskill
   content_lock:
-    locked_ref: 0393f4b178bd4ab2e66af9a629fcc7d97189320d
-    locked_url: https://github.com/dontbesilent2025/dbskill/commit/0393f4b178bd4ab2e66af9a629fcc7d97189320d
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 8b8e33f1ecaed8cee606fe950c4426b525ead314
+    locked_url: https://github.com/dontbesilent2025/dbskill/commit/8b8e33f1ecaed8cee606fe950c4426b525ead314
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: dreammis/social-auto-upload
   source_url: https://github.com/dreammis/social-auto-upload
   content_lock:
-    locked_ref: 1c66b7db4b30585bbb40c58eb0aa572ffa3cce97
-    locked_url: https://github.com/dreammis/social-auto-upload/commit/1c66b7db4b30585bbb40c58eb0aa572ffa3cce97
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 0012d2c355f88f683cc38dde2a2db209e14091bc
+    locked_url: https://github.com/dreammis/social-auto-upload/commit/0012d2c355f88f683cc38dde2a2db209e14091bc
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: duixcom/Duix-Avatar
+  source_url: https://github.com/duixcom/Duix-Avatar
+  content_lock:
+    locked_ref: 1328feb5871448c8fa3d0e45b3bbc87e7c1d458a
+    locked_url: https://github.com/duixcom/Duix-Avatar/commit/1328feb5871448c8fa3d0e45b3bbc87e7c1d458a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: eternityspring/reelbench-skills
+  source_url: https://github.com/eternityspring/reelbench-skills
+  content_lock:
+    locked_ref: 18f2f63987337df0975a89973d38d50f3231ee31
+    locked_url: https://github.com/eternityspring/reelbench-skills/commit/18f2f63987337df0975a89973d38d50f3231ee31
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: geekjourneyx/hyperframes-motion-director
@@ -278,23 +302,31 @@ locks:
   content_lock:
     locked_ref: 0b66750322ccb50ae56ace5a8d361da2c1f65400
     locked_url: https://github.com/geekjourneyx/hyperframes-motion-director/commit/0b66750322ccb50ae56ace5a8d361da2c1f65400
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: geekjourneyx/md2wechat-skill
   source_url: https://github.com/geekjourneyx/md2wechat-skill
   content_lock:
-    locked_ref: b3f5de0abd7619b8c3c8e603285f36c2b2fde0b5
-    locked_url: https://github.com/geekjourneyx/md2wechat-skill/commit/b3f5de0abd7619b8c3c8e603285f36c2b2fde0b5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 342cc66b492bd2bcf5039920e3cc52bd44a9bf0e
+    locked_url: https://github.com/geekjourneyx/md2wechat-skill/commit/342cc66b492bd2bcf5039920e3cc52bd44a9bf0e
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: geekjourneyx/obsidian-md2wechat
+  source_url: https://github.com/geekjourneyx/obsidian-md2wechat
+  content_lock:
+    locked_ref: 0d17e518402721f0ec648b850c6adf1b1e1dcdb4
+    locked_url: https://github.com/geekjourneyx/obsidian-md2wechat/commit/0d17e518402721f0ec648b850c6adf1b1e1dcdb4
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: gooseworks-ai/goose-skills
   source_url: https://github.com/gooseworks-ai/goose-skills
   content_lock:
-    locked_ref: 252343208564f7cf30870598904ec232a88fb34d
-    locked_url: https://github.com/gooseworks-ai/goose-skills/commit/252343208564f7cf30870598904ec232a88fb34d
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: e1592ee2bdc563e3aa6e36b308bcd88f393e3817
+    locked_url: https://github.com/gooseworks-ai/goose-skills/commit/e1592ee2bdc563e3aa6e36b308bcd88f393e3817
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: greensock/GSAP
@@ -302,7 +334,7 @@ locks:
   content_lock:
     locked_ref: 13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
     locked_url: https://github.com/greensock/GSAP/commit/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: greensock/gsap-skills
@@ -310,7 +342,7 @@ locks:
   content_lock:
     locked_ref: aed9cfd3277740755f6bfc1155c7aa645403b760
     locked_url: https://github.com/greensock/gsap-skills/commit/aed9cfd3277740755f6bfc1155c7aa645403b760
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: helloianneo/ian-xiaohei-illustrations
@@ -318,7 +350,7 @@ locks:
   content_lock:
     locked_ref: 91b560849e8f883922cc2fa8a358a668caa94105
     locked_url: https://github.com/helloianneo/ian-xiaohei-illustrations/commit/91b560849e8f883922cc2fa8a358a668caa94105
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: hexgrad/kokoro
@@ -326,23 +358,23 @@ locks:
   content_lock:
     locked_ref: dfb907a02bba8152ca444717ca5d78747ccb4bec
     locked_url: https://github.com/hexgrad/kokoro/commit/dfb907a02bba8152ca444717ca5d78747ccb4bec
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: heygen-com/hyperframes
   source_url: https://github.com/heygen-com/hyperframes
   content_lock:
-    locked_ref: 0c9d234bd8931d44b35b6aceb656353b7eb2a2f3
-    locked_url: https://github.com/heygen-com/hyperframes/commit/0c9d234bd8931d44b35b6aceb656353b7eb2a2f3
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 10e8447ac0dfe6144cc224435e7399d45d7a126d
+    locked_url: https://github.com/heygen-com/hyperframes/commit/10e8447ac0dfe6144cc224435e7399d45d7a126d
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: imraywang/wewrite
   source_url: https://github.com/imraywang/wewrite
   content_lock:
-    locked_ref: b9c6afc781016f4e07d093ad67bf04207f33ed4b
-    locked_url: https://github.com/imraywang/wewrite/commit/b9c6afc781016f4e07d093ad67bf04207f33ed4b
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: a363da0d92d30fc442aba6549d1a8824ebb0c115
+    locked_url: https://github.com/imraywang/wewrite/commit/a363da0d92d30fc442aba6549d1a8824ebb0c115
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: isjiamu/gzh-design-skill
@@ -350,55 +382,71 @@ locks:
   content_lock:
     locked_ref: ba1f4175519b481cb3566616c9e5178705067904
     locked_url: https://github.com/isjiamu/gzh-design-skill/commit/ba1f4175519b481cb3566616c9e5178705067904
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: jdepoix/youtube-transcript-api
   source_url: https://github.com/jdepoix/youtube-transcript-api
   content_lock:
-    locked_ref: 72d79711ec4db95262660029b4d63298b0820502
-    locked_url: https://github.com/jdepoix/youtube-transcript-api/commit/72d79711ec4db95262660029b4d63298b0820502
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 8f150ba8836da30a36bcd40e8fca226ed179ba72
+    locked_url: https://github.com/jdepoix/youtube-transcript-api/commit/8f150ba8836da30a36bcd40e8fca226ed179ba72
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: jiji262/douyin-downloader
   source_url: https://github.com/jiji262/douyin-downloader
   content_lock:
-    locked_ref: 99bb559a4cada6806d24c414a4ff177f0c96dad5
-    locked_url: https://github.com/jiji262/douyin-downloader/commit/99bb559a4cada6806d24c414a4ff177f0c96dad5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 1f540317aa09338e1c33abdd6099c53c1918caf5
+    locked_url: https://github.com/jiji262/douyin-downloader/commit/1f540317aa09338e1c33abdd6099c53c1918caf5
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: justoneapi/data-api
-  source_url: https://github.com/justoneapi/data-api
+- repo: k2-fsa/OmniVoice
+  source_url: https://github.com/k2-fsa/OmniVoice
   content_lock:
-    locked_ref: 24444070447bd00c09d8fe4525325b5d6fb7db9f
-    locked_url: https://github.com/justoneapi/data-api/commit/24444070447bd00c09d8fe4525325b5d6fb7db9f
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 08be0b4ccbac3e13e374e86fbfead4b4cac343e2
+    locked_url: https://github.com/k2-fsa/OmniVoice/commit/08be0b4ccbac3e13e374e86fbfead4b4cac343e2
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: kangarooking/cangjie-skill
   source_url: https://github.com/kangarooking/cangjie-skill
   content_lock:
-    locked_ref: f751bf9ff9f833cff702fe48d31ebd9d407d4b05
-    locked_url: https://github.com/kangarooking/cangjie-skill/commit/f751bf9ff9f833cff702fe48d31ebd9d407d4b05
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 3adf9e61eec96edf34055432942f2952cfd7cfd9
+    locked_url: https://github.com/kangarooking/cangjie-skill/commit/3adf9e61eec96edf34055432942f2952cfd7cfd9
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: kaomei/hand-drawn-video-prompts
+  source_url: https://github.com/kaomei/hand-drawn-video-prompts
+  content_lock:
+    locked_ref: dae2da391d58fdd42c7c4475742eb4c989cf53f2
+    locked_url: https://github.com/kaomei/hand-drawn-video-prompts/commit/dae2da391d58fdd42c7c4475742eb4c989cf53f2
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: kaomei/x-baowen
+  source_url: https://github.com/kaomei/x-baowen
+  content_lock:
+    locked_ref: b3b7bdfc480e47269bc4c4fb97cc72d030a86e4f
+    locked_url: https://github.com/kaomei/x-baowen/commit/b3b7bdfc480e47269bc4c4fb97cc72d030a86e4f
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: lucasygu/redbook
   source_url: https://github.com/lucasygu/redbook
   content_lock:
-    locked_ref: 1435483c64d8290dcf6e10a74be3586b8921cd66
-    locked_url: https://github.com/lucasygu/redbook/commit/1435483c64d8290dcf6e10a74be3586b8921cd66
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 801a09847699a2bae5560eeefd901e3afdde469b
+    locked_url: https://github.com/lucasygu/redbook/commit/801a09847699a2bae5560eeefd901e3afdde469b
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: luoluoluo22/jianying-editor-skill
   source_url: https://github.com/luoluoluo22/jianying-editor-skill
   content_lock:
-    locked_ref: f421c8a036f4fda888a83b38fc90bb9c00d6faa9
-    locked_url: https://github.com/luoluoluo22/jianying-editor-skill/commit/f421c8a036f4fda888a83b38fc90bb9c00d6faa9
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 32c56928ded4f9e2c2b80e099dc7abb793d2c30b
+    locked_url: https://github.com/luoluoluo22/jianying-editor-skill/commit/32c56928ded4f9e2c2b80e099dc7abb793d2c30b
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: nashsu/Viral_Writer_Skill
@@ -406,15 +454,15 @@ locks:
   content_lock:
     locked_ref: 1c76f891fb928ceb22fd101044d100d759f8cee5
     locked_url: https://github.com/nashsu/Viral_Writer_Skill/commit/1c76f891fb928ceb22fd101044d100d759f8cee5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: nirholas/XActions
   source_url: https://github.com/nirholas/XActions
   content_lock:
-    locked_ref: e6dada7e93f57c5d390fa710f88239220c424cf9
-    locked_url: https://github.com/nirholas/XActions/commit/e6dada7e93f57c5d390fa710f88239220c424cf9
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: f2fb3ed2d052838578e68a224eccc2cbaebcb7ca
+    locked_url: https://github.com/nirholas/XActions/commit/f2fb3ed2d052838578e68a224eccc2cbaebcb7ca
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/Humanizer-zh
@@ -422,7 +470,7 @@ locks:
   content_lock:
     locked_ref: 91f3d394db8419c20d67ebe22a96cf8fee0a404b
     locked_url: https://github.com/op7418/Humanizer-zh/commit/91f3d394db8419c20d67ebe22a96cf8fee0a404b
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/Youtube-clipper-skill
@@ -430,7 +478,7 @@ locks:
   content_lock:
     locked_ref: f31f077ee0905c95a510a6f34bbd0c3c85b15129
     locked_url: https://github.com/op7418/Youtube-clipper-skill/commit/f31f077ee0905c95a510a6f34bbd0c3c85b15129
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/guizang-material-illustration
@@ -438,7 +486,7 @@ locks:
   content_lock:
     locked_ref: cf26e194ce075cd205329abab29cc71fda3e78b2
     locked_url: https://github.com/op7418/guizang-material-illustration/commit/cf26e194ce075cd205329abab29cc71fda3e78b2
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: op7418/guizang-social-card-skill
@@ -446,7 +494,7 @@ locks:
   content_lock:
     locked_ref: cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
     locked_url: https://github.com/op7418/guizang-social-card-skill/commit/cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: orange2ai/orange-line-illustration
@@ -454,7 +502,7 @@ locks:
   content_lock:
     locked_ref: f7e1f8444c1832e38ab92bca03d314560fc4fb98
     locked_url: https://github.com/orange2ai/orange-line-illustration/commit/f7e1f8444c1832e38ab92bca03d314560fc4fb98
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: pexoai/pexo-skills
@@ -462,7 +510,7 @@ locks:
   content_lock:
     locked_ref: f724267e45a065b6be445ea6f07312e62d3207cd
     locked_url: https://github.com/pexoai/pexo-skills/commit/f724267e45a065b6be445ea6f07312e62d3207cd
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: ponyodong2026/ponyo-cover-anchor-system
@@ -470,7 +518,7 @@ locks:
   content_lock:
     locked_ref: f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
     locked_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system/commit/f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: putyy/res-downloader
@@ -478,7 +526,7 @@ locks:
   content_lock:
     locked_ref: f8ac4d9c85baf28322106e40ea3fdea9867e2f74
     locked_url: https://github.com/putyy/res-downloader/commit/f8ac4d9c85baf28322106e40ea3fdea9867e2f74
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: pyang5166/gbro-collage-broll
@@ -486,7 +534,7 @@ locks:
   content_lock:
     locked_ref: a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
     locked_url: https://github.com/pyang5166/gbro-collage-broll/commit/a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: pyang5166/gbro-cover-design
@@ -494,31 +542,31 @@ locks:
   content_lock:
     locked_ref: 8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
     locked_url: https://github.com/pyang5166/gbro-cover-design/commit/8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: rachelos/we-mp-rss
   source_url: https://github.com/rachelos/we-mp-rss
   content_lock:
-    locked_ref: f54aba50cbf349ed7e4ee1dae8bfe9990d0c5894
-    locked_url: https://github.com/rachelos/we-mp-rss/commit/f54aba50cbf349ed7e4ee1dae8bfe9990d0c5894
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: d8feb6a42c6773d7374e03c487d3ae3426084af8
+    locked_url: https://github.com/rachelos/we-mp-rss/commit/d8feb6a42c6773d7374e03c487d3ae3426084af8
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: remotion-dev/skills
   source_url: https://github.com/remotion-dev/skills
   content_lock:
-    locked_ref: 7c5c10caa5294d01b168a08c9648b4deef717274
-    locked_url: https://github.com/remotion-dev/skills/commit/7c5c10caa5294d01b168a08c9648b4deef717274
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: bd566b65d521b40fe92e1f26766e82de9e291693
+    locked_url: https://github.com/remotion-dev/skills/commit/bd566b65d521b40fe92e1f26766e82de9e291693
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: renezander030/capcut-cli
   source_url: https://github.com/renezander030/capcut-cli
   content_lock:
-    locked_ref: 9f1239c4d365712916e2c2e002f49837030502a6
-    locked_url: https://github.com/renezander030/capcut-cli/commit/9f1239c4d365712916e2c2e002f49837030502a6
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 11862d758f947cae53650b571463e2db0a4ac767
+    locked_url: https://github.com/renezander030/capcut-cli/commit/11862d758f947cae53650b571463e2db0a4ac767
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: rohunvora/x-research-skill
@@ -526,15 +574,15 @@ locks:
   content_lock:
     locked_ref: 623cca7f41f2fb859bdd01dd7328b7b15da110ed
     locked_url: https://github.com/rohunvora/x-research-skill/commit/623cca7f41f2fb859bdd01dd7328b7b15da110ed
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: sferik/x-cli
   source_url: https://github.com/sferik/x-cli
   content_lock:
-    locked_ref: 47be12a234cc68a2d820818aa5dd63a7ea184ab8
-    locked_url: https://github.com/sferik/x-cli/commit/47be12a234cc68a2d820818aa5dd63a7ea184ab8
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 274fe5db7a9ce9c276d72e34f1f79ae2e817dcb5
+    locked_url: https://github.com/sferik/x-cli/commit/274fe5db7a9ce9c276d72e34f1f79ae2e817dcb5
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: siddharthvaddem/openscreen
@@ -542,7 +590,7 @@ locks:
   content_lock:
     locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
     locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: slidevjs/slidev
@@ -550,15 +598,15 @@ locks:
   content_lock:
     locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: webadderallorg/Recordly
   source_url: https://github.com/webadderallorg/Recordly
   content_lock:
-    locked_ref: 12146e948fa32237a672d348ec9986ba258572dd
-    locked_url: https://github.com/webadderallorg/Recordly/commit/12146e948fa32237a672d348ec9986ba258572dd
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 8b9b106d6e3cc8cc0f688dfb3348a63136aee338
+    locked_url: https://github.com/webadderallorg/Recordly/commit/8b9b106d6e3cc8cc0f688dfb3348a63136aee338
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: wechat-article/wechat-article-exporter
@@ -566,7 +614,7 @@ locks:
   content_lock:
     locked_ref: a7bffa6e481a188510a701d30b399b76573434e5
     locked_url: https://github.com/wechat-article/wechat-article-exporter/commit/a7bffa6e481a188510a701d30b399b76573434e5
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: wechatsync/Wechatsync
@@ -574,31 +622,39 @@ locks:
   content_lock:
     locked_ref: a98e42865387285afcc027c61836488748f3b30f
     locked_url: https://github.com/wechatsync/Wechatsync/commit/a98e42865387285afcc027c61836488748f3b30f
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: white0dew/XiaohongshuSkills
   source_url: https://github.com/white0dew/XiaohongshuSkills
   content_lock:
-    locked_ref: ba485253e51fabe6a99916f0d378fa97884b0b75
-    locked_url: https://github.com/white0dew/XiaohongshuSkills/commit/ba485253e51fabe6a99916f0d378fa97884b0b75
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 764166b075087cbb7195c0c9d99e4a3fbfe94a45
+    locked_url: https://github.com/white0dew/XiaohongshuSkills/commit/764166b075087cbb7195c0c9d99e4a3fbfe94a45
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: yang0/handraw-style
+  source_url: https://github.com/yang0/handraw-style
+  content_lock:
+    locked_ref: 58dee6151874c6fc381e6a0d97430f1c275c1696
+    locked_url: https://github.com/yang0/handraw-style/commit/58dee6151874c6fc381e6a0d97430f1c275c1696
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: yt-dlp/yt-dlp
   source_url: https://github.com/yt-dlp/yt-dlp
   content_lock:
-    locked_ref: 66f49765d5a46c7be1c2c414f245c71530c4a2fd
-    locked_url: https://github.com/yt-dlp/yt-dlp/commit/66f49765d5a46c7be1c2c414f245c71530c4a2fd
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: bbc809a1161d3bfca51fa36f59dda35556ee85a0
+    locked_url: https://github.com/yt-dlp/yt-dlp/commit/bbc809a1161d3bfca51fa36f59dda35556ee85a0
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: zarazhangrui/follow-builders
   source_url: https://github.com/zarazhangrui/follow-builders
   content_lock:
-    locked_ref: d25dde37b04b4eebd5be01fa8c55f8e577d9c893
-    locked_url: https://github.com/zarazhangrui/follow-builders/commit/d25dde37b04b4eebd5be01fa8c55f8e577d9c893
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_ref: 20d6b5f53f3b41db3ea5842dcc85f9da3fceef4a
+    locked_url: https://github.com/zarazhangrui/follow-builders/commit/20d6b5f53f3b41db3ea5842dcc85f9da3fceef4a
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
 - repo: zarazhangrui/frontend-slides
@@ -606,6 +662,6 @@ locks:
   content_lock:
     locked_ref: 9906a34d640d2111f724544cbc50f7f130569ae1
     locked_url: https://github.com/zarazhangrui/frontend-slides/commit/9906a34d640d2111f724544cbc50f7f130569ae1
-    locked_at: 2026-08-27-agent-park-review-01
+    locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
