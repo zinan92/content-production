@@ -1,56 +1,55 @@
 universe: content-production
-snapshot_id: github-universe-2026-09-14
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 generated_from: zinan92/park-operating-system
-generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
+generated_from_checksum: cf1d439c3a4730a50198508852e2304c7d3aa716a9039f806dca596d68e98d29
 entries:
 - universe: content-production
-  repo: ATH-MaaS/Pixelle-Video
+  repo: k2-fsa/OmniVoice
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: video-production
+  primary_category: audio-and-voice
   tags:
+  - audio
   - python
-  - video
-  source_url: https://github.com/ATH-MaaS/Pixelle-Video
+  source_url: https://github.com/k2-fsa/OmniVoice
   visibility: public
   archived: false
-  description: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+  description: High-Quality Voice Cloning TTS for 600+ Languages
   status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
-    default_branch: main
+    default_branch: master
     visibility: public
     archived: false
-    description: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    description: High-Quality Voice Cloning TTS for 600+ Languages
     license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-06-14T12:40:58Z'
+    pushed_at: '2026-09-07T22:22:22Z'
   content_lock:
-    locked_ref: 848b054e4fae40dabc62ec58e960b573e83793ac
-    locked_url: https://github.com/ATH-MaaS/Pixelle-Video/commit/848b054e4fae40dabc62ec58e960b573e83793ac
+    locked_ref: 08be0b4ccbac3e13e374e86fbfead4b4cac343e2
+    locked_url: https://github.com/k2-fsa/OmniVoice/commit/08be0b4ccbac3e13e374e86fbfead4b4cac343e2
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-12T03:34:09Z'
 - universe: content-production
-  repo: Agentchengfeng/chengfeng-videocut-skills
+  repo: hexgrad/kokoro
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: video-production
+  primary_category: audio-and-voice
   tags:
   - javascript
-  - skill
-  - video
-  source_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills
+  source_url: https://github.com/hexgrad/kokoro
   visibility: public
   archived: false
-  description: 用 Claude Code Skills 做的视频剪辑 Agent
+  description: https://hf.co/hexgrad/Kokoro-82M
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -58,16 +57,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 用 Claude Code Skills 做的视频剪辑 Agent
+    description: https://hf.co/hexgrad/Kokoro-82M
     license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T20:32:49Z'
+    pushed_at: '2025-08-06T22:28:53Z'
   content_lock:
-    locked_ref: b7cbe98c850249892da75de8e2296bd6a343f4a8
-    locked_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills/commit/b7cbe98c850249892da75de8e2296bd6a343f4a8
+    locked_ref: dfb907a02bba8152ca444717ca5d78747ccb4bec
+    locked_url: https://github.com/hexgrad/kokoro/commit/dfb907a02bba8152ca444717ca5d78747ccb4bec
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-17T05:26:21Z'
 - universe: content-production
   repo: Blaizzy/mlx-audio
   owned: false
@@ -105,391 +105,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: content-production
-  repo: EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - api
-  - collection
-  - image
-  - python
-  source_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
-  visibility: public
-  archived: false
-  description: GPT-Image-2 API and Prompts
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: GPT-Image-2 API and Prompts
-    license_spdx: CC0-1.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-18T06:23:28Z'
-  content_lock:
-    locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: GitHubDaily/GitHubDaily
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags: []
-  source_url: https://github.com/GitHubDaily/GitHubDaily
-  visibility: public
-  archived: false
-  description: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2025-12-31T18:59:20Z'
-  content_lock:
-    locked_ref: 5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_url: https://github.com/GitHubDaily/GitHubDaily/commit/5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: HKUDS/ViMax
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - python
-  - video
-  source_url: https://github.com/HKUDS/ViMax
-  visibility: public
-  archived: false
-  description: '"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: '"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"'
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-29T08:56:47Z'
-  content_lock:
-    locked_ref: 05a48943878312d88fe5a016c12a9654940ecc43
-    locked_url: https://github.com/HKUDS/ViMax/commit/05a48943878312d88fe5a016c12a9654940ecc43
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: Icy-Cat/x-viral-monitor
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: text-processing
-  tags:
-  - browser
-  - javascript
-  source_url: https://github.com/Icy-Cat/x-viral-monitor
-  visibility: public
-  archived: false
-  description: 'Chrome extension: real-time impression velocity badges on X (Twitter) tweets'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Chrome extension: real-time impression velocity badges on X (Twitter) tweets'
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T02:16:52Z'
-  content_lock:
-    locked_ref: 295f26a873d7dbe277267b18b899cb6684f27502
-    locked_url: https://github.com/Icy-Cat/x-viral-monitor/commit/295f26a873d7dbe277267b18b899cb6684f27502
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: Infatoshi/x-cli
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - api
-  - dashboard
-  - python
-  source_url: https://github.com/Infatoshi/x-cli
-  visibility: public
-  archived: false
-  description: CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-07T04:36:23Z'
-  content_lock:
-    locked_ref: a82175522aa670ba396461e814468d57a14a457e
-    locked_url: https://github.com/Infatoshi/x-cli/commit/a82175522aa670ba396461e814468d57a14a457e
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: Jamailar/Beav
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - typescript
-  source_url: https://github.com/Jamailar/Beav
-  visibility: public
-  archived: false
-  description: 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T18:58:34Z'
-  content_lock:
-    locked_ref: 5a49ed6367a8e4c935f8bde32f10e37c9ca302a9
-    locked_url: https://github.com/Jamailar/Beav/commit/5a49ed6367a8e4c935f8bde32f10e37c9ca302a9
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: JimLiu/baoyu-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - skill
-  - typescript
-  source_url: https://github.com/JimLiu/baoyu-skills
-  visibility: public
-  archived: false
-  description: ''
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ''
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T15:13:43Z'
-  content_lock:
-    locked_ref: 1567581c26ec29f4216c6e6835415bf30343b0e3
-    locked_url: https://github.com/JimLiu/baoyu-skills/commit/1567581c26ec29f4216c6e6835415bf30343b0e3
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: Jingyi-Wu-Richael/rachel-digital-human-production
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - product
-  - python
-  source_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production
-  visibility: public
-  archived: false
-  description: ''
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ''
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-16T11:03:38Z'
-  content_lock:
-    locked_ref: a20258b8eb38eb370cf3402fb4414754b4c44c2a
-    locked_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production/commit/a20258b8eb38eb370cf3402fb4414754b4c44c2a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: JoeanAmier/XHS-Downloader
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - javascript
-  source_url: https://github.com/JoeanAmier/XHS-Downloader
-  visibility: public
-  archived: false
-  description: 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
-    license_spdx: GPL-3.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T14:00:19Z'
-  content_lock:
-    locked_ref: 47840a1bee8438324ff10753c4291148c46071c8
-    locked_url: https://github.com/JoeanAmier/XHS-Downloader/commit/47840a1bee8438324ff10753c4291148c46071c8
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: KKKKhazix/khazix-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: text-processing
-  tags:
-  - python
-  - research
-  - skill
-  source_url: https://github.com/KKKKhazix/khazix-skills
-  visibility: public
-  archived: false
-  description: '数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more —
-    Claude Code, Codex & 40+ agents'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: '数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more
-      — Claude Code, Codex & 40+ agents'
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T06:39:20Z'
-  content_lock:
-    locked_ref: 48e8ba527f0be55f77772debb979c92f06acf5c0
-    locked_url: https://github.com/KKKKhazix/khazix-skills/commit/48e8ba527f0be55f77772debb979c92f06acf5c0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: LearnPrompt/ai-news-radar
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/LearnPrompt/ai-news-radar
-  visibility: public
-  archived: false
-  description: 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T01:19:39Z'
-  content_lock:
-    locked_ref: d0b714933f0cb93bb5c9c7bc7a88978ae79d752f
-    locked_url: https://github.com/LearnPrompt/ai-news-radar/commit/d0b714933f0cb93bb5c9c7bc7a88978ae79d752f
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: NanmiCoder/MediaCrawler
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - python
-  source_url: https://github.com/NanmiCoder/MediaCrawler
-  visibility: public
-  archived: false
-  description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-14T08:19:00Z'
-  content_lock:
-    locked_ref: d6f7c5bb906b6dac40ddf343ef9e26438a3de092
-    locked_url: https://github.com/NanmiCoder/MediaCrawler/commit/d6f7c5bb906b6dac40ddf343ef9e26438a3de092
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+  catalog_added_at: '2026-07-17T05:26:11Z'
 - universe: content-production
   repo: OpenBMB/VoxCPM
   owned: false
@@ -524,72 +140,9 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-20T04:15:09Z'
 - universe: content-production
-  repo: Shubham0812/SwiftUI-Animations
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags: []
-  source_url: https://github.com/Shubham0812/SwiftUI-Animations
-  visibility: public
-  archived: false
-  description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
-    in your own projects.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
-      in your own projects.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-11T15:20:15Z'
-  content_lock:
-    locked_ref: 030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_url: https://github.com/Shubham0812/SwiftUI-Animations/commit/030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: TradingAi666/TzFilm-Douyin-Tool
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
-  tags:
-  - javascript
-  - video
-  source_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool
-  visibility: public
-  archived: false
-  description: 自动从抖音创作者中心导出视频数据，支持 macOS 后台定时运行
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 自动从抖音创作者中心导出视频数据，支持 macOS 后台定时运行
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-05-27T11:19:16Z'
-  content_lock:
-    locked_ref: a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
-    locked_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool/commit/a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: VanGong1999/juben
+  repo: mcncarl/jianying-headless
   owned: false
   starred: true
   source_kind: starred
@@ -598,10 +151,11 @@ entries:
   primary_category: video-production
   tags:
   - python
-  source_url: https://github.com/VanGong1999/juben
+  - skill
+  source_url: https://github.com/mcncarl/jianying-headless
   visibility: public
   archived: false
-  description: AI影视创作策划评估工作流|剧本创作 Agent 平台是一个基于 AI 的专业影视创作辅助系统，整合了 20+ 个专业 Agents，覆盖从策划、创作到评估的全流程。短剧创作|策划|评估Agent,故事大纲生成｜详细情节点｜剧本｜故事质量ip评估｜已播剧情分析｜故事五元素分析｜情节点工作流｜人物小传｜人物关系｜思维导图｜
+  description: 'Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.'
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -609,18 +163,19 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: AI影视创作策划评估工作流|剧本创作 Agent 平台是一个基于 AI 的专业影视创作辅助系统，整合了 20+ 个专业 Agents，覆盖从策划、创作到评估的全流程。短剧创作|策划|评估Agent,故事大纲生成｜详细情节点｜剧本｜故事质量ip评估｜已播剧情分析｜故事五元素分析｜情节点工作流｜人物小传｜人物关系｜思维导图｜
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-03T12:42:50Z'
+    description: 'Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.'
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-19T02:42:58Z'
   content_lock:
-    locked_ref: a9acca62e990cc6c8f44ad4a852958577eb21cb4
-    locked_url: https://github.com/VanGong1999/juben/commit/a9acca62e990cc6c8f44ad4a852958577eb21cb4
-    locked_at: '2026-09-14'
+    locked_ref: bbc46d3e67860eedbecc7b9d7628933c3d3e2514
+    locked_url: https://github.com/mcncarl/jianying-headless/commit/bbc46d3e67860eedbecc7b9d7628933c3d3e2514
+    locked_at: '2026-09-19'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-18T12:00:12Z'
 - universe: content-production
-  repo: Vincentwei1021/video-shotcraft
+  repo: vibe-motion/skills
   owned: false
   starred: true
   source_kind: starred
@@ -628,52 +183,12 @@ entries:
   registry_role: null
   primary_category: video-production
   tags:
-  - product
-  - skill
-  - typescript
-  - video
-  source_url: https://github.com/Vincentwei1021/video-shotcraft
-  visibility: public
-  archived: false
-  description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209
-    motion previews, a production-ready template'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards,
-      209 motion previews, a production-ready template'
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-09T05:46:40Z'
-  content_lock:
-    locked_ref: 5e71af35a2daee492dd3ea93e5e8903f32dcd13c
-    locked_url: https://github.com/Vincentwei1021/video-shotcraft/commit/5e71af35a2daee492dd3ea93e5e8903f32dcd13c
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: XBuilderLAB/cheat-on-content
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
-  tags:
-  - product
   - python
   - skill
-  - workflow
-  source_url: https://github.com/XBuilderLAB/cheat-on-content
+  source_url: https://github.com/vibe-motion/skills
   visibility: public
   archived: false
-  description: You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score,
-    blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers
-    in a month — not luck, system.
+  description: agent skills for vibe motion
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -681,20 +196,19 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score,
-      blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers
-      in a month — not luck, system.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-07T07:37:21Z'
+    description: agent skills for vibe motion
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-04T05:01:32Z'
   content_lock:
-    locked_ref: d2d818f9a4c0c51c5f3832981da844b3cbd95905
-    locked_url: https://github.com/XBuilderLAB/cheat-on-content/commit/d2d818f9a4c0c51c5f3832981da844b3cbd95905
-    locked_at: '2026-09-14'
+    locked_ref: cb3c905e4bc362e02e040035b5c88b13fdd54cf4
+    locked_url: https://github.com/vibe-motion/skills/commit/cb3c905e4bc362e02e040035b5c88b13fdd54cf4
+    locked_at: '2026-09-19'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-18T05:58:52Z'
 - universe: content-production
-  repo: ZeroPointRepo/youtube-skills
+  repo: duixcom/Duix-Avatar
   owned: false
   starred: true
   source_kind: starred
@@ -702,14 +216,11 @@ entries:
   registry_role: null
   primary_category: video-production
   tags:
-  - api
-  - skill
   - video
-  source_url: https://github.com/ZeroPointRepo/youtube-skills
+  source_url: https://github.com/duixcom/Duix-Avatar
   visibility: public
   archived: false
-  description: YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw,
-    Hermes Agent, and other agent runtimes.
+  description: 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -717,17 +228,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with
-      OpenClaw, Hermes Agent, and other agent runtimes.
-    license_spdx: MIT
+    description: 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
+    license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-08T23:05:23Z'
+    pushed_at: '2026-04-21T07:06:36Z'
   content_lock:
-    locked_ref: 5c168578ec8424dbd1bd144d1cb53e8e6db276ee
-    locked_url: https://github.com/ZeroPointRepo/youtube-skills/commit/5c168578ec8424dbd1bd144d1cb53e8e6db276ee
+    locked_ref: 1328feb5871448c8fa3d0e45b3bbc87e7c1d458a
+    locked_url: https://github.com/duixcom/Duix-Avatar/commit/1328feb5871448c8fa3d0e45b3bbc87e7c1d458a
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-13T06:48:49Z'
 - universe: content-production
   repo: aaronyi97/image-story-video-wizard
   owned: false
@@ -764,21 +275,22 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-13T06:38:08Z'
 - universe: content-production
-  repo: aiworkskills/wechat-article-skills
+  repo: eternityspring/reelbench-skills
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: publishing-and-growth
+  primary_category: video-production
   tags:
-  - python
   - skill
-  source_url: https://github.com/aiworkskills/wechat-article-skills
+  - video
+  source_url: https://github.com/eternityspring/reelbench-skills
   visibility: public
   archived: false
-  description: 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
+  description: Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -786,30 +298,93 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
+    description: Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
     license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T23:50:48Z'
+    pushed_at: '2026-09-14T00:51:09Z'
   content_lock:
-    locked_ref: 1068b2ebab1dedbbb58ae3e5f8a19b9c45ce003a
-    locked_url: https://github.com/aiworkskills/wechat-article-skills/commit/1068b2ebab1dedbbb58ae3e5f8a19b9c45ce003a
+    locked_ref: 18f2f63987337df0975a89973d38d50f3231ee31
+    locked_url: https://github.com/eternityspring/reelbench-skills/commit/18f2f63987337df0975a89973d38d50f3231ee31
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-12T03:41:26Z'
 - universe: content-production
-  repo: alchaincyf/x-mentor-skill
+  repo: kaomei/hand-drawn-video-prompts
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: publishing-and-growth
+  primary_category: video-production
   tags:
-  - skill
-  source_url: https://github.com/alchaincyf/x-mentor-skill
+  - video
+  source_url: https://github.com/kaomei/hand-drawn-video-prompts
   visibility: public
   archived: false
-  description: X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill
+  description: 将中文口播稿转换为 9:16 Q版手绘视频提示词，并把马斯克、黄仁勋、扎克伯格等科技人物转成非写实Q版角色｜Turn Chinese scripts into hand-drawn video prompts for
+    Flow and Nano Banana.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 将中文口播稿转换为 9:16 Q版手绘视频提示词，并把马斯克、黄仁勋、扎克伯格等科技人物转成非写实Q版角色｜Turn Chinese scripts into hand-drawn video prompts
+      for Flow and Nano Banana.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-20T03:30:51Z'
+  content_lock:
+    locked_ref: dae2da391d58fdd42c7c4475742eb4c989cf53f2
+    locked_url: https://github.com/kaomei/hand-drawn-video-prompts/commit/dae2da391d58fdd42c7c4475742eb4c989cf53f2
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-12T03:41:14Z'
+- universe: content-production
+  repo: zinan92/park-koubo-workflow
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - video
+  - workflow
+  source_url: https://github.com/zinan92/park-koubo-workflow
+  visibility: public
+  archived: false
+  description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T04:01:11Z'
+  catalog_added_at: '2026-09-07T04:49:06Z'
+- universe: content-production
+  repo: Shubham0812/SwiftUI-Animations
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags: []
+  source_url: https://github.com/Shubham0812/SwiftUI-Animations
+  visibility: public
+  archived: false
+  description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
+    in your own projects.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -817,16 +392,159 @@ entries:
     default_branch: master
     visibility: public
     archived: false
-    description: X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill
-    license_spdx: MIT
+    description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
+      in your own projects.
+    license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-08-25T03:02:58Z'
+    pushed_at: '2026-08-11T15:20:15Z'
   content_lock:
-    locked_ref: f913c720135e54828dc1ea8f4fa256a5e32fe5bb
-    locked_url: https://github.com/alchaincyf/x-mentor-skill/commit/f913c720135e54828dc1ea8f4fa256a5e32fe5bb
+    locked_ref: 030bd1c710f9cdcc30b30e3912b361990e473be1
+    locked_url: https://github.com/Shubham0812/SwiftUI-Animations/commit/030bd1c710f9cdcc30b30e3912b361990e473be1
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-08-26T07:43:00Z'
+- universe: content-production
+  repo: pyang5166/gbro-collage-broll
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - paper-trading
+  - python
+  - skill
+  source_url: https://github.com/pyang5166/gbro-collage-broll
+  visibility: public
+  archived: false
+  description: 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-15T12:50:50Z'
+  content_lock:
+    locked_ref: a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
+    locked_url: https://github.com/pyang5166/gbro-collage-broll/commit/a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-20T08:29:47Z'
+- universe: content-production
+  repo: Vincentwei1021/video-shotcraft
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - product
+  - skill
+  - typescript
+  - video
+  source_url: https://github.com/Vincentwei1021/video-shotcraft
+  visibility: public
+  archived: false
+  description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209
+    motion previews, a production-ready template'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards,
+      209 motion previews, a production-ready template'
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-09T05:46:40Z'
+  content_lock:
+    locked_ref: 5e71af35a2daee492dd3ea93e5e8903f32dcd13c
+    locked_url: https://github.com/Vincentwei1021/video-shotcraft/commit/5e71af35a2daee492dd3ea93e5e8903f32dcd13c
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-12T14:36:14Z'
+- universe: content-production
+  repo: Jingyi-Wu-Richael/rachel-digital-human-production
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - product
+  - python
+  source_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production
+  visibility: public
+  archived: false
+  description: ''
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-16T11:03:38Z'
+  content_lock:
+    locked_ref: a20258b8eb38eb370cf3402fb4414754b4c44c2a
+    locked_url: https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production/commit/a20258b8eb38eb370cf3402fb4414754b4c44c2a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-10T03:36:21Z'
+- universe: content-production
+  repo: geekjourneyx/hyperframes-motion-director
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - javascript
+  - product
+  - skill
+  - video
+  source_url: https://github.com/geekjourneyx/hyperframes-motion-director
+  visibility: public
+  archived: false
+  description: Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and README
+    files.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and
+      README files.
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-26T08:28:32Z'
+  content_lock:
+    locked_ref: 0b66750322ccb50ae56ace5a8d361da2c1f65400
+    locked_url: https://github.com/geekjourneyx/hyperframes-motion-director/commit/0b66750322ccb50ae56ace5a8d361da2c1f65400
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-18T04:29:15Z'
 - universe: content-production
   repo: av/remotion-bits
   owned: false
@@ -859,69 +577,104 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-21T08:36:05Z'
 - universe: content-production
-  repo: black-forest-labs/flux
-  owned: false
-  starred: true
-  source_kind: starred
+  repo: zinan92/autocut
+  owned: true
+  starred: false
+  source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: visual-image-production
+  primary_category: video-production
   tags:
-  - python
-  source_url: https://github.com/black-forest-labs/flux
+  - archived
+  - javascript
+  - product
+  - video
+  - workflow
+  source_url: https://github.com/zinan92/autocut
   visibility: public
-  archived: false
-  description: Official inference repo for FLUX.1 models
+  archived: true
+  description: Transcript-first video assembly workbench for Remotion workflows.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
-    default_branch: main
+    default_branch: codex/remotion-v1
     visibility: public
-    archived: false
-    description: Official inference repo for FLUX.1 models
-    license_spdx: Apache-2.0
+    archived: true
+    description: Transcript-first video assembly workbench for Remotion workflows.
+    license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2025-07-31T13:58:55Z'
-  content_lock:
-    locked_ref: 802fb4713906133fcbd0d8dc5351620ca4773036
-    locked_url: https://github.com/black-forest-labs/flux/commit/802fb4713906133fcbd0d8dc5351620ca4773036
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+    pushed_at: '2026-06-20T04:34:40Z'
+  catalog_added_at: '2026-06-18T04:11:01Z'
 - universe: content-production
-  repo: blader/humanizer
+  repo: greensock/GSAP
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: text-processing
+  primary_category: video-production
+  tags:
+  - javascript
+  - library
+  - product
+  source_url: https://github.com/greensock/GSAP
+  visibility: public
+  archived: false
+  description: GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-13T13:08:58Z'
+  content_lock:
+    locked_ref: 13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
+    locked_url: https://github.com/greensock/GSAP/commit/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-14T17:57:15Z'
+- universe: content-production
+  repo: op7418/Youtube-clipper-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
   tags:
   - python
   - skill
-  source_url: https://github.com/blader/humanizer
+  source_url: https://github.com/op7418/Youtube-clipper-skill
   visibility: public
   archived: false
-  description: Agent skill that removes signs of AI-generated writing from text
+  description: ''
   status: EXPLORING
-  review_status: confirmed
-  review_reason: null
+  review_status: needs_review
+  review_reason: YouTube clipping skill; description is insufficient [low-confidence].
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: Agent skill that removes signs of AI-generated writing from text
+    description: ''
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-06T20:26:10Z'
+    pushed_at: '2026-01-22T04:56:21Z'
   content_lock:
-    locked_ref: 9862685f575c65a8247f90369951df1b3416e3d6
-    locked_url: https://github.com/blader/humanizer/commit/9862685f575c65a8247f90369951df1b3416e3d6
+    locked_ref: f31f077ee0905c95a510a6f34bbd0c3c85b15129
+    locked_url: https://github.com/op7418/Youtube-clipper-skill/commit/f31f077ee0905c95a510a6f34bbd0c3c85b15129
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-09T07:18:10Z'
 - universe: content-production
   repo: browser-use/video-use
   owned: false
@@ -955,6 +708,149 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-09T07:15:16Z'
+- universe: content-production
+  repo: Agentchengfeng/chengfeng-videocut-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - javascript
+  - skill
+  - video
+  source_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills
+  visibility: public
+  archived: false
+  description: 用 Claude Code Skills 做的视频剪辑 Agent
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 用 Claude Code Skills 做的视频剪辑 Agent
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T20:32:49Z'
+  content_lock:
+    locked_ref: b7cbe98c850249892da75de8e2296bd6a343f4a8
+    locked_url: https://github.com/Agentchengfeng/chengfeng-videocut-skills/commit/b7cbe98c850249892da75de8e2296bd6a343f4a8
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-09T07:15:13Z'
+- universe: content-production
+  repo: luoluoluo22/jianying-editor-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - skill
+  - video
+  source_url: https://github.com/luoluoluo22/jianying-editor-skill
+  visibility: public
+  archived: false
+  description: Skill for Agent automating JianYing (CapCut Chinese version) video editing.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Skill for Agent automating JianYing (CapCut Chinese version) video editing.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T09:36:48Z'
+  content_lock:
+    locked_ref: 32c56928ded4f9e2c2b80e099dc7abb793d2c30b
+    locked_url: https://github.com/luoluoluo22/jianying-editor-skill/commit/32c56928ded4f9e2c2b80e099dc7abb793d2c30b
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-26T11:25:39Z'
+- universe: content-production
+  repo: renezander030/capcut-cli
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - api
+  - javascript
+  - video
+  source_url: https://github.com/renezander030/capcut-cli
+  visibility: public
+  archived: false
+  description: Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates,
+    cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not affiliated with
+    ByteDance.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume,
+      templates, cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not
+      affiliated with ByteDance.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:17:08Z'
+  content_lock:
+    locked_ref: 11862d758f947cae53650b571463e2db0a4ac767
+    locked_url: https://github.com/renezander030/capcut-cli/commit/11862d758f947cae53650b571463e2db0a4ac767
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-26T11:23:59Z'
+- universe: content-production
+  repo: ZeroPointRepo/youtube-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - api
+  - skill
+  - video
+  source_url: https://github.com/ZeroPointRepo/youtube-skills
+  visibility: public
+  archived: false
+  description: YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw,
+    Hermes Agent, and other agent runtimes.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with
+      OpenClaw, Hermes Agent, and other agent runtimes.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-08T23:05:23Z'
+  content_lock:
+    locked_ref: 5c168578ec8424dbd1bd144d1cb53e8e6db276ee
+    locked_url: https://github.com/ZeroPointRepo/youtube-skills/commit/5c168578ec8424dbd1bd144d1cb53e8e6db276ee
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-23T01:44:18Z'
 - universe: content-production
   repo: calesthio/OpenMontage
   owned: false
@@ -993,6 +889,139 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-22T16:23:23Z'
+- universe: content-production
+  repo: HKUDS/ViMax
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - video
+  source_url: https://github.com/HKUDS/ViMax
+  visibility: public
+  archived: false
+  description: '"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: '"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-29T08:56:47Z'
+  content_lock:
+    locked_ref: 05a48943878312d88fe5a016c12a9654940ecc43
+    locked_url: https://github.com/HKUDS/ViMax/commit/05a48943878312d88fe5a016c12a9654940ecc43
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-18T13:53:08Z'
+- universe: content-production
+  repo: VanGong1999/juben
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  source_url: https://github.com/VanGong1999/juben
+  visibility: public
+  archived: false
+  description: AI影视创作策划评估工作流|剧本创作 Agent 平台是一个基于 AI 的专业影视创作辅助系统，整合了 20+ 个专业 Agents，覆盖从策划、创作到评估的全流程。短剧创作|策划|评估Agent,故事大纲生成｜详细情节点｜剧本｜故事质量ip评估｜已播剧情分析｜故事五元素分析｜情节点工作流｜人物小传｜人物关系｜思维导图｜
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: AI影视创作策划评估工作流|剧本创作 Agent 平台是一个基于 AI 的专业影视创作辅助系统，整合了 20+ 个专业 Agents，覆盖从策划、创作到评估的全流程。短剧创作|策划|评估Agent,故事大纲生成｜详细情节点｜剧本｜故事质量ip评估｜已播剧情分析｜故事五元素分析｜情节点工作流｜人物小传｜人物关系｜思维导图｜
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-03T12:42:50Z'
+  content_lock:
+    locked_ref: a9acca62e990cc6c8f44ad4a852958577eb21cb4
+    locked_url: https://github.com/VanGong1999/juben/commit/a9acca62e990cc6c8f44ad4a852958577eb21cb4
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-13T07:00:28Z'
+- universe: content-production
+  repo: heygen-com/hyperframes
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - typescript
+  - video
+  source_url: https://github.com/heygen-com/hyperframes
+  visibility: public
+  archived: false
+  description: Write HTML. Render video. Built for agents.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Write HTML. Render video. Built for agents.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T02:02:32Z'
+  content_lock:
+    locked_ref: 10e8447ac0dfe6144cc224435e7399d45d7a126d
+    locked_url: https://github.com/heygen-com/hyperframes/commit/10e8447ac0dfe6144cc224435e7399d45d7a126d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-08T04:25:35Z'
+- universe: content-production
+  repo: remotion-dev/skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - skill
+  - typescript
+  - video
+  source_url: https://github.com/remotion-dev/skills
+  visibility: public
+  archived: false
+  description: Agent Skills
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agent Skills
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T13:29:08Z'
+  content_lock:
+    locked_ref: bd566b65d521b40fe92e1f26766e82de9e291693
+    locked_url: https://github.com/remotion-dev/skills/commit/bd566b65d521b40fe92e1f26766e82de9e291693
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-29T13:48:18Z'
 - universe: content-production
   repo: cclank/lanshu-waytovideo
   owned: false
@@ -1025,21 +1054,23 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-17T05:11:20Z'
 - universe: content-production
-  repo: cooderl/wewe-rss
+  repo: siddharthvaddem/openscreen
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: content-acquisition
+  primary_category: video-production
   tags:
   - archived
   - typescript
-  source_url: https://github.com/cooderl/wewe-rss
+  source_url: https://github.com/siddharthvaddem/openscreen
   visibility: public
   archived: true
-  description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+  description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
+    An alternative to Screen Studio.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1047,126 +1078,33 @@ entries:
     default_branch: main
     visibility: public
     archived: true
-    description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+    description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
+      An alternative to Screen Studio.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-03-20T00:22:37Z'
+    pushed_at: '2026-06-17T02:34:20Z'
   content_lock:
-    locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
+    locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-14T09:49:51Z'
 - universe: content-production
-  repo: coreyhaines31/marketingskills
+  repo: ATH-MaaS/Pixelle-Video
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: publishing-and-growth
-  tags:
-  - javascript
-  - research
-  - skill
-  source_url: https://github.com/coreyhaines31/marketingskills
-  visibility: public
-  archived: false
-  description: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-05T04:48:10Z'
-  content_lock:
-    locked_ref: 5b2c0007766c6a1cf1d53fd8fc73e979e0821022
-    locked_url: https://github.com/coreyhaines31/marketingskills/commit/5b2c0007766c6a1cf1d53fd8fc73e979e0821022
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: dontbesilent2025/dbskill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/dontbesilent2025/dbskill
-  visibility: public
-  archived: false
-  description: dontbesilent 的商业诊断 Skills
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: dontbesilent 的商业诊断 Skills
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-07T03:48:59Z'
-  content_lock:
-    locked_ref: 8b8e33f1ecaed8cee606fe950c4426b525ead314
-    locked_url: https://github.com/dontbesilent2025/dbskill/commit/8b8e33f1ecaed8cee606fe950c4426b525ead314
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: dreammis/social-auto-upload
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
+  primary_category: video-production
   tags:
   - python
-  source_url: https://github.com/dreammis/social-auto-upload
-  visibility: public
-  archived: false
-  description: 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-02T16:56:12Z'
-  content_lock:
-    locked_ref: 0012d2c355f88f683cc38dde2a2db209e14091bc
-    locked_url: https://github.com/dreammis/social-auto-upload/commit/0012d2c355f88f683cc38dde2a2db209e14091bc
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: duixcom/Duix-Avatar
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
   - video
-  source_url: https://github.com/duixcom/Duix-Avatar
+  source_url: https://github.com/ATH-MaaS/Pixelle-Video
   visibility: public
   archived: false
-  description: 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
+  description: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1174,50 +1112,19 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-21T07:06:36Z'
-  content_lock:
-    locked_ref: 1328feb5871448c8fa3d0e45b3bbc87e7c1d458a
-    locked_url: https://github.com/duixcom/Duix-Avatar/commit/1328feb5871448c8fa3d0e45b3bbc87e7c1d458a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: eternityspring/reelbench-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - skill
-  - video
-  source_url: https://github.com/eternityspring/reelbench-skills
-  visibility: public
-  archived: false
-  description: Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
+    description: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T00:51:09Z'
+    pushed_at: '2026-06-14T12:40:58Z'
   content_lock:
-    locked_ref: 18f2f63987337df0975a89973d38d50f3231ee31
-    locked_url: https://github.com/eternityspring/reelbench-skills/commit/18f2f63987337df0975a89973d38d50f3231ee31
+    locked_ref: 848b054e4fae40dabc62ec58e960b573e83793ac
+    locked_url: https://github.com/ATH-MaaS/Pixelle-Video/commit/848b054e4fae40dabc62ec58e960b573e83793ac
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-14T09:49:35Z'
 - universe: content-production
-  repo: geekjourneyx/hyperframes-motion-director
+  repo: webadderallorg/Recordly
   owned: false
   starred: true
   source_kind: starred
@@ -1225,78 +1132,13 @@ entries:
   registry_role: null
   primary_category: video-production
   tags:
-  - javascript
-  - product
   - skill
-  - video
-  source_url: https://github.com/geekjourneyx/hyperframes-motion-director
-  visibility: public
-  archived: false
-  description: Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and README
-    files.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and
-      README files.
-    license_spdx: AGPL-3.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-26T08:28:32Z'
-  content_lock:
-    locked_ref: 0b66750322ccb50ae56ace5a8d361da2c1f65400
-    locked_url: https://github.com/geekjourneyx/hyperframes-motion-director/commit/0b66750322ccb50ae56ace5a8d361da2c1f65400
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: geekjourneyx/md2wechat-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
-  tags:
-  - skill
-  source_url: https://github.com/geekjourneyx/md2wechat-skill
-  visibility: public
-  archived: false
-  description: Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T15:53:21Z'
-  content_lock:
-    locked_ref: 342cc66b492bd2bcf5039920e3cc52bd44a9bf0e
-    locked_url: https://github.com/geekjourneyx/md2wechat-skill/commit/342cc66b492bd2bcf5039920e3cc52bd44a9bf0e
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: geekjourneyx/obsidian-md2wechat
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
-  tags:
   - typescript
-  source_url: https://github.com/geekjourneyx/obsidian-md2wechat
+  - video
+  source_url: https://github.com/webadderallorg/Recordly
   visibility: public
   archived: false
-  description: Obsidian → WeChat | Obsidian 插件一键排版发布到微信公众号，键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+  description: Create polished demo videos without editing skills. Mac/Windows/Linux
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1304,86 +1146,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Obsidian → WeChat | Obsidian 插件一键排版发布到微信公众号，键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
-    license_spdx: AGPL-3.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T16:17:33Z'
-  content_lock:
-    locked_ref: 0d17e518402721f0ec648b850c6adf1b1e1dcdb4
-    locked_url: https://github.com/geekjourneyx/obsidian-md2wechat/commit/0d17e518402721f0ec648b850c6adf1b1e1dcdb4
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: gooseworks-ai/goose-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: publishing-and-growth
-  tags:
-  - api
-  - browser
-  - library
-  - python
-  - skill
-  source_url: https://github.com/gooseworks-ai/goose-skills
-  visibility: public
-  archived: false
-  description: Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead
-    gen, seo and data scraping
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead
-      gen, seo and data scraping
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-01T02:23:12Z'
-  content_lock:
-    locked_ref: e1592ee2bdc563e3aa6e36b308bcd88f393e3817
-    locked_url: https://github.com/gooseworks-ai/goose-skills/commit/e1592ee2bdc563e3aa6e36b308bcd88f393e3817
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: greensock/GSAP
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - javascript
-  - library
-  - product
-  source_url: https://github.com/greensock/GSAP
-  visibility: public
-  archived: false
-  description: GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+    description: Create polished demo videos without editing skills. Mac/Windows/Linux
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-04-13T13:08:58Z'
+    pushed_at: '2026-09-14T04:43:09Z'
   content_lock:
-    locked_ref: 13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
-    locked_url: https://github.com/greensock/GSAP/commit/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2
+    locked_ref: 8b9b106d6e3cc8cc0f688dfb3348a63136aee338
+    locked_url: https://github.com/webadderallorg/Recordly/commit/8b9b106d6e3cc8cc0f688dfb3348a63136aee338
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-09T04:36:07Z'
 - universe: content-production
   repo: greensock/gsap-skills
   owned: false
@@ -1418,6 +1191,366 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-23T03:40:25Z'
+- universe: content-production
+  repo: Jamailar/Beav
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - typescript
+  source_url: https://github.com/Jamailar/Beav
+  visibility: public
+  archived: false
+  description: 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T18:58:34Z'
+  content_lock:
+    locked_ref: 5a49ed6367a8e4c935f8bde32f10e37c9ca302a9
+    locked_url: https://github.com/Jamailar/Beav/commit/5a49ed6367a8e4c935f8bde32f10e37c9ca302a9
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-23T03:30:27Z'
+- universe: content-production
+  repo: zinan92/AI-videos
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - video
+  - workflow
+  source_url: https://github.com/zinan92/AI-videos
+  visibility: public
+  archived: false
+  description: AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-29T08:43:15Z'
+  catalog_added_at: '2026-03-19T13:54:08Z'
+- universe: content-production
+  repo: zinan92/videocut
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - archived
+  - javascript
+  - video
+  source_url: https://github.com/zinan92/videocut
+  visibility: public
+  archived: true
+  description: AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-06-17T10:25:55Z'
+  catalog_added_at: '2026-02-25T14:42:07Z'
+- universe: content-production
+  repo: yang0/handraw-style
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - skill
+  source_url: https://github.com/yang0/handraw-style
+  visibility: public
+  archived: false
+  description: 手绘风格编号画廊与双语提示词 Skill
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 手绘风格编号画廊与双语提示词 Skill
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-09T08:36:37Z'
+  content_lock:
+    locked_ref: 58dee6151874c6fc381e6a0d97430f1c275c1696
+    locked_url: https://github.com/yang0/handraw-style/commit/58dee6151874c6fc381e6a0d97430f1c275c1696
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-12T03:50:56Z'
+- universe: content-production
+  repo: pyang5166/gbro-cover-design
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/pyang5166/gbro-cover-design
+  visibility: public
+  archived: false
+  description: 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-15T13:36:54Z'
+  content_lock:
+    locked_ref: 8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
+    locked_url: https://github.com/pyang5166/gbro-cover-design/commit/8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-11T06:44:06Z'
+- universe: content-production
+  repo: op7418/guizang-material-illustration
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/op7418/guizang-material-illustration
+  visibility: public
+  archived: false
+  description: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-07T18:13:06Z'
+  content_lock:
+    locked_ref: cf26e194ce075cd205329abab29cc71fda3e78b2
+    locked_url: https://github.com/op7418/guizang-material-illustration/commit/cf26e194ce075cd205329abab29cc71fda3e78b2
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-10T16:19:51Z'
+- universe: content-production
+  repo: op7418/guizang-social-card-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - image
+  - product
+  - skill
+  source_url: https://github.com/op7418/guizang-social-card-skill
+  visibility: public
+  archived: false
+  description: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss
+    visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss
+      visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-01T16:39:11Z'
+  content_lock:
+    locked_ref: cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
+    locked_url: https://github.com/op7418/guizang-social-card-skill/commit/cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-10T16:19:49Z'
+- universe: content-production
+  repo: orange2ai/orange-line-illustration
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/orange2ai/orange-line-illustration
+  visibility: public
+  archived: false
+  description: 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence.
+    Free for open-source use; commercial license for closed-source.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of
+      silence. Free for open-source use; commercial license for closed-source.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-06-15T00:34:19Z'
+  content_lock:
+    locked_ref: f7e1f8444c1832e38ab92bca03d314560fc4fb98
+    locked_url: https://github.com/orange2ai/orange-line-illustration/commit/f7e1f8444c1832e38ab92bca03d314560fc4fb98
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-09T13:08:15Z'
+- universe: content-production
+  repo: JimLiu/baoyu-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - skill
+  - typescript
+  source_url: https://github.com/JimLiu/baoyu-skills
+  visibility: public
+  archived: false
+  description: ''
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-10T15:13:43Z'
+  content_lock:
+    locked_ref: 1567581c26ec29f4216c6e6835415bf30343b0e3
+    locked_url: https://github.com/JimLiu/baoyu-skills/commit/1567581c26ec29f4216c6e6835415bf30343b0e3
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-09T12:18:32Z'
+- universe: content-production
+  repo: ponyodong2026/ponyo-cover-anchor-system
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - image
+  - product
+  - skill
+  source_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system
+  visibility: public
+  archived: false
+  description: 'Xiaohongshu cover design skill: information density × visual anchors'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Xiaohongshu cover design skill: information density × visual anchors'
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-06-22T09:07:20Z'
+  content_lock:
+    locked_ref: f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
+    locked_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system/commit/f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-09T06:23:24Z'
+- universe: content-production
+  repo: EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - api
+  - collection
+  - image
+  - python
+  source_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
+  visibility: public
+  archived: false
+  description: GPT-Image-2 API and Prompts
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: GPT-Image-2 API and Prompts
+    license_spdx: CC0-1.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-18T06:23:28Z'
+  content_lock:
+    locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
+    locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-04T12:41:58Z'
 - universe: content-production
   repo: helloianneo/ian-xiaohei-illustrations
   owned: false
@@ -1450,20 +1583,22 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-01T03:29:09Z'
 - universe: content-production
-  repo: hexgrad/kokoro
+  repo: zarazhangrui/frontend-slides
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: audio-and-voice
+  primary_category: visual-image-production
   tags:
   - javascript
-  source_url: https://github.com/hexgrad/kokoro
+  - skill
+  source_url: https://github.com/zarazhangrui/frontend-slides
   visibility: public
   archived: false
-  description: https://hf.co/hexgrad/Kokoro-82M
+  description: Create beautiful slides on the web using a coding agent's frontend skills
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1471,31 +1606,31 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: https://hf.co/hexgrad/Kokoro-82M
-    license_spdx: Apache-2.0
+    description: Create beautiful slides on the web using a coding agent's frontend skills
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2025-08-06T22:28:53Z'
+    pushed_at: '2026-06-23T20:08:19Z'
   content_lock:
-    locked_ref: dfb907a02bba8152ca444717ca5d78747ccb4bec
-    locked_url: https://github.com/hexgrad/kokoro/commit/dfb907a02bba8152ca444717ca5d78747ccb4bec
+    locked_ref: 9906a34d640d2111f724544cbc50f7f130569ae1
+    locked_url: https://github.com/zarazhangrui/frontend-slides/commit/9906a34d640d2111f724544cbc50f7f130569ae1
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-07T01:43:29Z'
 - universe: content-production
-  repo: heygen-com/hyperframes
+  repo: slidevjs/slidev
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: video-production
+  primary_category: visual-image-production
   tags:
   - typescript
-  - video
-  source_url: https://github.com/heygen-com/hyperframes
+  source_url: https://github.com/slidevjs/slidev
   visibility: public
   archived: false
-  description: Write HTML. Render video. Built for agents.
+  description: Presentation Slides for Developers
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1503,31 +1638,161 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Write HTML. Render video. Built for agents.
-    license_spdx: Apache-2.0
+    description: Presentation Slides for Developers
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T02:02:32Z'
+    pushed_at: '2026-08-25T00:42:02Z'
   content_lock:
-    locked_ref: 10e8447ac0dfe6144cc224435e7399d45d7a126d
-    locked_url: https://github.com/heygen-com/hyperframes/commit/10e8447ac0dfe6144cc224435e7399d45d7a126d
+    locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
+    locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-30T03:04:19Z'
 - universe: content-production
-  repo: imraywang/wewrite
+  repo: pexoai/pexo-skills
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: text-processing
+  primary_category: visual-image-production
+  tags:
+  - audio
+  - collection
+  - image
+  - shell
+  - skill
+  - video
+  source_url: https://github.com/pexoai/pexo-skills
+  visibility: public
+  archived: false
+  description: A collection of open-source Agent Skills for content creation — images, audio, and video.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A collection of open-source Agent Skills for content creation — images, audio, and video.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-20T07:44:24Z'
+  content_lock:
+    locked_ref: f724267e45a065b6be445ea6f07312e62d3207cd
+    locked_url: https://github.com/pexoai/pexo-skills/commit/f724267e45a065b6be445ea6f07312e62d3207cd
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-25T15:23:18Z'
+- universe: content-production
+  repo: black-forest-labs/flux
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  tags:
+  - python
+  source_url: https://github.com/black-forest-labs/flux
+  visibility: public
+  archived: false
+  description: Official inference repo for FLUX.1 models
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Official inference repo for FLUX.1 models
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2025-07-31T13:58:55Z'
+  content_lock:
+    locked_ref: 802fb4713906133fcbd0d8dc5351620ca4773036
+    locked_url: https://github.com/black-forest-labs/flux/commit/802fb4713906133fcbd0d8dc5351620ca4773036
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-19T04:00:26Z'
+- universe: content-production
+  repo: zinan92/content-studio
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - private
+  - python
+  source_url: https://github.com/zinan92/content-studio
+  visibility: private
+  archived: false
+  description: ''
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: ''
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:36:00Z'
+  catalog_added_at: '2026-09-13T08:05:15Z'
+- universe: content-production
+  repo: GitHubDaily/GitHubDaily
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags: []
+  source_url: https://github.com/GitHubDaily/GitHubDaily
+  visibility: public
+  archived: false
+  description: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2025-12-31T18:59:20Z'
+  content_lock:
+    locked_ref: 5108d021a173c2e53684b39b5972e6c2b2750c71
+    locked_url: https://github.com/GitHubDaily/GitHubDaily/commit/5108d021a173c2e53684b39b5972e6c2b2750c71
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-26T07:43:45Z'
+- universe: content-production
+  repo: kangarooking/cangjie-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
   tags:
   - python
   - skill
-  source_url: https://github.com/imraywang/wewrite
+  - video
+  source_url: https://github.com/kangarooking/cangjie-skill
   visibility: public
   archived: false
-  description: 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
+  description: 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and
+    more into executable Agent Skills）
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1535,32 +1800,127 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
+    description: 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and
+      more into executable Agent Skills）
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-07T07:22:17Z'
+    pushed_at: '2026-09-13T04:12:02Z'
   content_lock:
-    locked_ref: a363da0d92d30fc442aba6549d1a8824ebb0c115
-    locked_url: https://github.com/imraywang/wewrite/commit/a363da0d92d30fc442aba6549d1a8824ebb0c115
+    locked_ref: 3adf9e61eec96edf34055432942f2952cfd7cfd9
+    locked_url: https://github.com/kangarooking/cangjie-skill/commit/3adf9e61eec96edf34055432942f2952cfd7cfd9
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-16T01:45:10Z'
 - universe: content-production
-  repo: isjiamu/gzh-design-skill
+  repo: LearnPrompt/ai-news-radar
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: text-processing
+  primary_category: content-acquisition
   tags:
-  - image
+  - python
   - skill
-  source_url: https://github.com/isjiamu/gzh-design-skill
+  source_url: https://github.com/LearnPrompt/ai-news-radar
   visibility: public
   archived: false
-  description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready
-    WeChat article HTML.
+  description: 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T01:19:39Z'
+  content_lock:
+    locked_ref: d0b714933f0cb93bb5c9c7bc7a88978ae79d752f
+    locked_url: https://github.com/LearnPrompt/ai-news-radar/commit/d0b714933f0cb93bb5c9c7bc7a88978ae79d752f
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-12T03:22:12Z'
+- universe: content-production
+  repo: yt-dlp/yt-dlp
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - audio
+  - python
+  - video
+  source_url: https://github.com/yt-dlp/yt-dlp
+  visibility: public
+  archived: false
+  description: A feature-rich command-line audio/video downloader
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: A feature-rich command-line audio/video downloader
+    license_spdx: Unlicense
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-30T13:58:45Z'
+  content_lock:
+    locked_ref: bbc809a1161d3bfca51fa36f59dda35556ee85a0
+    locked_url: https://github.com/yt-dlp/yt-dlp/commit/bbc809a1161d3bfca51fa36f59dda35556ee85a0
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-09T07:16:35Z'
+- universe: content-production
+  repo: zinan92/daily-newsletter
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - python
+  - workflow
+  source_url: https://github.com/zinan92/daily-newsletter
+  visibility: public
+  archived: false
+  description: 'Local-first Daily Inbox pipeline: fetch source feeds, run AI selection/writing, finalize Markdown/HTML/PNG,
+    track source health, and send Feishu receipts.'
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Local-first Daily Inbox pipeline: fetch source feeds, run AI selection/writing, finalize Markdown/HTML/PNG,
+      track source health, and send Feishu receipts.'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T04:06:39Z'
+  catalog_added_at: '2026-05-30T03:49:38Z'
+- universe: content-production
+  repo: sferik/x-cli
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags: []
+  source_url: https://github.com/sferik/x-cli
+  visibility: public
+  archived: false
+  description: A command-line power tool for Twitter.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1568,17 +1928,519 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into
-      paste-ready WeChat article HTML.
-    license_spdx: NOASSERTION
+    description: A command-line power tool for Twitter.
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-07-08T13:32:08Z'
+    pushed_at: '2026-09-14T01:06:24Z'
   content_lock:
-    locked_ref: ba1f4175519b481cb3566616c9e5178705067904
-    locked_url: https://github.com/isjiamu/gzh-design-skill/commit/ba1f4175519b481cb3566616c9e5178705067904
+    locked_ref: 274fe5db7a9ce9c276d72e34f1f79ae2e817dcb5
+    locked_url: https://github.com/sferik/x-cli/commit/274fe5db7a9ce9c276d72e34f1f79ae2e817dcb5
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-24T09:23:15Z'
+- universe: content-production
+  repo: Infatoshi/x-cli
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - api
+  - dashboard
+  - python
+  source_url: https://github.com/Infatoshi/x-cli
+  visibility: public
+  archived: false
+  description: CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-06-07T04:36:23Z'
+  content_lock:
+    locked_ref: a82175522aa670ba396461e814468d57a14a457e
+    locked_url: https://github.com/Infatoshi/x-cli/commit/a82175522aa670ba396461e814468d57a14a457e
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-24T09:22:58Z'
+- universe: content-production
+  repo: cooderl/wewe-rss
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - archived
+  - typescript
+  source_url: https://github.com/cooderl/wewe-rss
+  visibility: public
+  archived: true
+  description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-20T00:22:37Z'
+  content_lock:
+    locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-18T16:02:05Z'
+- universe: content-production
+  repo: rachelos/we-mp-rss
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - api
+  - python
+  source_url: https://github.com/rachelos/we-mp-rss
+  visibility: public
+  archived: false
+  description: ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手
+    、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI
+      Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-10T01:12:37Z'
+  content_lock:
+    locked_ref: d8feb6a42c6773d7374e03c487d3ae3426084af8
+    locked_url: https://github.com/rachelos/we-mp-rss/commit/d8feb6a42c6773d7374e03c487d3ae3426084af8
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-18T15:57:31Z'
+- universe: content-production
+  repo: lucasygu/redbook
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - typescript
+  source_url: https://github.com/lucasygu/redbook
+  visibility: public
+  archived: false
+  description: 小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T18:06:03Z'
+  content_lock:
+    locked_ref: 801a09847699a2bae5560eeefd901e3afdde469b
+    locked_url: https://github.com/lucasygu/redbook/commit/801a09847699a2bae5560eeefd901e3afdde469b
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-13T11:00:25Z'
+- universe: content-production
+  repo: zarazhangrui/follow-builders
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - javascript
+  source_url: https://github.com/zarazhangrui/follow-builders
+  visibility: public
+  archived: false
+  description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible
+    summaries. Follow builders, not influencers.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible
+      summaries. Follow builders, not influencers.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T06:41:40Z'
+  content_lock:
+    locked_ref: 20d6b5f53f3b41db3ea5842dcc85f9da3fceef4a
+    locked_url: https://github.com/zarazhangrui/follow-builders/commit/20d6b5f53f3b41db3ea5842dcc85f9da3fceef4a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-14T04:53:41Z'
+- universe: content-production
+  repo: rohunvora/x-research-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - research
+  - skill
+  - typescript
+  source_url: https://github.com/rohunvora/x-research-skill
+  visibility: public
+  archived: false
+  description: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced
+    briefings.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced
+      briefings.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-02-19T08:42:51Z'
+  content_lock:
+    locked_ref: 623cca7f41f2fb859bdd01dd7328b7b15da110ed
+    locked_url: https://github.com/rohunvora/x-research-skill/commit/623cca7f41f2fb859bdd01dd7328b7b15da110ed
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-13T10:54:50Z'
+- universe: content-production
+  repo: zinan92/content-extractor
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - product
+  - python
+  - research
+  source_url: https://github.com/zinan92/content-extractor
+  visibility: public
+  archived: false
+  description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-10T04:56:28Z'
+  catalog_added_at: '2026-03-30T07:48:40Z'
+- universe: content-production
+  repo: zinan92/content-downloader
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - browser
+  - python
+  source_url: https://github.com/zinan92/content-downloader
+  visibility: public
+  archived: false
+  description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T08:51:42Z'
+  catalog_added_at: '2026-03-29T09:48:39Z'
+- universe: content-production
+  repo: wechat-article/wechat-article-exporter
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - typescript
+  source_url: https://github.com/wechat-article/wechat-article-exporter
+  visibility: public
+  archived: false
+  description: 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML
+    格式可100%还原文章排版与样式。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML
+      格式可100%还原文章排版与样式。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-07T05:48:10Z'
+  content_lock:
+    locked_ref: a7bffa6e481a188510a701d30b399b76573434e5
+    locked_url: https://github.com/wechat-article/wechat-article-exporter/commit/a7bffa6e481a188510a701d30b399b76573434e5
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-23T06:55:11Z'
+- universe: content-production
+  repo: NanmiCoder/MediaCrawler
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - python
+  source_url: https://github.com/NanmiCoder/MediaCrawler
+  visibility: public
+  archived: false
+  description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-14T08:19:00Z'
+  content_lock:
+    locked_ref: d6f7c5bb906b6dac40ddf343ef9e26438a3de092
+    locked_url: https://github.com/NanmiCoder/MediaCrawler/commit/d6f7c5bb906b6dac40ddf343ef9e26438a3de092
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-22T09:42:50Z'
+- universe: content-production
+  repo: JoeanAmier/XHS-Downloader
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - javascript
+  source_url: https://github.com/JoeanAmier/XHS-Downloader
+  visibility: public
+  archived: false
+  description: 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
+    license_spdx: GPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T14:00:19Z'
+  content_lock:
+    locked_ref: 47840a1bee8438324ff10753c4291148c46071c8
+    locked_url: https://github.com/JoeanAmier/XHS-Downloader/commit/47840a1bee8438324ff10753c4291148c46071c8
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-22T02:47:26Z'
+- universe: content-production
+  repo: zinan92/douyin-downloader-1
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - python
+  source_url: https://github.com/zinan92/douyin-downloader-1
+  visibility: public
+  archived: false
+  description: 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-29T08:43:27Z'
+  catalog_added_at: '2026-03-19T03:17:03Z'
+- universe: content-production
+  repo: zinan92/xiaohongshu-downloader
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - private
+  - python
+  source_url: https://github.com/zinan92/xiaohongshu-downloader
+  visibility: private
+  archived: false
+  description: 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-20T09:18:20Z'
+  catalog_added_at: '2026-03-16T07:15:58Z'
+- universe: content-production
+  repo: putyy/res-downloader
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags: []
+  source_url: https://github.com/putyy/res-downloader
+  visibility: public
+  archived: false
+  description: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-10T08:47:18Z'
+  content_lock:
+    locked_ref: f8ac4d9c85baf28322106e40ea3fdea9867e2f74
+    locked_url: https://github.com/putyy/res-downloader/commit/f8ac4d9c85baf28322106e40ea3fdea9867e2f74
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-15T16:02:09Z'
+- universe: content-production
+  repo: jiji262/douyin-downloader
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - browser
+  - python
+  source_url: https://github.com/jiji262/douyin-downloader
+  visibility: public
+  archived: false
+  description: A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries,
+    SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries,
+      SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-10T07:35:13Z'
+  content_lock:
+    locked_ref: 1f540317aa09338e1c33abdd6099c53c1918caf5
+    locked_url: https://github.com/jiji262/douyin-downloader/commit/1f540317aa09338e1c33abdd6099c53c1918caf5
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-15T16:01:48Z'
+- universe: content-production
+  repo: zinan92/douyin-downloader
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - python
+  source_url: https://github.com/zinan92/douyin-downloader
+  visibility: public
+  archived: false
+  description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-29T08:43:43Z'
+  catalog_added_at: '2026-03-15T10:21:37Z'
 - universe: content-production
   repo: jdepoix/youtube-transcript-api
   owned: false
@@ -1617,140 +2479,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: content-production
-  repo: jiji262/douyin-downloader
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - browser
-  - python
-  source_url: https://github.com/jiji262/douyin-downloader
-  visibility: public
-  archived: false
-  description: A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries,
-    SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries,
-      SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T07:35:13Z'
-  content_lock:
-    locked_ref: 1f540317aa09338e1c33abdd6099c53c1918caf5
-    locked_url: https://github.com/jiji262/douyin-downloader/commit/1f540317aa09338e1c33abdd6099c53c1918caf5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: k2-fsa/OmniVoice
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: audio-and-voice
-  tags:
-  - audio
-  - python
-  source_url: https://github.com/k2-fsa/OmniVoice
-  visibility: public
-  archived: false
-  description: High-Quality Voice Cloning TTS for 600+ Languages
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: High-Quality Voice Cloning TTS for 600+ Languages
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-07T22:22:22Z'
-  content_lock:
-    locked_ref: 08be0b4ccbac3e13e374e86fbfead4b4cac343e2
-    locked_url: https://github.com/k2-fsa/OmniVoice/commit/08be0b4ccbac3e13e374e86fbfead4b4cac343e2
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: kangarooking/cangjie-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - python
-  - skill
-  - video
-  source_url: https://github.com/kangarooking/cangjie-skill
-  visibility: public
-  archived: false
-  description: 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and
-    more into executable Agent Skills）
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and
-      more into executable Agent Skills）
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T04:12:02Z'
-  content_lock:
-    locked_ref: 3adf9e61eec96edf34055432942f2952cfd7cfd9
-    locked_url: https://github.com/kangarooking/cangjie-skill/commit/3adf9e61eec96edf34055432942f2952cfd7cfd9
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: kaomei/hand-drawn-video-prompts
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - video
-  source_url: https://github.com/kaomei/hand-drawn-video-prompts
-  visibility: public
-  archived: false
-  description: 将中文口播稿转换为 9:16 Q版手绘视频提示词，并把马斯克、黄仁勋、扎克伯格等科技人物转成非写实Q版角色｜Turn Chinese scripts into hand-drawn video prompts for
-    Flow and Nano Banana.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 将中文口播稿转换为 9:16 Q版手绘视频提示词，并把马斯克、黄仁勋、扎克伯格等科技人物转成非写实Q版角色｜Turn Chinese scripts into hand-drawn video prompts
-      for Flow and Nano Banana.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-20T03:30:51Z'
-  content_lock:
-    locked_ref: dae2da391d58fdd42c7c4475742eb4c989cf53f2
-    locked_url: https://github.com/kaomei/hand-drawn-video-prompts/commit/dae2da391d58fdd42c7c4475742eb4c989cf53f2
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+  catalog_added_at: '2025-07-22T05:36:13Z'
 - universe: content-production
   repo: kaomei/x-baowen
   owned: false
@@ -1781,70 +2510,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: content-production
-  repo: lucasygu/redbook
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - typescript
-  source_url: https://github.com/lucasygu/redbook
-  visibility: public
-  archived: false
-  description: 小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T18:06:03Z'
-  content_lock:
-    locked_ref: 801a09847699a2bae5560eeefd901e3afdde469b
-    locked_url: https://github.com/lucasygu/redbook/commit/801a09847699a2bae5560eeefd901e3afdde469b
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: luoluoluo22/jianying-editor-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - python
-  - skill
-  - video
-  source_url: https://github.com/luoluoluo22/jianying-editor-skill
-  visibility: public
-  archived: false
-  description: Skill for Agent automating JianYing (CapCut Chinese version) video editing.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Skill for Agent automating JianYing (CapCut Chinese version) video editing.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T09:36:48Z'
-  content_lock:
-    locked_ref: 32c56928ded4f9e2c2b80e099dc7abb793d2c30b
-    locked_url: https://github.com/luoluoluo22/jianying-editor-skill/commit/32c56928ded4f9e2c2b80e099dc7abb793d2c30b
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+  catalog_added_at: '2026-09-13T06:54:09Z'
 - universe: content-production
   repo: nashsu/Viral_Writer_Skill
   owned: false
@@ -1876,6 +2542,371 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-09T06:29:10Z'
+- universe: content-production
+  repo: isjiamu/gzh-design-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/isjiamu/gzh-design-skill
+  visibility: public
+  archived: false
+  description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready
+    WeChat article HTML.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into
+      paste-ready WeChat article HTML.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-08T13:32:08Z'
+  content_lock:
+    locked_ref: ba1f4175519b481cb3566616c9e5178705067904
+    locked_url: https://github.com/isjiamu/gzh-design-skill/commit/ba1f4175519b481cb3566616c9e5178705067904
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-09T02:09:33Z'
+- universe: content-production
+  repo: Icy-Cat/x-viral-monitor
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - browser
+  - javascript
+  source_url: https://github.com/Icy-Cat/x-viral-monitor
+  visibility: public
+  archived: false
+  description: 'Chrome extension: real-time impression velocity badges on X (Twitter) tweets'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Chrome extension: real-time impression velocity badges on X (Twitter) tweets'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T02:16:52Z'
+  content_lock:
+    locked_ref: 295f26a873d7dbe277267b18b899cb6684f27502
+    locked_url: https://github.com/Icy-Cat/x-viral-monitor/commit/295f26a873d7dbe277267b18b899cb6684f27502
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-16T04:40:14Z'
+- universe: content-production
+  repo: KKKKhazix/khazix-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - python
+  - research
+  - skill
+  source_url: https://github.com/KKKKhazix/khazix-skills
+  visibility: public
+  archived: false
+  description: '数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more —
+    Claude Code, Codex & 40+ agents'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: '数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more
+      — Claude Code, Codex & 40+ agents'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T06:39:20Z'
+  content_lock:
+    locked_ref: 48e8ba527f0be55f77772debb979c92f06acf5c0
+    locked_url: https://github.com/KKKKhazix/khazix-skills/commit/48e8ba527f0be55f77772debb979c92f06acf5c0
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-21T10:28:03Z'
+- universe: content-production
+  repo: blader/humanizer
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/blader/humanizer
+  visibility: public
+  archived: false
+  description: Agent skill that removes signs of AI-generated writing from text
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agent skill that removes signs of AI-generated writing from text
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-06T20:26:10Z'
+  content_lock:
+    locked_ref: 9862685f575c65a8247f90369951df1b3416e3d6
+    locked_url: https://github.com/blader/humanizer/commit/9862685f575c65a8247f90369951df1b3416e3d6
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-07T01:42:45Z'
+- universe: content-production
+  repo: op7418/Humanizer-zh
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - skill
+  source_url: https://github.com/op7418/Humanizer-zh
+  visibility: public
+  archived: false
+  description: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-01-19T07:46:35Z'
+  content_lock:
+    locked_ref: 91f3d394db8419c20d67ebe22a96cf8fee0a404b
+    locked_url: https://github.com/op7418/Humanizer-zh/commit/91f3d394db8419c20d67ebe22a96cf8fee0a404b
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-05T02:07:38Z'
+- universe: content-production
+  repo: imraywang/wewrite
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/imraywang/wewrite
+  visibility: public
+  archived: false
+  description: 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-07T07:22:17Z'
+  content_lock:
+    locked_ref: a363da0d92d30fc442aba6549d1a8824ebb0c115
+    locked_url: https://github.com/imraywang/wewrite/commit/a363da0d92d30fc442aba6549d1a8824ebb0c115
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-31T15:48:15Z'
+- universe: content-production
+  repo: zinan92/content-rewriter
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - python
+  source_url: https://github.com/zinan92/content-rewriter
+  visibility: public
+  archived: false
+  description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-01T04:51:21Z'
+  catalog_added_at: '2026-03-30T07:48:57Z'
+- universe: content-production
+  repo: geekjourneyx/obsidian-md2wechat
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - typescript
+  source_url: https://github.com/geekjourneyx/obsidian-md2wechat
+  visibility: public
+  archived: false
+  description: Obsidian → WeChat | Obsidian 插件一键排版发布到微信公众号，键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Obsidian → WeChat | Obsidian 插件一键排版发布到微信公众号，键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T16:17:33Z'
+  content_lock:
+    locked_ref: 0d17e518402721f0ec648b850c6adf1b1e1dcdb4
+    locked_url: https://github.com/geekjourneyx/obsidian-md2wechat/commit/0d17e518402721f0ec648b850c6adf1b1e1dcdb4
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-09T06:04:58Z'
+- universe: content-production
+  repo: XBuilderLAB/cheat-on-content
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - product
+  - python
+  - skill
+  - workflow
+  source_url: https://github.com/XBuilderLAB/cheat-on-content
+  visibility: public
+  archived: false
+  description: You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score,
+    blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers
+    in a month — not luck, system.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score,
+      blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers
+      in a month — not luck, system.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-07T07:37:21Z'
+  content_lock:
+    locked_ref: d2d818f9a4c0c51c5f3832981da844b3cbd95905
+    locked_url: https://github.com/XBuilderLAB/cheat-on-content/commit/d2d818f9a4c0c51c5f3832981da844b3cbd95905
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-10T16:08:17Z'
+- universe: content-production
+  repo: wechatsync/Wechatsync
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - typescript
+  source_url: https://github.com/wechatsync/Wechatsync
+  visibility: public
+  archived: false
+  description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: v2
+    visibility: public
+    archived: false
+    description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+    license_spdx: GPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-05-27T05:33:56Z'
+  content_lock:
+    locked_ref: a98e42865387285afcc027c61836488748f3b30f
+    locked_url: https://github.com/wechatsync/Wechatsync/commit/a98e42865387285afcc027c61836488748f3b30f
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-22T13:44:10Z'
+- universe: content-production
+  repo: aiworkskills/wechat-article-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/aiworkskills/wechat-article-skills
+  visibility: public
+  archived: false
+  description: 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T23:50:48Z'
+  content_lock:
+    locked_ref: 1068b2ebab1dedbbb58ae3e5f8a19b9c45ce003a
+    locked_url: https://github.com/aiworkskills/wechat-article-skills/commit/1068b2ebab1dedbbb58ae3e5f8a19b9c45ce003a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-16T06:26:46Z'
 - universe: content-production
   repo: nirholas/XActions
   owned: false
@@ -1913,636 +2944,9 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-16T04:40:52Z'
 - universe: content-production
-  repo: op7418/Humanizer-zh
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: text-processing
-  tags:
-  - skill
-  source_url: https://github.com/op7418/Humanizer-zh
-  visibility: public
-  archived: false
-  description: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-01-19T07:46:35Z'
-  content_lock:
-    locked_ref: 91f3d394db8419c20d67ebe22a96cf8fee0a404b
-    locked_url: https://github.com/op7418/Humanizer-zh/commit/91f3d394db8419c20d67ebe22a96cf8fee0a404b
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: op7418/Youtube-clipper-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/op7418/Youtube-clipper-skill
-  visibility: public
-  archived: false
-  description: ''
-  status: EXPLORING
-  review_status: needs_review
-  review_reason: YouTube clipping skill; description is insufficient [low-confidence].
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ''
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-01-22T04:56:21Z'
-  content_lock:
-    locked_ref: f31f077ee0905c95a510a6f34bbd0c3c85b15129
-    locked_url: https://github.com/op7418/Youtube-clipper-skill/commit/f31f077ee0905c95a510a6f34bbd0c3c85b15129
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: op7418/guizang-material-illustration
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - image
-  - skill
-  source_url: https://github.com/op7418/guizang-material-illustration
-  visibility: public
-  archived: false
-  description: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-07T18:13:06Z'
-  content_lock:
-    locked_ref: cf26e194ce075cd205329abab29cc71fda3e78b2
-    locked_url: https://github.com/op7418/guizang-material-illustration/commit/cf26e194ce075cd205329abab29cc71fda3e78b2
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: op7418/guizang-social-card-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - image
-  - product
-  - skill
-  source_url: https://github.com/op7418/guizang-social-card-skill
-  visibility: public
-  archived: false
-  description: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss
-    visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss
-      visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
-    license_spdx: AGPL-3.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-01T16:39:11Z'
-  content_lock:
-    locked_ref: cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
-    locked_url: https://github.com/op7418/guizang-social-card-skill/commit/cf4b810fac1c73fb65a2bb31d8c9278d82cbc4c5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: orange2ai/orange-line-illustration
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - image
-  - skill
-  source_url: https://github.com/orange2ai/orange-line-illustration
-  visibility: public
-  archived: false
-  description: 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence.
-    Free for open-source use; commercial license for closed-source.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of
-      silence. Free for open-source use; commercial license for closed-source.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-15T00:34:19Z'
-  content_lock:
-    locked_ref: f7e1f8444c1832e38ab92bca03d314560fc4fb98
-    locked_url: https://github.com/orange2ai/orange-line-illustration/commit/f7e1f8444c1832e38ab92bca03d314560fc4fb98
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: pexoai/pexo-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - audio
-  - collection
-  - image
-  - shell
-  - skill
-  - video
-  source_url: https://github.com/pexoai/pexo-skills
-  visibility: public
-  archived: false
-  description: A collection of open-source Agent Skills for content creation — images, audio, and video.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A collection of open-source Agent Skills for content creation — images, audio, and video.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-20T07:44:24Z'
-  content_lock:
-    locked_ref: f724267e45a065b6be445ea6f07312e62d3207cd
-    locked_url: https://github.com/pexoai/pexo-skills/commit/f724267e45a065b6be445ea6f07312e62d3207cd
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: ponyodong2026/ponyo-cover-anchor-system
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - image
-  - product
-  - skill
-  source_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system
-  visibility: public
-  archived: false
-  description: 'Xiaohongshu cover design skill: information density × visual anchors'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Xiaohongshu cover design skill: information density × visual anchors'
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-22T09:07:20Z'
-  content_lock:
-    locked_ref: f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
-    locked_url: https://github.com/ponyodong2026/ponyo-cover-anchor-system/commit/f03b7bc8c751e8b5e2e9ead66fd9aa16def22b84
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: putyy/res-downloader
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags: []
-  source_url: https://github.com/putyy/res-downloader
-  visibility: public
-  archived: false
-  description: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T08:47:18Z'
-  content_lock:
-    locked_ref: f8ac4d9c85baf28322106e40ea3fdea9867e2f74
-    locked_url: https://github.com/putyy/res-downloader/commit/f8ac4d9c85baf28322106e40ea3fdea9867e2f74
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: pyang5166/gbro-collage-broll
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - paper-trading
-  - python
-  - skill
-  source_url: https://github.com/pyang5166/gbro-collage-broll
-  visibility: public
-  archived: false
-  description: 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-15T12:50:50Z'
-  content_lock:
-    locked_ref: a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
-    locked_url: https://github.com/pyang5166/gbro-collage-broll/commit/a1a4ee2e2abf7d44e460026b706d0c72c2cf8a91
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: pyang5166/gbro-cover-design
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - image
-  - skill
-  source_url: https://github.com/pyang5166/gbro-cover-design
-  visibility: public
-  archived: false
-  description: 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-15T13:36:54Z'
-  content_lock:
-    locked_ref: 8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
-    locked_url: https://github.com/pyang5166/gbro-cover-design/commit/8d1a0a5487e9ee6539b2b0a471b58469aadfedd6
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: rachelos/we-mp-rss
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - api
-  - python
-  source_url: https://github.com/rachelos/we-mp-rss
-  visibility: public
-  archived: false
-  description: ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手
-    、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI
-      Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T01:12:37Z'
-  content_lock:
-    locked_ref: d8feb6a42c6773d7374e03c487d3ae3426084af8
-    locked_url: https://github.com/rachelos/we-mp-rss/commit/d8feb6a42c6773d7374e03c487d3ae3426084af8
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: remotion-dev/skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - skill
-  - typescript
-  - video
-  source_url: https://github.com/remotion-dev/skills
-  visibility: public
-  archived: false
-  description: Agent Skills
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Agent Skills
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T13:29:08Z'
-  content_lock:
-    locked_ref: bd566b65d521b40fe92e1f26766e82de9e291693
-    locked_url: https://github.com/remotion-dev/skills/commit/bd566b65d521b40fe92e1f26766e82de9e291693
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: renezander030/capcut-cli
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - api
-  - javascript
-  - video
-  source_url: https://github.com/renezander030/capcut-cli
-  visibility: public
-  archived: false
-  description: Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates,
-    cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not affiliated with
-    ByteDance.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume,
-      templates, cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not
-      affiliated with ByteDance.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:17:08Z'
-  content_lock:
-    locked_ref: 11862d758f947cae53650b571463e2db0a4ac767
-    locked_url: https://github.com/renezander030/capcut-cli/commit/11862d758f947cae53650b571463e2db0a4ac767
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: rohunvora/x-research-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - research
-  - skill
-  - typescript
-  source_url: https://github.com/rohunvora/x-research-skill
-  visibility: public
-  archived: false
-  description: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced
-    briefings.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced
-      briefings.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-02-19T08:42:51Z'
-  content_lock:
-    locked_ref: 623cca7f41f2fb859bdd01dd7328b7b15da110ed
-    locked_url: https://github.com/rohunvora/x-research-skill/commit/623cca7f41f2fb859bdd01dd7328b7b15da110ed
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: sferik/x-cli
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags: []
-  source_url: https://github.com/sferik/x-cli
-  visibility: public
-  archived: false
-  description: A command-line power tool for Twitter.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A command-line power tool for Twitter.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T01:06:24Z'
-  content_lock:
-    locked_ref: 274fe5db7a9ce9c276d72e34f1f79ae2e817dcb5
-    locked_url: https://github.com/sferik/x-cli/commit/274fe5db7a9ce9c276d72e34f1f79ae2e817dcb5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: siddharthvaddem/openscreen
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - archived
-  - typescript
-  source_url: https://github.com/siddharthvaddem/openscreen
-  visibility: public
-  archived: true
-  description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
-    An alternative to Screen Studio.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: true
-    description: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.
-      An alternative to Screen Studio.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-17T02:34:20Z'
-  content_lock:
-    locked_ref: f57e36e25448b5af6c7b1b271066fe5beb9b8a49
-    locked_url: https://github.com/siddharthvaddem/openscreen/commit/f57e36e25448b5af6c7b1b271066fe5beb9b8a49
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: slidevjs/slidev
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - typescript
-  source_url: https://github.com/slidevjs/slidev
-  visibility: public
-  archived: false
-  description: Presentation Slides for Developers
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Presentation Slides for Developers
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-25T00:42:02Z'
-  content_lock:
-    locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
-    locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: webadderallorg/Recordly
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - skill
-  - typescript
-  - video
-  source_url: https://github.com/webadderallorg/Recordly
-  visibility: public
-  archived: false
-  description: Create polished demo videos without editing skills. Mac/Windows/Linux
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Create polished demo videos without editing skills. Mac/Windows/Linux
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:43:09Z'
-  content_lock:
-    locked_ref: 8b9b106d6e3cc8cc0f688dfb3348a63136aee338
-    locked_url: https://github.com/webadderallorg/Recordly/commit/8b9b106d6e3cc8cc0f688dfb3348a63136aee338
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: wechat-article/wechat-article-exporter
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - typescript
-  source_url: https://github.com/wechat-article/wechat-article-exporter
-  visibility: public
-  archived: false
-  description: 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML
-    格式可100%还原文章排版与样式。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML
-      格式可100%还原文章排版与样式。
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-07T05:48:10Z'
-  content_lock:
-    locked_ref: a7bffa6e481a188510a701d30b399b76573434e5
-    locked_url: https://github.com/wechat-article/wechat-article-exporter/commit/a7bffa6e481a188510a701d30b399b76573434e5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: wechatsync/Wechatsync
+  repo: TradingAi666/TzFilm-Douyin-Tool
   owned: false
   starred: true
   source_kind: starred
@@ -2550,28 +2954,197 @@ entries:
   registry_role: null
   primary_category: publishing-and-growth
   tags:
-  - typescript
-  source_url: https://github.com/wechatsync/Wechatsync
+  - javascript
+  - video
+  source_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool
   visibility: public
   archived: false
-  description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+  description: 自动从抖音创作者中心导出视频数据，支持 macOS 后台定时运行
   status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
-    default_branch: v2
+    default_branch: main
     visibility: public
     archived: false
-    description: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
-    license_spdx: GPL-3.0
+    description: 自动从抖音创作者中心导出视频数据，支持 macOS 后台定时运行
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-05-27T05:33:56Z'
+    pushed_at: '2026-05-27T11:19:16Z'
   content_lock:
-    locked_ref: a98e42865387285afcc027c61836488748f3b30f
-    locked_url: https://github.com/wechatsync/Wechatsync/commit/a98e42865387285afcc027c61836488748f3b30f
+    locked_ref: a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
+    locked_url: https://github.com/TradingAi666/TzFilm-Douyin-Tool/commit/a0c12c3fc47f48797b306a2ed144ec9c0f30e8e6
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-11T10:09:22Z'
+- universe: content-production
+  repo: alchaincyf/x-mentor-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - skill
+  source_url: https://github.com/alchaincyf/x-mentor-skill
+  visibility: public
+  archived: false
+  description: X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-25T03:02:58Z'
+  content_lock:
+    locked_ref: f913c720135e54828dc1ea8f4fa256a5e32fe5bb
+    locked_url: https://github.com/alchaincyf/x-mentor-skill/commit/f913c720135e54828dc1ea8f4fa256a5e32fe5bb
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-29T05:45:35Z'
+- universe: content-production
+  repo: gooseworks-ai/goose-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - api
+  - browser
+  - library
+  - python
+  - skill
+  source_url: https://github.com/gooseworks-ai/goose-skills
+  visibility: public
+  archived: false
+  description: Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead
+    gen, seo and data scraping
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead
+      gen, seo and data scraping
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-01T02:23:12Z'
+  content_lock:
+    locked_ref: e1592ee2bdc563e3aa6e36b308bcd88f393e3817
+    locked_url: https://github.com/gooseworks-ai/goose-skills/commit/e1592ee2bdc563e3aa6e36b308bcd88f393e3817
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-01T11:47:26Z'
+- universe: content-production
+  repo: geekjourneyx/md2wechat-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - skill
+  source_url: https://github.com/geekjourneyx/md2wechat-skill
+  visibility: public
+  archived: false
+  description: Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T15:53:21Z'
+  content_lock:
+    locked_ref: 342cc66b492bd2bcf5039920e3cc52bd44a9bf0e
+    locked_url: https://github.com/geekjourneyx/md2wechat-skill/commit/342cc66b492bd2bcf5039920e3cc52bd44a9bf0e
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-13T14:42:21Z'
+- universe: content-production
+  repo: dreammis/social-auto-upload
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - python
+  source_url: https://github.com/dreammis/social-auto-upload
+  visibility: public
+  archived: false
+  description: 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-02T16:56:12Z'
+  content_lock:
+    locked_ref: 0012d2c355f88f683cc38dde2a2db209e14091bc
+    locked_url: https://github.com/dreammis/social-auto-upload/commit/0012d2c355f88f683cc38dde2a2db209e14091bc
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-07T01:43:43Z'
+- universe: content-production
+  repo: dontbesilent2025/dbskill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  tags:
+  - javascript
+  - skill
+  source_url: https://github.com/dontbesilent2025/dbskill
+  visibility: public
+  archived: false
+  description: dontbesilent 的商业诊断 Skills
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: dontbesilent 的商业诊断 Skills
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-07T03:48:59Z'
+  content_lock:
+    locked_ref: 8b8e33f1ecaed8cee606fe950c4426b525ead314
+    locked_url: https://github.com/dontbesilent2025/dbskill/commit/8b8e33f1ecaed8cee606fe950c4426b525ead314
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-24T05:13:02Z'
 - universe: content-production
   repo: white0dew/XiaohongshuSkills
   owned: false
@@ -2604,451 +3177,39 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-03T15:22:44Z'
 - universe: content-production
-  repo: yang0/handraw-style
+  repo: coreyhaines31/marketingskills
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - skill
-  source_url: https://github.com/yang0/handraw-style
-  visibility: public
-  archived: false
-  description: 手绘风格编号画廊与双语提示词 Skill
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 手绘风格编号画廊与双语提示词 Skill
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-09T08:36:37Z'
-  content_lock:
-    locked_ref: 58dee6151874c6fc381e6a0d97430f1c275c1696
-    locked_url: https://github.com/yang0/handraw-style/commit/58dee6151874c6fc381e6a0d97430f1c275c1696
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: yt-dlp/yt-dlp
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - audio
-  - python
-  - video
-  source_url: https://github.com/yt-dlp/yt-dlp
-  visibility: public
-  archived: false
-  description: A feature-rich command-line audio/video downloader
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: A feature-rich command-line audio/video downloader
-    license_spdx: Unlicense
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-30T13:58:45Z'
-  content_lock:
-    locked_ref: bbc809a1161d3bfca51fa36f59dda35556ee85a0
-    locked_url: https://github.com/yt-dlp/yt-dlp/commit/bbc809a1161d3bfca51fa36f59dda35556ee85a0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: zarazhangrui/follow-builders
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
+  primary_category: publishing-and-growth
   tags:
   - javascript
-  source_url: https://github.com/zarazhangrui/follow-builders
-  visibility: public
-  archived: false
-  description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible
-    summaries. Follow builders, not influencers.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible
-      summaries. Follow builders, not influencers.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T06:41:40Z'
-  content_lock:
-    locked_ref: 20d6b5f53f3b41db3ea5842dcc85f9da3fceef4a
-    locked_url: https://github.com/zarazhangrui/follow-builders/commit/20d6b5f53f3b41db3ea5842dcc85f9da3fceef4a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: zarazhangrui/frontend-slides
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: visual-image-production
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/zarazhangrui/frontend-slides
-  visibility: public
-  archived: false
-  description: Create beautiful slides on the web using a coding agent's frontend skills
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Create beautiful slides on the web using a coding agent's frontend skills
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-23T20:08:19Z'
-  content_lock:
-    locked_ref: 9906a34d640d2111f724544cbc50f7f130569ae1
-    locked_url: https://github.com/zarazhangrui/frontend-slides/commit/9906a34d640d2111f724544cbc50f7f130569ae1
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: content-production
-  repo: zinan92/AI-videos
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - python
-  - video
-  - workflow
-  source_url: https://github.com/zinan92/AI-videos
-  visibility: public
-  archived: false
-  description: AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-29T08:43:15Z'
-- universe: content-production
-  repo: zinan92/autocut
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - archived
-  - javascript
-  - product
-  - video
-  - workflow
-  source_url: https://github.com/zinan92/autocut
-  visibility: public
-  archived: true
-  description: Transcript-first video assembly workbench for Remotion workflows.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: codex/remotion-v1
-    visibility: public
-    archived: true
-    description: Transcript-first video assembly workbench for Remotion workflows.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-20T04:34:40Z'
-- universe: content-production
-  repo: zinan92/content-downloader
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - browser
-  - python
-  source_url: https://github.com/zinan92/content-downloader
-  visibility: public
-  archived: false
-  description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T08:51:42Z'
-- universe: content-production
-  repo: zinan92/content-extractor
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - product
-  - python
   - research
-  source_url: https://github.com/zinan92/content-extractor
+  - skill
+  source_url: https://github.com/coreyhaines31/marketingskills
   visibility: public
   archived: false
-  description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-10T04:56:28Z'
-- universe: content-production
-  repo: zinan92/content-rewriter
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: text-processing
-  tags:
-  - python
-  source_url: https://github.com/zinan92/content-rewriter
-  visibility: public
-  archived: false
-  description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-01T04:51:21Z'
-- universe: content-production
-  repo: zinan92/content-studio
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - private
-  - python
-  source_url: https://github.com/zinan92/content-studio
-  visibility: private
-  archived: false
-  description: ''
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: private
-    archived: false
-    description: ''
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:36:00Z'
-- universe: content-production
-  repo: zinan92/daily-newsletter
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - python
-  - workflow
-  source_url: https://github.com/zinan92/daily-newsletter
-  visibility: public
-  archived: false
-  description: 'Local-first Daily Inbox pipeline: fetch source feeds, run AI selection/writing, finalize Markdown/HTML/PNG,
-    track source health, and send Feishu receipts.'
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Local-first Daily Inbox pipeline: fetch source feeds, run AI selection/writing, finalize Markdown/HTML/PNG,
-      track source health, and send Feishu receipts.'
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T04:06:39Z'
-- universe: content-production
-  repo: zinan92/douyin-downloader
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - python
-  source_url: https://github.com/zinan92/douyin-downloader
-  visibility: public
-  archived: false
-  description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-29T08:43:43Z'
-- universe: content-production
-  repo: zinan92/douyin-downloader-1
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - python
-  source_url: https://github.com/zinan92/douyin-downloader-1
-  visibility: public
-  archived: false
-  description: 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 批量下载抖音视频并自动转录归档。in 抖音URL/本地文件 → out 去水印视频 + 转录文本 + Markdown归档 + JSON分析摘要
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-29T08:43:27Z'
-- universe: content-production
-  repo: zinan92/park-koubo-workflow
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - python
-  - video
-  - workflow
-  source_url: https://github.com/zinan92/park-koubo-workflow
-  visibility: public
-  archived: false
-  description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T04:01:11Z'
-- universe: content-production
-  repo: zinan92/videocut
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - archived
-  - javascript
-  - video
-  source_url: https://github.com/zinan92/videocut
-  visibility: public
-  archived: true
-  description: AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速
+  description: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
     default_branch: main
     visibility: public
-    archived: true
-    description: AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-17T10:25:55Z'
-- universe: content-production
-  repo: zinan92/xiaohongshu-downloader
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - private
-  - python
-  source_url: https://github.com/zinan92/xiaohongshu-downloader
-  visibility: private
-  archived: false
-  description: 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: private
     archived: false
-    description: 面向 AI Agent 的小红书竞品信号采集 CLI — 导出、排序、增量更新、互动时间序列、Whisper 转录、爆品报告
-    license_spdx: NOASSERTION
+    description: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-03-20T09:18:20Z'
-export_checksum: c0cfbd5b5b14590755e80af37b06cb0a3652f149ae04e427a461c8d85996876a
+    pushed_at: '2026-09-05T04:48:10Z'
+  content_lock:
+    locked_ref: 5b2c0007766c6a1cf1d53fd8fc73e979e0821022
+    locked_url: https://github.com/coreyhaines31/marketingskills/commit/5b2c0007766c6a1cf1d53fd8fc73e979e0821022
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-02-14T01:09:47Z'
+export_checksum: 93520a92a1a58d95a40f29c1b25860b83b979d2b1205c2a1875d0fb5f38225ae
