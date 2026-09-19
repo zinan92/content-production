@@ -1,5 +1,33 @@
-snapshot_id: github-universe-2026-09-19
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 entries:
+- universe: content-production
+  repo: zinan92/park-koubo-workflow
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - video
+  - workflow
+  source_url: https://github.com/zinan92/park-koubo-workflow
+  visibility: public
+  archived: false
+  description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T04:01:11Z'
+  catalog_added_at: '2026-09-07T04:49:06Z'
 - universe: content-production
   repo: zinan92/AI-videos
   owned: true
@@ -27,84 +55,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-03-29T08:43:15Z'
-- universe: content-production
-  repo: zinan92/content-downloader
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - browser
-  - python
-  source_url: https://github.com/zinan92/content-downloader
-  visibility: public
-  archived: false
-  description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T08:51:42Z'
-- universe: content-production
-  repo: zinan92/content-extractor
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: content-acquisition
-  tags:
-  - product
-  - python
-  - research
-  source_url: https://github.com/zinan92/content-extractor
-  visibility: public
-  archived: false
-  description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-10T04:56:28Z'
-- universe: content-production
-  repo: zinan92/content-rewriter
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: text-processing
-  tags:
-  - python
-  source_url: https://github.com/zinan92/content-rewriter
-  visibility: public
-  archived: false
-  description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-01T04:51:21Z'
+  catalog_added_at: '2026-03-19T13:54:08Z'
 - universe: content-production
   repo: zinan92/content-studio
   owned: true
@@ -131,6 +82,7 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-09-14T04:36:00Z'
+  catalog_added_at: '2026-09-13T08:05:15Z'
 - universe: content-production
   repo: zinan92/daily-newsletter
   owned: true
@@ -159,20 +111,23 @@ entries:
     license_spdx: MIT
     checked_at: '2026-09-14'
     pushed_at: '2026-09-11T04:06:39Z'
+  catalog_added_at: '2026-05-30T03:49:38Z'
 - universe: content-production
-  repo: zinan92/douyin-downloader
+  repo: zinan92/content-extractor
   owned: true
-  starred: true
-  source_kind: owned_and_starred
+  starred: false
+  source_kind: owned
   registry_repo: false
   registry_role: null
   primary_category: content-acquisition
   tags:
+  - product
   - python
-  source_url: https://github.com/zinan92/douyin-downloader
+  - research
+  source_url: https://github.com/zinan92/content-extractor
   visibility: public
   archived: false
-  description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
+  description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
   status: BUILDING
   review_status: confirmed
   review_reason: null
@@ -180,10 +135,38 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
+    description: 多模态内容提取器。in 视频/图片/文章 → out transcript + analysis + markdown。Apple Silicon mlx-whisper GPU 加速 (~15x 实时)
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-10T04:56:28Z'
+  catalog_added_at: '2026-03-30T07:48:40Z'
+- universe: content-production
+  repo: zinan92/content-downloader
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - browser
+  - python
+  source_url: https://github.com/zinan92/content-downloader
+  visibility: public
+  archived: false
+  description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 统一内容下载器。in URL (douyin/xhs/wechat/x) → out 标准化 media + metadata + manifest。CDN 断点续传 + Playwright fallback
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-03-29T08:43:43Z'
+    pushed_at: '2026-09-13T08:51:42Z'
+  catalog_added_at: '2026-03-29T09:48:39Z'
 - universe: content-production
   repo: zinan92/douyin-downloader-1
   owned: true
@@ -209,33 +192,7 @@ entries:
     license_spdx: MIT
     checked_at: '2026-09-14'
     pushed_at: '2026-03-29T08:43:27Z'
-- universe: content-production
-  repo: zinan92/park-koubo-workflow
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - python
-  - video
-  - workflow
-  source_url: https://github.com/zinan92/park-koubo-workflow
-  visibility: public
-  archived: false
-  description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T04:01:11Z'
+  catalog_added_at: '2026-03-19T03:17:03Z'
 - universe: content-production
   repo: zinan92/xiaohongshu-downloader
   owned: true
@@ -262,3 +219,56 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-03-20T09:18:20Z'
+  catalog_added_at: '2026-03-16T07:15:58Z'
+- universe: content-production
+  repo: zinan92/douyin-downloader
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - python
+  source_url: https://github.com/zinan92/douyin-downloader
+  visibility: public
+  archived: false
+  description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-29T08:43:43Z'
+  catalog_added_at: '2026-03-15T10:21:37Z'
+- universe: content-production
+  repo: zinan92/content-rewriter
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  tags:
+  - python
+  source_url: https://github.com/zinan92/content-rewriter
+  visibility: public
+  archived: false
+  description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-01T04:51:21Z'
+  catalog_added_at: '2026-03-30T07:48:57Z'

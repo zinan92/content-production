@@ -1,37 +1,35 @@
-snapshot_id: github-universe-2026-09-19
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 entries:
 - universe: content-production
-  repo: cooderl/wewe-rss
-  owned: false
-  starred: true
-  source_kind: starred
+  repo: zinan92/autocut
+  owned: true
+  starred: false
+  source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: content-acquisition
+  primary_category: video-production
   tags:
   - archived
-  - typescript
-  source_url: https://github.com/cooderl/wewe-rss
+  - javascript
+  - product
+  - video
+  - workflow
+  source_url: https://github.com/zinan92/autocut
   visibility: public
   archived: true
-  description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+  description: Transcript-first video assembly workbench for Remotion workflows.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
-    default_branch: main
+    default_branch: codex/remotion-v1
     visibility: public
     archived: true
-    description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
-    license_spdx: MIT
+    description: Transcript-first video assembly workbench for Remotion workflows.
+    license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-03-20T00:22:37Z'
-  content_lock:
-    locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+    pushed_at: '2026-06-20T04:34:40Z'
+  catalog_added_at: '2026-06-18T04:11:01Z'
 - universe: content-production
   repo: siddharthvaddem/openscreen
   owned: false
@@ -66,35 +64,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: content-production
-  repo: zinan92/autocut
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: video-production
-  tags:
-  - archived
-  - javascript
-  - product
-  - video
-  - workflow
-  source_url: https://github.com/zinan92/autocut
-  visibility: public
-  archived: true
-  description: Transcript-first video assembly workbench for Remotion workflows.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: codex/remotion-v1
-    visibility: public
-    archived: true
-    description: Transcript-first video assembly workbench for Remotion workflows.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-20T04:34:40Z'
+  catalog_added_at: '2026-04-14T09:49:51Z'
 - universe: content-production
   repo: zinan92/videocut
   owned: true
@@ -122,3 +92,37 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-06-17T10:25:55Z'
+  catalog_added_at: '2026-02-25T14:42:07Z'
+- universe: content-production
+  repo: cooderl/wewe-rss
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  tags:
+  - archived
+  - typescript
+  source_url: https://github.com/cooderl/wewe-rss
+  visibility: public
+  archived: true
+  description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: true
+    description: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-20T00:22:37Z'
+  content_lock:
+    locked_ref: e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_url: https://github.com/cooderl/wewe-rss/commit/e751c64294080d83deb1610d2667bed3cfa4b393
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-18T16:02:05Z'
