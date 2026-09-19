@@ -4,7 +4,7 @@
 
 **Content Production 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-95%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-97%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out  95-repo Content Production map, grouped by function and owned/starred source
+out  97-repo Content Production map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-09-14` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-09-19` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -40,7 +40,7 @@ Snapshot: `github-universe-2026-09-14` · canonical source: [Park OS](https://gi
 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | High-Quality Voice Cloning TTS for 600+ Languages | Starred | `08be0b4ccbac` |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Starred | `f772e498a45f` |
 
-### Video Production (32)
+### Video Production (34)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -76,6 +76,8 @@ Snapshot: `github-universe-2026-09-14` · canonical source: [Park OS](https://gi
 | [zinan92/autocut](https://github.com/zinan92/autocut) | Transcript-first video assembly workbench for Remotion workflows. | Owned | `owned source` · ARCHIVED |
 | [zinan92/park-koubo-workflow](https://github.com/zinan92/park-koubo-workflow) | 口播视频导演与 14 步 Workflow Router。in 剪映粗剪 + SRT → out Hook + 正文视觉 + Final Video；三个人工审批门。 | Owned | `owned source` |
 | [zinan92/videocut](https://github.com/zinan92/videocut) | AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速 | Owned + Starred | `owned source` · ARCHIVED |
+| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. | Starred | `bbc46d3e6786` |
+| [vibe-motion/skills](https://github.com/vibe-motion/skills) | agent skills for vibe motion | Starred | `cb3c905e4bc3` |
 
 ### Visual & Image Production (13)
 

@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-09-14
+snapshot_id: github-universe-2026-09-19
 entries:
 - universe: content-production
   repo: ATH-MaaS/Pixelle-Video
@@ -1811,6 +1811,38 @@ entries:
     update_policy: monthly_pr
     vendored: false
 - universe: content-production
+  repo: mcncarl/jianying-headless
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/mcncarl/jianying-headless
+  visibility: public
+  archived: false
+  description: 'Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.'
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-19T02:42:58Z'
+  content_lock:
+    locked_ref: bbc46d3e67860eedbecc7b9d7628933c3d3e2514
+    locked_url: https://github.com/mcncarl/jianying-headless/commit/bbc46d3e67860eedbecc7b9d7628933c3d3e2514
+    locked_at: '2026-09-19'
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
   repo: nashsu/Viral_Writer_Skill
   owned: false
   starred: true
@@ -2404,6 +2436,38 @@ entries:
     locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: vibe-motion/skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/vibe-motion/skills
+  visibility: public
+  archived: false
+  description: agent skills for vibe motion
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: agent skills for vibe motion
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-19'
+    pushed_at: '2026-09-04T05:01:32Z'
+  content_lock:
+    locked_ref: cb3c905e4bc362e02e040035b5c88b13fdd54cf4
+    locked_url: https://github.com/vibe-motion/skills/commit/cb3c905e4bc362e02e040035b5c88b13fdd54cf4
+    locked_at: '2026-09-19'
     update_policy: monthly_pr
     vendored: false
 - universe: content-production

@@ -1,5 +1,5 @@
-snapshot_id: github-universe-2026-09-14
-generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
+snapshot_id: github-universe-2026-09-19
+generated_from_checksum: 9031b22c57756f11f22956a4a1b1cb0770c8cf2fb263c534b2b2439427671646
 locks:
 - repo: ATH-MaaS/Pixelle-Video
   source_url: https://github.com/ATH-MaaS/Pixelle-Video
@@ -449,6 +449,14 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+- repo: mcncarl/jianying-headless
+  source_url: https://github.com/mcncarl/jianying-headless
+  content_lock:
+    locked_ref: bbc46d3e67860eedbecc7b9d7628933c3d3e2514
+    locked_url: https://github.com/mcncarl/jianying-headless/commit/bbc46d3e67860eedbecc7b9d7628933c3d3e2514
+    locked_at: '2026-09-19'
+    update_policy: monthly_pr
+    vendored: false
 - repo: nashsu/Viral_Writer_Skill
   source_url: https://github.com/nashsu/Viral_Writer_Skill
   content_lock:
@@ -599,6 +607,14 @@ locks:
     locked_ref: a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_url: https://github.com/slidevjs/slidev/commit/a8d8ff717c5a72c1b3a9d98f1c849481f2ddcd00
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: vibe-motion/skills
+  source_url: https://github.com/vibe-motion/skills
+  content_lock:
+    locked_ref: cb3c905e4bc362e02e040035b5c88b13fdd54cf4
+    locked_url: https://github.com/vibe-motion/skills/commit/cb3c905e4bc362e02e040035b5c88b13fdd54cf4
+    locked_at: '2026-09-19'
     update_policy: monthly_pr
     vendored: false
 - repo: webadderallorg/Recordly
