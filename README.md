@@ -4,7 +4,7 @@
 
 **Content Production 的 capability-first catalog：先按功能分类，再按加入时间从新到旧浏览。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-97%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-102%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 97-repo Content Production catalog, grouped by function and ordered newest-added first
+out 102-repo Content Production catalog, grouped by function and ordered newest-added first
 
 fail snapshot checksum mismatch → stop before publishing
 fail missing created_at / starred_at → stop; do not guess ordering
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -31,19 +31,22 @@ Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Pa
 
 ## Browse by function
 
-### Audio & Voice (4)
+### Audio & Voice (5)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Starred | `2026-10-01` | `befc0a6f5b55` |
 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | High-Quality Voice Cloning TTS for 600+ Languages | Starred | `2026-09-12` | `08be0b4ccbac` |
 | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M | Starred | `2026-07-17` | `dfb907a02bba` |
 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. | Starred | `2026-07-17` | `407eb61aec49` |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Starred | `2026-06-20` | `f772e498a45f` |
 
-### Video Production (34)
+### Video Production (36)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [echris6/motion-video-kit](https://github.com/echris6/motion-video-kit) | Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts | Starred | `2026-10-01` | `255562b04b1e` |
+| [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. | Starred | `2026-10-01` | `3d54892e2ae5` |
 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. | Starred | `2026-09-18` | `bbc46d3e6786` |
 | [vibe-motion/skills](https://github.com/vibe-motion/skills) | agent skills for vibe motion | Starred | `2026-09-18` | `cb3c905e4bc3` |
 | [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | Starred | `2026-09-13` | `1328feb58714` |
@@ -97,10 +100,11 @@ Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Pa
 | [pexoai/pexo-skills](https://github.com/pexoai/pexo-skills) | A collection of open-source Agent Skills for content creation — images, audio, and video. | Starred | `2026-03-25` | `f724267e45a0` |
 | [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | Official inference repo for FLUX.1 models | Starred | `2026-03-19` | `802fb4713906` |
 
-### Content Acquisition (24)
+### Content Acquisition (25)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) | 小红书爬虫数据采集，小红书逆向，私信，直播，小红书全域运营解决方案 | Starred | `2026-09-26` | `ebb6c4fbeaed` |
 | [zinan92/content-studio](https://github.com/zinan92/content-studio) | No description | Owned | `2026-09-13` | `owned source` · PRIVATE |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | Starred | `2026-08-26` | `5108d021a173` |
 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills） | Starred | `2026-07-16` | `3adf9e61eec9` |
@@ -140,10 +144,11 @@ Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Pa
 | [imraywang/wewrite](https://github.com/imraywang/wewrite) | 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道 | Starred | `2026-03-31` | `a363da0d92d3` |
 | [zinan92/content-rewriter](https://github.com/zinan92/content-rewriter) | 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿 | Owned | `2026-03-30` | `owned source` |
 
-### Publishing & Growth (13)
+### Publishing & Growth (14)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) | An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。 | Starred | `2026-09-26` | `cfa17a638ad8` |
 | [geekjourneyx/obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat) | Obsidian → WeChat \| Obsidian 插件一键排版发布到微信公众号，键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 | Starred | `2026-09-09` | `0d17e5184027` |
 | [XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system. | Starred | `2026-07-10` | `d2d818f9a4c0` |
 | [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 | Starred | `2026-06-22` | `a98e42865387` |
