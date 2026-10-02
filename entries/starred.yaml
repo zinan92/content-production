@@ -1,5 +1,42 @@
-snapshot_id: github-universe-2026-09-19-catalog-order-01
+snapshot_id: github-universe-2026-10-02-star-refresh-01
 entries:
+- universe: content-production
+  repo: debpalash/VoiceStudio
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: audio-and-voice
+  catalog_added_at: '2026-10-01T03:04:37Z'
+  tags:
+  - audio
+  - image
+  - python
+  - video
+  source_url: https://github.com/debpalash/VoiceStudio
+  visibility: public
+  archived: false
+  description: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,
+    dictation, transcription & audiobook creation in 646 languages.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,
+      dictation, transcription & audiobook creation in 646 languages.
+    license_spdx: AGPL-3.0
+    checked_at: 2026-10-02-star-refresh-01
+    pushed_at: '2026-10-02T01:35:15Z'
+  content_lock:
+    locked_ref: befc0a6f5b552b0b99e6eea574bc3c55e3d0519a
+    locked_url: https://github.com/debpalash/VoiceStudio/commit/befc0a6f5b552b0b99e6eea574bc3c55e3d0519a
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: content-production
   repo: k2-fsa/OmniVoice
   owned: false
@@ -138,6 +175,79 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2026-06-20T04:15:09Z'
+- universe: content-production
+  repo: echris6/motion-video-kit
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-01T10:30:32Z'
+  tags:
+  - image
+  - python
+  - skill
+  - video
+  source_url: https://github.com/echris6/motion-video-kit
+  visibility: public
+  archived: false
+  description: 'Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles
+    from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles
+      from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts'
+    license_spdx: MIT
+    checked_at: 2026-10-02-star-refresh-01
+    pushed_at: '2026-09-28T22:55:45Z'
+  content_lock:
+    locked_ref: 255562b04b1e5ecaa4ba98e5c9aa191d5ba7f6fa
+    locked_url: https://github.com/echris6/motion-video-kit/commit/255562b04b1e5ecaa4ba98e5c9aa191d5ba7f6fa
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: yihui-dev/awesome-opus5-5-videos
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-01T03:11:31Z'
+  tags:
+  - collection
+  - skill
+  - video
+  source_url: https://github.com/yihui-dev/awesome-opus5-5-videos
+  visibility: public
+  archived: false
+  description: A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original
+    next to a live remake on Skillry. Updated regularly.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original
+      next to a live remake on Skillry. Updated regularly.
+    license_spdx: MIT
+    checked_at: 2026-10-02-star-refresh-01
+    pushed_at: '2026-09-30T02:09:22Z'
+  content_lock:
+    locked_ref: 3d54892e2ae5b0e8d337171e6508bba4cec01ab8
+    locked_url: https://github.com/yihui-dev/awesome-opus5-5-videos/commit/3d54892e2ae5b0e8d337171e6508bba4cec01ab8
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: content-production
   repo: mcncarl/jianying-headless
   owned: false
@@ -1567,6 +1677,38 @@ entries:
     vendored: false
   catalog_added_at: '2026-03-19T04:00:26Z'
 - universe: content-production
+  repo: cv-cat/Spider_XHS
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  catalog_added_at: '2026-09-26T12:56:14Z'
+  tags:
+  - python
+  source_url: https://github.com/cv-cat/Spider_XHS
+  visibility: public
+  archived: false
+  description: 小红书爬虫数据采集，小红书逆向，私信，直播，小红书全域运营解决方案
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 小红书爬虫数据采集，小红书逆向，私信，直播，小红书全域运营解决方案
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-02-star-refresh-01
+    pushed_at: '2026-09-27T10:04:13Z'
+  content_lock:
+    locked_ref: ebb6c4fbeaedf1237190ebc0c8e3ae8b7ddd030e
+    locked_url: https://github.com/cv-cat/Spider_XHS/commit/ebb6c4fbeaedf1237190ebc0c8e3ae8b7ddd030e
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
   repo: GitHubDaily/GitHubDaily
   owned: false
   starred: true
@@ -2370,6 +2512,41 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2026-03-31T15:48:15Z'
+- universe: content-production
+  repo: ZJU-REAL/Easel
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  catalog_added_at: '2026-09-26T12:56:45Z'
+  tags:
+  - image
+  - python
+  source_url: https://github.com/ZJU-REAL/Easel
+  visibility: public
+  archived: false
+  description: An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what
+    works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn
+      what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。
+    license_spdx: Apache-2.0
+    checked_at: 2026-10-02-star-refresh-01
+    pushed_at: '2026-10-01T11:36:59Z'
+  content_lock:
+    locked_ref: cfa17a638ad8a76e65083b89e9f43471e18aa447
+    locked_url: https://github.com/ZJU-REAL/Easel/commit/cfa17a638ad8a76e65083b89e9f43471e18aa447
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: content-production
   repo: geekjourneyx/obsidian-md2wechat
   owned: false
