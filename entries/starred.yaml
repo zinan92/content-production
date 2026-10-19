@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-10-02-star-refresh-01
+snapshot_id: github-universe-2026-10-19-star-refresh-01
 entries:
 - universe: content-production
   repo: debpalash/VoiceStudio
@@ -175,6 +175,318 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2026-06-20T04:15:09Z'
+- universe: content-production
+  repo: UnderleveledBuilder/awesome-short-drama-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-19T05:12:30Z'
+  tags:
+  - collection
+  - skill
+  - video
+  source_url: https://github.com/UnderleveledBuilder/awesome-short-drama-skills
+  visibility: public
+  archived: false
+  description: 'AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex
+    等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama):
+    screenwriting, storyboards, Seedance / Kling / MiniMax video prompts'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex
+      等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama):
+      screenwriting, storyboards, Seedance / Kling / MiniMax video prompts'
+    license_spdx: CC0-1.0
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-19T05:48:18Z'
+  content_lock:
+    locked_ref: 9130f7e510549f119bbb7f4a522aeae46bd68d47
+    locked_url: https://github.com/UnderleveledBuilder/awesome-short-drama-skills/commit/9130f7e510549f119bbb7f4a522aeae46bd68d47
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: lemomo-ai/lemo-opuscar
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-17T13:04:37Z'
+  tags:
+  - javascript
+  - skill
+  - video
+  source_url: https://github.com/lemomo-ai/lemo-opuscar
+  visibility: public
+  archived: false
+  description: 'Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film
+    made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词
+    + 纯代码样片 + 导演与技术指南（新增「实证影像」）'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film
+      made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词
+      + 纯代码样片 + 导演与技术指南（新增「实证影像」）'
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-18T10:18:33Z'
+  content_lock:
+    locked_ref: 508848acb2b4930c4041fef4d594120da1525bff
+    locked_url: https://github.com/lemomo-ai/lemo-opuscar/commit/508848acb2b4930c4041fef4d594120da1525bff
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: Ucmp0001/video-production-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-17T09:07:18Z'
+  tags:
+  - product
+  - python
+  - skill
+  - video
+  source_url: https://github.com/Ucmp0001/video-production-skills
+  visibility: public
+  archived: false
+  description: ''
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-08T04:32:19Z'
+  content_lock:
+    locked_ref: ea682de6edf7520a73bdd3c69c0f1651729b6ca5
+    locked_url: https://github.com/Ucmp0001/video-production-skills/commit/ea682de6edf7520a73bdd3c69c0f1651729b6ca5
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: threerocks/sweety-handdraw-video
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-15T19:35:04Z'
+  tags:
+  - audio
+  - javascript
+  - video
+  source_url: https://github.com/threerocks/sweety-handdraw-video
+  visibility: public
+  archived: false
+  description: 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-17T15:53:13Z'
+  content_lock:
+    locked_ref: 6ce26ca29281c68b3e0dde192e461575494a9f55
+    locked_url: https://github.com/threerocks/sweety-handdraw-video/commit/6ce26ca29281c68b3e0dde192e461575494a9f55
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: nutllwhy/code-brand-film
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-15T06:59:04Z'
+  tags:
+  - python
+  - skill
+  - video
+  source_url: https://github.com/nutllwhy/code-brand-film
+  visibility: public
+  archived: false
+  description: 用代码生成 15 秒品牌宣传片的 Agent Skill（HyperFrames + GSAP + Python 合成配乐）
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 用代码生成 15 秒品牌宣传片的 Agent Skill（HyperFrames + GSAP + Python 合成配乐）
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-18T13:46:05Z'
+  content_lock:
+    locked_ref: e65b2c72c4afb6f3d3fd57fefc6e0436f15c4e77
+    locked_url: https://github.com/nutllwhy/code-brand-film/commit/e65b2c72c4afb6f3d3fd57fefc6e0436f15c4e77
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: nutllwhy/whiteboard-book-video-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-15T06:58:59Z'
+  tags:
+  - python
+  - skill
+  - video
+  source_url: https://github.com/nutllwhy/whiteboard-book-video-skill
+  visibility: public
+  archived: false
+  description: 白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-09-04T11:44:39Z'
+  content_lock:
+    locked_ref: aac0295461f381c4a6052b28802221cfec7b28b9
+    locked_url: https://github.com/nutllwhy/whiteboard-book-video-skill/commit/aac0295461f381c4a6052b28802221cfec7b28b9
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: nutllwhy/hyperframes-motion-library
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-15T06:58:49Z'
+  tags:
+  - library
+  source_url: https://github.com/nutllwhy/hyperframes-motion-library
+  visibility: public
+  archived: false
+  description: ''
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-08-15T17:07:50Z'
+  content_lock:
+    locked_ref: fe59998fa3f2c8579ba5ddd00cbbb76131190bdb
+    locked_url: https://github.com/nutllwhy/hyperframes-motion-library/commit/fe59998fa3f2c8579ba5ddd00cbbb76131190bdb
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: alchaincyf/huashu-art-motion
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-10T04:56:21Z'
+  tags:
+  - javascript
+  - skill
+  source_url: https://github.com/alchaincyf/huashu-art-motion
+  visibility: public
+  archived: false
+  description: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-16T17:03:31Z'
+  content_lock:
+    locked_ref: 8a0d7d72ca65fcce6f8ba82c4a6c8dfe35b8422c
+    locked_url: https://github.com/alchaincyf/huashu-art-motion/commit/8a0d7d72ca65fcce6f8ba82c4a6c8dfe35b8422c
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: getopenscreen/openscreen
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-02T10:45:20Z'
+  tags:
+  - typescript
+  source_url: https://github.com/getopenscreen/openscreen
+  visibility: public
+  archived: false
+  description: Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows,
+    macOS, Linux. Actively maintained.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions.
+      Windows, macOS, Linux. Actively maintained.
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-18T22:17:00Z'
+  content_lock:
+    locked_ref: e9c5ed99fb1f4666056c1b74e3ea1ba5a4d955df
+    locked_url: https://github.com/getopenscreen/openscreen/commit/e9c5ed99fb1f4666056c1b74e3ea1ba5a4d955df
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: content-production
   repo: echris6/motion-video-kit
   owned: false
@@ -1475,19 +1787,20 @@ entries:
     vendored: false
   catalog_added_at: '2026-07-09T06:23:24Z'
 - universe: content-production
-  repo: EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
+  repo: Evolink-AI/awesome-gpt-image-2-API-Prompts
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
   primary_category: visual-image-production
+  catalog_added_at: '2026-06-04T12:41:58Z'
   tags:
   - api
   - collection
   - image
   - python
-  source_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
+  source_url: https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts
   visibility: public
   archived: false
   description: GPT-Image-2 API and Prompts
@@ -1500,15 +1813,14 @@ entries:
     archived: false
     description: GPT-Image-2 API and Prompts
     license_spdx: CC0-1.0
-    checked_at: '2026-09-14'
+    checked_at: 2026-10-19-star-refresh-01
     pushed_at: '2026-07-18T06:23:28Z'
   content_lock:
     locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_at: '2026-09-14'
+    locked_url: https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
-  catalog_added_at: '2026-06-04T12:41:58Z'
 - universe: content-production
   repo: helloianneo/ian-xiaohei-illustrations
   owned: false
@@ -2512,6 +2824,69 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2026-03-31T15:48:15Z'
+- universe: content-production
+  repo: nutllwhy/wechat-style-tool
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  catalog_added_at: '2026-10-15T06:59:12Z'
+  tags:
+  - javascript
+  source_url: https://github.com/nutllwhy/wechat-style-tool
+  visibility: public
+  archived: false
+  description: 微信公众号样式工具 - 支持多种橙色系样式和图片边框转换
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 微信公众号样式工具 - 支持多种橙色系样式和图片边框转换
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2025-08-13T09:18:27Z'
+  content_lock:
+    locked_ref: ee53e4e9d1087e4a8d384986ee15a23eae9ed36a
+    locked_url: https://github.com/nutllwhy/wechat-style-tool/commit/ee53e4e9d1087e4a8d384986ee15a23eae9ed36a
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: content-production
+  repo: Jingyi-Wu-Richael/douyin-rule-check
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  catalog_added_at: '2026-10-08T09:30:44Z'
+  tags: []
+  source_url: https://github.com/Jingyi-Wu-Richael/douyin-rule-check
+  visibility: public
+  archived: false
+  description: 基于 2025 年 12 月更新的巨量星图官方规范，全方位检查视频的画面内容、文字文案以及口播语音，重点识别引导外流（如私下交易、第三方平台导流）和诱导下载等违规行为，适用于短视频发布前的合规性自检，降低因违规导致的限流或封禁风险。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 基于 2025 年 12 月更新的巨量星图官方规范，全方位检查视频的画面内容、文字文案以及口播语音，重点识别引导外流（如私下交易、第三方平台导流）和诱导下载等违规行为，适用于短视频发布前的合规性自检，降低因违规导致的限流或封禁风险。
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-06-06T06:23:26Z'
+  content_lock:
+    locked_ref: 2ad679de9161f36712ed9bd65e35904aafaab98e
+    locked_url: https://github.com/Jingyi-Wu-Richael/douyin-rule-check/commit/2ad679de9161f36712ed9bd65e35904aafaab98e
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: content-production
   repo: ZJU-REAL/Easel
   owned: false

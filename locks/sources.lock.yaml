@@ -1,5 +1,5 @@
-snapshot_id: github-universe-2026-10-02-star-refresh-01
-generated_from_checksum: 8036d7497ce0a89e8e2ba8eba972c0f869998126ec2c6bb80038f20794ed3354
+snapshot_id: github-universe-2026-10-19-star-refresh-01
+generated_from_checksum: 070a36533552aeaaf4906daf8b54f87284167c30e2a60be1279df893f1d78291
 locks:
 - repo: debpalash/VoiceStudio
   source_url: https://github.com/debpalash/VoiceStudio
@@ -39,6 +39,78 @@ locks:
     locked_ref: f772e498a45fbb5fb8e13fbf9b9c48be9fe33e69
     locked_url: https://github.com/OpenBMB/VoxCPM/commit/f772e498a45fbb5fb8e13fbf9b9c48be9fe33e69
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: UnderleveledBuilder/awesome-short-drama-skills
+  source_url: https://github.com/UnderleveledBuilder/awesome-short-drama-skills
+  content_lock:
+    locked_ref: 9130f7e510549f119bbb7f4a522aeae46bd68d47
+    locked_url: https://github.com/UnderleveledBuilder/awesome-short-drama-skills/commit/9130f7e510549f119bbb7f4a522aeae46bd68d47
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: lemomo-ai/lemo-opuscar
+  source_url: https://github.com/lemomo-ai/lemo-opuscar
+  content_lock:
+    locked_ref: 508848acb2b4930c4041fef4d594120da1525bff
+    locked_url: https://github.com/lemomo-ai/lemo-opuscar/commit/508848acb2b4930c4041fef4d594120da1525bff
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: Ucmp0001/video-production-skills
+  source_url: https://github.com/Ucmp0001/video-production-skills
+  content_lock:
+    locked_ref: ea682de6edf7520a73bdd3c69c0f1651729b6ca5
+    locked_url: https://github.com/Ucmp0001/video-production-skills/commit/ea682de6edf7520a73bdd3c69c0f1651729b6ca5
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: threerocks/sweety-handdraw-video
+  source_url: https://github.com/threerocks/sweety-handdraw-video
+  content_lock:
+    locked_ref: 6ce26ca29281c68b3e0dde192e461575494a9f55
+    locked_url: https://github.com/threerocks/sweety-handdraw-video/commit/6ce26ca29281c68b3e0dde192e461575494a9f55
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: nutllwhy/code-brand-film
+  source_url: https://github.com/nutllwhy/code-brand-film
+  content_lock:
+    locked_ref: e65b2c72c4afb6f3d3fd57fefc6e0436f15c4e77
+    locked_url: https://github.com/nutllwhy/code-brand-film/commit/e65b2c72c4afb6f3d3fd57fefc6e0436f15c4e77
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: nutllwhy/whiteboard-book-video-skill
+  source_url: https://github.com/nutllwhy/whiteboard-book-video-skill
+  content_lock:
+    locked_ref: aac0295461f381c4a6052b28802221cfec7b28b9
+    locked_url: https://github.com/nutllwhy/whiteboard-book-video-skill/commit/aac0295461f381c4a6052b28802221cfec7b28b9
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: nutllwhy/hyperframes-motion-library
+  source_url: https://github.com/nutllwhy/hyperframes-motion-library
+  content_lock:
+    locked_ref: fe59998fa3f2c8579ba5ddd00cbbb76131190bdb
+    locked_url: https://github.com/nutllwhy/hyperframes-motion-library/commit/fe59998fa3f2c8579ba5ddd00cbbb76131190bdb
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: alchaincyf/huashu-art-motion
+  source_url: https://github.com/alchaincyf/huashu-art-motion
+  content_lock:
+    locked_ref: 8a0d7d72ca65fcce6f8ba82c4a6c8dfe35b8422c
+    locked_url: https://github.com/alchaincyf/huashu-art-motion/commit/8a0d7d72ca65fcce6f8ba82c4a6c8dfe35b8422c
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: getopenscreen/openscreen
+  source_url: https://github.com/getopenscreen/openscreen
+  content_lock:
+    locked_ref: e9c5ed99fb1f4666056c1b74e3ea1ba5a4d955df
+    locked_url: https://github.com/getopenscreen/openscreen/commit/e9c5ed99fb1f4666056c1b74e3ea1ba5a4d955df
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: echris6/motion-video-kit
@@ -353,12 +425,12 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
-  source_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
+- repo: Evolink-AI/awesome-gpt-image-2-API-Prompts
+  source_url: https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts
   content_lock:
     locked_ref: e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_url: https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
-    locked_at: '2026-09-14'
+    locked_url: https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts/commit/e2a269ad1a055a0b4f6c1e170341c6c1aba30faa
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: helloianneo/ian-xiaohei-illustrations
@@ -607,6 +679,22 @@ locks:
     locked_ref: a363da0d92d30fc442aba6549d1a8824ebb0c115
     locked_url: https://github.com/imraywang/wewrite/commit/a363da0d92d30fc442aba6549d1a8824ebb0c115
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nutllwhy/wechat-style-tool
+  source_url: https://github.com/nutllwhy/wechat-style-tool
+  content_lock:
+    locked_ref: ee53e4e9d1087e4a8d384986ee15a23eae9ed36a
+    locked_url: https://github.com/nutllwhy/wechat-style-tool/commit/ee53e4e9d1087e4a8d384986ee15a23eae9ed36a
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: Jingyi-Wu-Richael/douyin-rule-check
+  source_url: https://github.com/Jingyi-Wu-Richael/douyin-rule-check
+  content_lock:
+    locked_ref: 2ad679de9161f36712ed9bd65e35904aafaab98e
+    locked_url: https://github.com/Jingyi-Wu-Richael/douyin-rule-check/commit/2ad679de9161f36712ed9bd65e35904aafaab98e
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: ZJU-REAL/Easel

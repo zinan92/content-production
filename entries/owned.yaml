@@ -1,5 +1,118 @@
-snapshot_id: github-universe-2026-10-02-star-refresh-01
+snapshot_id: github-universe-2026-10-19-star-refresh-01
 entries:
+- universe: content-production
+  repo: zinan92/park-video-sources
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-17T05:19:16Z'
+  tags:
+  - private
+  - python
+  - video
+  source_url: https://github.com/zinan92/park-video-sources
+  visibility: private
+  archived: false
+  description: Park 的视频/图片风格素材源汇总：每个来源一行，每个风格一类，一类一条样片
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: Park 的视频/图片风格素材源汇总：每个来源一行，每个风格一类，一类一条样片
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-17T09:35:22Z'
+- universe: content-production
+  repo: zinan92/video-shotcraft-snapshot
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-03T11:51:22Z'
+  tags:
+  - private
+  - typescript
+  - video
+  source_url: https://github.com/zinan92/video-shotcraft-snapshot
+  visibility: private
+  archived: false
+  description: video-shotcraft 2026-09-07 安装版的私有快照（原仓库已下线）
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: video-shotcraft 2026-09-07 安装版的私有快照（原仓库已下线）
+    license_spdx: Apache-2.0
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-03T12:00:57Z'
+- universe: content-production
+  repo: zinan92/park-video-v2
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-10-02T14:46:19Z'
+  tags:
+  - python
+  - video
+  source_url: https://github.com/zinan92/park-video-v2
+  visibility: public
+  archived: false
+  description: 口播视频加动效：AI 规划，脚本渲染与检查
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 口播视频加动效：AI 规划，脚本渲染与检查
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-18T11:22:13Z'
+- universe: content-production
+  repo: zinan92/video-shotcraft
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: video-production
+  catalog_added_at: '2026-09-28T12:18:26Z'
+  tags:
+  - product
+  - skill
+  - video
+  source_url: https://github.com/zinan92/video-shotcraft
+  visibility: public
+  archived: false
+  description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209
+    motion previews, a production-ready template'
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards,
+      209 motion previews, a production-ready template'
+    license_spdx: Apache-2.0
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-09-27T06:44:12Z'
 - universe: content-production
   repo: zinan92/park-koubo-workflow
   owned: true
@@ -56,6 +169,140 @@ entries:
     checked_at: '2026-09-14'
     pushed_at: '2026-03-29T08:43:15Z'
   catalog_added_at: '2026-03-19T13:54:08Z'
+- universe: content-production
+  repo: zinan92/ian-xiaohei-illustrations
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: visual-image-production
+  catalog_added_at: '2026-09-28T12:18:25Z'
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/zinan92/ian-xiaohei-illustrations
+  visibility: public
+  archived: false
+  description: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-09-24T22:14:01Z'
+- universe: content-production
+  repo: zinan92/topic-studio
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  catalog_added_at: '2026-10-14T03:14:24Z'
+  tags:
+  - private
+  - python
+  source_url: https://github.com/zinan92/topic-studio
+  visibility: private
+  archived: false
+  description: 选题工作台：帮博主每天找到选题，一路拿到口播稿
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 选题工作台：帮博主每天找到选题，一路拿到口播稿
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-19T04:40:46Z'
+- universe: content-production
+  repo: zinan92/content-studio-trial
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  catalog_added_at: '2026-10-08T09:09:20Z'
+  tags:
+  - private
+  - python
+  source_url: https://github.com/zinan92/content-studio-trial
+  visibility: private
+  archived: false
+  description: 销售演示专用的独立精简内容工作台；完整产品能力不随本仓库交付
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: 销售演示专用的独立精简内容工作台；完整产品能力不随本仓库交付
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-09T09:06:52Z'
+- universe: content-production
+  repo: zinan92/douyin-teardown
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  catalog_added_at: '2026-10-07T07:00:29Z'
+  tags:
+  - python
+  source_url: https://github.com/zinan92/douyin-teardown
+  visibility: public
+  archived: false
+  description: 一条抖音视频为什么爆。in 抖音链接 + 你的 cookies → out 点赞倍数 + 带时间戳的结构拆解 report.md。合并了 content-downloader + content-extractor
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 一条抖音视频为什么爆。in 抖音链接 + 你的 cookies → out 点赞倍数 + 带时间戳的结构拆解 report.md。合并了 content-downloader + content-extractor
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-07T07:42:53Z'
+- universe: content-production
+  repo: zinan92/content-studio-pro
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: content-acquisition
+  catalog_added_at: '2026-10-01T16:05:02Z'
+  tags:
+  - private
+  - python
+  source_url: https://github.com/zinan92/content-studio-pro
+  visibility: private
+  archived: false
+  description: Content Studio Pro：装在客户自己 Mac 上的内容部门（商业授权）
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: Content Studio Pro：装在客户自己 Mac 上的内容部门（商业授权）
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-02T02:13:12Z'
 - universe: content-production
   repo: zinan92/content-studio
   owned: true
@@ -247,6 +494,58 @@ entries:
     pushed_at: '2026-03-29T08:43:43Z'
   catalog_added_at: '2026-03-15T10:21:37Z'
 - universe: content-production
+  repo: zinan92/park-writing
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  catalog_added_at: '2026-10-13T02:10:11Z'
+  tags:
+  - python
+  source_url: https://github.com/zinan92/park-writing
+  visibility: public
+  archived: false
+  description: Park 的写作框架：一个流程、一张 9 项清单。in 口述 / SRT / 笔记 → out 框架卡 + 评分 + 逐字稿或定版框架，拍后只批注
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Park 的写作框架：一个流程、一张 9 项清单。in 口述 / SRT / 笔记 → out 框架卡 + 评分 + 逐字稿或定版框架，拍后只批注
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-17T13:25:04Z'
+- universe: content-production
+  repo: zinan92/park-content-frames
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: text-processing
+  catalog_added_at: '2026-10-05T04:17:16Z'
+  tags:
+  - private
+  source_url: https://github.com/zinan92/park-content-frames
+  visibility: private
+  archived: false
+  description: ''
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: private
+    archived: false
+    description: ''
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-11T13:26:14Z'
+- universe: content-production
   repo: zinan92/content-rewriter
   owned: true
   starred: false
@@ -272,3 +571,32 @@ entries:
     checked_at: '2026-09-14'
     pushed_at: '2026-04-01T04:51:21Z'
   catalog_added_at: '2026-03-30T07:48:57Z'
+- universe: content-production
+  repo: zinan92/gzh-design-skill
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: publishing-and-growth
+  catalog_added_at: '2026-09-28T12:18:23Z'
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/zinan92/gzh-design-skill
+  visibility: public
+  archived: false
+  description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready
+    WeChat article HTML.
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into
+      paste-ready WeChat article HTML.
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-07-08T13:32:08Z'
