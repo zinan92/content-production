@@ -4,7 +4,7 @@
 
 **Content Production 的 capability-first catalog：先按功能分类，再按加入时间从新到旧浏览。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-102%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-125%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 102-repo Content Production catalog, grouped by function and ordered newest-added first
+out 125-repo Content Production catalog, grouped by function and ordered newest-added first
 
 fail snapshot checksum mismatch → stop before publishing
 fail missing created_at / starred_at → stop; do not guess ordering
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-10-19-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -41,12 +41,25 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. | Starred | `2026-07-17` | `407eb61aec49` |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Starred | `2026-06-20` | `f772e498a45f` |
 
-### Video Production (36)
+### Video Production (49)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 \| Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts | Starred | `2026-10-19` | `9130f7e51054` |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」） | Starred | `2026-10-17` | `508848acb2b4` |
+| [Ucmp0001/video-production-skills](https://github.com/Ucmp0001/video-production-skills) | No description | Starred | `2026-10-17` | `ea682de6edf7` |
+| [zinan92/park-video-sources](https://github.com/zinan92/park-video-sources) | Park 的视频/图片风格素材源汇总：每个来源一行，每个风格一类，一类一条样片 | Owned | `2026-10-17` | `owned source` · PRIVATE |
+| [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。 | Starred | `2026-10-15` | `6ce26ca29281` |
+| [nutllwhy/code-brand-film](https://github.com/nutllwhy/code-brand-film) | 用代码生成 15 秒品牌宣传片的 Agent Skill（HyperFrames + GSAP + Python 合成配乐） | Starred | `2026-10-15` | `e65b2c72c4af` |
+| [nutllwhy/whiteboard-book-video-skill](https://github.com/nutllwhy/whiteboard-book-video-skill) | 白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染 | Starred | `2026-10-15` | `aac0295461f3` |
+| [nutllwhy/hyperframes-motion-library](https://github.com/nutllwhy/hyperframes-motion-library) | No description | Starred | `2026-10-15` | `fe59998fa3f2` |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 | Starred | `2026-10-10` | `8a0d7d72ca65` |
+| [zinan92/video-shotcraft-snapshot](https://github.com/zinan92/video-shotcraft-snapshot) | video-shotcraft 2026-09-07 安装版的私有快照（原仓库已下线） | Owned | `2026-10-03` | `owned source` · PRIVATE |
+| [zinan92/park-video-v2](https://github.com/zinan92/park-video-v2) | 口播视频加动效：AI 规划，脚本渲染与检查 | Owned | `2026-10-02` | `owned source` |
+| [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) | Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained. | Starred | `2026-10-02` | `e9c5ed99fb1f` |
 | [echris6/motion-video-kit](https://github.com/echris6/motion-video-kit) | Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts | Starred | `2026-10-01` | `255562b04b1e` |
 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. | Starred | `2026-10-01` | `3d54892e2ae5` |
+| [zinan92/video-shotcraft](https://github.com/zinan92/video-shotcraft) | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template | Owned | `2026-09-28` | `owned source` |
 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. | Starred | `2026-09-18` | `bbc46d3e6786` |
 | [vibe-motion/skills](https://github.com/vibe-motion/skills) | agent skills for vibe motion | Starred | `2026-09-18` | `cb3c905e4bc3` |
 | [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | Starred | `2026-09-13` | `1328feb58714` |
@@ -82,10 +95,11 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [zinan92/AI-videos](https://github.com/zinan92/AI-videos) | AI 虚拟人物换装 + 动作迁移 pipeline。in PNG + MP4 → out 成品视频 MP4 + JSON 日志 | Owned + Starred | `2026-03-19` | `owned source` |
 | [zinan92/videocut](https://github.com/zinan92/videocut) | AI 口播视频编辑。in 视频文件/目录 → out 去废话+字幕+金句+拆条+封面+变速 | Owned + Starred | `2026-02-25` | `owned source` · ARCHIVED |
 
-### Visual & Image Production (13)
+### Visual & Image Production (14)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [zinan92/ian-xiaohei-illustrations](https://github.com/zinan92/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill \| 16:9 白底手绘 \| 少量红橙蓝批注 \| Codex Skill | Owned | `2026-09-28` | `owned source` |
 | [yang0/handraw-style](https://github.com/yang0/handraw-style) | 手绘风格编号画廊与双语提示词 Skill | Starred | `2026-09-12` | `58dee6151874` |
 | [pyang5166/gbro-cover-design](https://github.com/pyang5166/gbro-cover-design) | 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性 | Starred | `2026-08-11` | `8d1a0a5487e9` |
 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 | Starred | `2026-07-10` | `cf26e194ce07` |
@@ -93,17 +107,21 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [orange2ai/orange-line-illustration](https://github.com/orange2ai/orange-line-illustration) | 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source. | Starred | `2026-07-09` | `f7e1f8444c18` |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | No description | Starred | `2026-07-09` | `1567581c26ec` |
 | [ponyodong2026/ponyo-cover-anchor-system](https://github.com/ponyodong2026/ponyo-cover-anchor-system) | Xiaohongshu cover design skill: information density × visual anchors | Starred | `2026-07-09` | `f03b7bc8c751` |
-| [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | GPT-Image-2 API and Prompts | Starred | `2026-06-04` | `e2a269ad1a05` |
+| [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) | GPT-Image-2 API and Prompts | Starred | `2026-06-04` | `e2a269ad1a05` |
 | [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill \| 16:9 白底手绘 \| 少量红橙蓝批注 \| Codex Skill | Starred | `2026-06-01` | `91b560849e8f` |
 | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create beautiful slides on the web using a coding agent's frontend skills | Starred | `2026-04-07` | `9906a34d640d` |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | Starred | `2026-03-30` | `a8d8ff717c5a` |
 | [pexoai/pexo-skills](https://github.com/pexoai/pexo-skills) | A collection of open-source Agent Skills for content creation — images, audio, and video. | Starred | `2026-03-25` | `f724267e45a0` |
 | [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | Official inference repo for FLUX.1 models | Starred | `2026-03-19` | `802fb4713906` |
 
-### Content Acquisition (25)
+### Content Acquisition (29)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [zinan92/topic-studio](https://github.com/zinan92/topic-studio) | 选题工作台：帮博主每天找到选题，一路拿到口播稿 | Owned | `2026-10-14` | `owned source` · PRIVATE |
+| [zinan92/content-studio-trial](https://github.com/zinan92/content-studio-trial) | 销售演示专用的独立精简内容工作台；完整产品能力不随本仓库交付 | Owned | `2026-10-08` | `owned source` · PRIVATE |
+| [zinan92/douyin-teardown](https://github.com/zinan92/douyin-teardown) | 一条抖音视频为什么爆。in 抖音链接 + 你的 cookies → out 点赞倍数 + 带时间戳的结构拆解 report.md。合并了 content-downloader + content-extractor | Owned | `2026-10-07` | `owned source` |
+| [zinan92/content-studio-pro](https://github.com/zinan92/content-studio-pro) | Content Studio Pro：装在客户自己 Mac 上的内容部门（商业授权） | Owned | `2026-10-01` | `owned source` · PRIVATE |
 | [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) | 小红书爬虫数据采集，小红书逆向，私信，直播，小红书全域运营解决方案 | Starred | `2026-09-26` | `ebb6c4fbeaed` |
 | [zinan92/content-studio](https://github.com/zinan92/content-studio) | No description | Owned | `2026-09-13` | `owned source` · PRIVATE |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | Starred | `2026-08-26` | `5108d021a173` |
@@ -130,10 +148,12 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [zinan92/douyin-downloader](https://github.com/zinan92/douyin-downloader) | 把抖音视频链接变成可读的 Markdown 文字稿。in 抖音 URL → out 分段格式化 .md 文件 | Owned + Starred | `2026-03-15` | `owned source` |
 | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do! | Starred | `2025-07-22` | `8f150ba8836d` |
 
-### Text Processing (9)
+### Text Processing (11)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [zinan92/park-writing](https://github.com/zinan92/park-writing) | Park 的写作框架：一个流程、一张 9 项清单。in 口述 / SRT / 笔记 → out 框架卡 + 评分 + 逐字稿或定版框架，拍后只批注 | Owned + Starred | `2026-10-13` | `owned source` |
+| [zinan92/park-content-frames](https://github.com/zinan92/park-content-frames) | No description | Owned | `2026-10-05` | `owned source` · PRIVATE |
 | [kaomei/x-baowen](https://github.com/kaomei/x-baowen) | 🚀 基于 X 榜单 Top 100 纯 AI 爆款长文逆向工程的写作外挂 \| 内嵌 100 篇高赞案例库、6 大交付模版与四级推力火箭 | Starred | `2026-09-13` | `b3b7bdfc480e` |
 | [nashsu/Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill) | 基于 11 个内容洞见维度的自媒体创作 Skill，适用于各种智能体 给它一个主题，它给你一篇完整的文章、5 个备选标题、以及每张配图的生成 prompt。 | Starred | `2026-07-09` | `1c76f891fb92` |
 | [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML. | Starred | `2026-07-09` | `ba1f4175519b` |
@@ -144,10 +164,13 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [imraywang/wewrite](https://github.com/imraywang/wewrite) | 公众号内容全流程 Skill，从热点抓取到微信草稿箱，一句话跑完整条内容管道 | Starred | `2026-03-31` | `a363da0d92d3` |
 | [zinan92/content-rewriter](https://github.com/zinan92/content-rewriter) | 跨平台内容改写。in 抖音转录/裸文本 → out 小红书笔记+公众号文章草稿 | Owned | `2026-03-30` | `owned source` |
 
-### Publishing & Growth (14)
+### Publishing & Growth (17)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [nutllwhy/wechat-style-tool](https://github.com/nutllwhy/wechat-style-tool) | 微信公众号样式工具 - 支持多种橙色系样式和图片边框转换 | Starred | `2026-10-15` | `ee53e4e9d108` |
+| [Jingyi-Wu-Richael/douyin-rule-check](https://github.com/Jingyi-Wu-Richael/douyin-rule-check) | 基于 2025 年 12 月更新的巨量星图官方规范，全方位检查视频的画面内容、文字文案以及口播语音，重点识别引导外流（如私下交易、第三方平台导流）和诱导下载等违规行为，适用于短视频发布前的合规性自检，降低因违规导致的限流或封禁风险。 | Starred | `2026-10-08` | `2ad679de9161` |
+| [zinan92/gzh-design-skill](https://github.com/zinan92/gzh-design-skill) | 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML. | Owned | `2026-09-28` | `owned source` |
 | [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) | An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。 | Starred | `2026-09-26` | `cfa17a638ad8` |
 | [geekjourneyx/obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat) | Obsidian → WeChat \| Obsidian 插件一键排版发布到微信公众号，键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 | Starred | `2026-09-09` | `0d17e5184027` |
 | [XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system. | Starred | `2026-07-10` | `d2d818f9a4c0` |
